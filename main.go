@@ -11,14 +11,29 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
+	"time"
 
 	"github.com/mattn/go-mastodon"
 )
 
+type IndexFile struct {
+	Statuses map[mastodon.ID]StatusEntry `json:"statuses"`
+}
+
+type StatusEntry struct {
+	ID        mastodon.ID `json:"id"`
+	Path      string      `json:"path"`
+	CreatedAt time.Time   `json:"created_at"`
+}
+
 func main() {
-	outputDir := os.Getenv("OUTPUT_DIR")
+	outputDir := os.Getenv("STATUS_OUTPUT_DIR")
 	if outputDir == "" {
 		outputDir = "statuses"
+	}
+	mediaOutputDir := os.Getenv("MEDIA_OUTPUT_DIR")
+	if mediaOutputDir == "" {
+		mediaOutputDir = "media"
 	}
 	config := &mastodon.Config{
 		Server:       os.Getenv("SERVER_ENDPOINT"),
@@ -28,12 +43,12 @@ func main() {
 	}
 	client := mastodon.NewClient(config)
 	ctx := context.Background()
-	if err := fetchUpdates(ctx, client, outputDir); err != nil {
+	if err := fetchUpdates(ctx, client, outputDir, mediaOutputDir); err != nil {
 		log.Fatal(err)
 	}
 }
 
-func fetchUpdates(ctx context.Context, client *mastodon.Client, outputDir string) error {
+func fetchUpdates(ctx context.Context, client *mastodon.Client, outputDir, mediaOutputDir string) error {
 	slog.Info("starting to fetch updates", "output-dir", outputDir)
 	defer slog.Info("finished fetching updates", "output-dir", outputDir)
 
@@ -42,8 +57,11 @@ func fetchUpdates(ctx context.Context, client *mastodon.Client, outputDir string
 		return err
 	}
 
+	statusIndex := map[mastodon.ID]StatusEntry{}
+
 	limit := int64(40)
 	var lastID mastodon.ID
+	var runningTotal int
 	for {
 		statuses, err := client.GetAccountStatuses(ctx, acct.ID, &mastodon.Pagination{
 			MaxID: lastID,
@@ -52,11 +70,13 @@ func fetchUpdates(ctx context.Context, client *mastodon.Client, outputDir string
 		if err != nil {
 			return err
 		}
-		slog.Info("processing more statuses", "count", len(statuses))
+		runningTotal += len(statuses)
+		slog.Info("processing more statuses", "count", len(statuses), "total", runningTotal)
 		for _, status := range statuses {
 			year, month, day := status.CreatedAt.Date()
 			basepath := filepath.Join(outputDir, fmt.Sprintf("%04d/%02d/%02d/%s", year, month, day, string(status.ID)))
-			if err := saveStatus(status, basepath); err != nil {
+			mediaBasepath := filepath.Join(mediaOutputDir, fmt.Sprintf("%04d/%02d/%02d/%s", year, month, day, string(status.ID)))
+			if err := saveStatus(status, basepath, mediaBasepath); err != nil {
 				return err
 			}
 
@@ -71,10 +91,17 @@ func fetchUpdates(ctx context.Context, client *mastodon.Client, outputDir string
 					if descendant.InReplyToID != string(status.ID) {
 						continue
 					}
-					if err := saveStatus(descendant, filepath.Join(basepath, "replies", string(descendant.ID))); err != nil {
+					prefix := filepath.Join(basepath, "replies", string(descendant.ID))
+					if err := saveStatus(descendant, prefix, mediaBasepath); err != nil {
 						return err
 					}
 				}
+			}
+
+			statusIndex[status.ID] = StatusEntry{
+				ID:        status.ID,
+				Path:      filepath.Join(basepath, "status.json"),
+				CreatedAt: status.CreatedAt,
 			}
 		}
 		if len(statuses) > 0 {
@@ -84,33 +111,44 @@ func fetchUpdates(ctx context.Context, client *mastodon.Client, outputDir string
 		}
 	}
 
+	indexBytes, err := json.MarshalIndent(IndexFile{Statuses: statusIndex}, "", "  ")
+	if err != nil {
+		return err
+	}
+	if err := os.WriteFile(filepath.Join(outputDir, "index.json"), indexBytes, 0644); err != nil {
+		return err
+	}
+
 	return nil
 }
 
-func saveStatus(status *mastodon.Status, prefix string) error {
+func saveStatus(status *mastodon.Status, prefix, mediaPrefix string) error {
 	if err := os.MkdirAll(prefix, 0700); err != nil {
+		return err
+	}
+	if err := os.MkdirAll(mediaPrefix, 0700); err != nil {
 		return err
 	}
 
 	if status.Card != nil && status.Card.Image != "" {
 		ext := filepath.Ext(status.Card.Image)
-		outputPath := filepath.Join(prefix, "card_image"+ext)
+		outputPath := filepath.Join(mediaPrefix, "card_image"+ext)
 		if err := saveMedia(status.Card.Image, outputPath); err != nil {
 			slog.Error("downloading cover image:", "error", err)
 		} else {
-			status.Card.Image = filepath.Base(outputPath)
+			status.Card.Image = outputPath
 		}
 	}
-	for _, mediaAttachment := range status.MediaAttachments {
+	for i, mediaAttachment := range status.MediaAttachments {
 		if mediaAttachment.RemoteURL == "" {
 			continue
 		}
 		ext := filepath.Ext(mediaAttachment.RemoteURL)
-		outputPath := filepath.Join(prefix, "media_attachment_"+string(mediaAttachment.ID)+ext)
+		outputPath := filepath.Join(mediaPrefix, "media_attachment_"+string(mediaAttachment.ID)+ext)
 		if err := saveMedia(mediaAttachment.RemoteURL, outputPath); err != nil {
 			slog.Error("downloading media:", "error", err)
 		} else {
-			mediaAttachment.URL = filepath.Base(outputPath)
+			status.MediaAttachments[i].URL = outputPath
 		}
 	}
 
