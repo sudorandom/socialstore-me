@@ -26,14 +26,31 @@ type StatusEntry struct {
 	CreatedAt time.Time   `json:"created_at"`
 }
 
+type Config struct {
+	StatusDir string
+	MediaDir  string
+}
+
+func (c Config) StatusPath(path string) string {
+	return filepath.Join(c.StatusDir, path)
+}
+
+func (c Config) MediaPath(path string) string {
+	return filepath.Join(c.MediaDir, path)
+}
+
 func main() {
-	outputDir := os.Getenv("STATUS_OUTPUT_DIR")
-	if outputDir == "" {
-		outputDir = "statuses"
+	statusDir := os.Getenv("STATUS_OUTPUT_DIR")
+	if statusDir == "" {
+		statusDir = "statuses"
 	}
-	mediaOutputDir := os.Getenv("MEDIA_OUTPUT_DIR")
-	if mediaOutputDir == "" {
-		mediaOutputDir = "media"
+	mediaDir := os.Getenv("MEDIA_OUTPUT_DIR")
+	if mediaDir == "" {
+		mediaDir = "media"
+	}
+	cfg := Config{
+		StatusDir: statusDir,
+		MediaDir:  mediaDir,
 	}
 	config := &mastodon.Config{
 		Server:       os.Getenv("SERVER_ENDPOINT"),
@@ -43,14 +60,14 @@ func main() {
 	}
 	client := mastodon.NewClient(config)
 	ctx := context.Background()
-	if err := fetchUpdates(ctx, client, outputDir, mediaOutputDir); err != nil {
+	if err := fetchUpdates(ctx, cfg, client); err != nil {
 		log.Fatal(err)
 	}
 }
 
-func fetchUpdates(ctx context.Context, client *mastodon.Client, outputDir, mediaOutputDir string) error {
-	slog.Info("starting to fetch updates", "output-dir", outputDir)
-	defer slog.Info("finished fetching updates", "output-dir", outputDir)
+func fetchUpdates(ctx context.Context, cfg Config, client *mastodon.Client) error {
+	slog.Info("starting to fetch updates", "status-dir", cfg.StatusDir, "media-dir", cfg.MediaDir)
+	defer slog.Info("finished fetching updates", "status-dir", cfg.StatusDir, "media-dir", cfg.MediaDir)
 
 	acct, err := client.GetAccountCurrentUser(context.Background())
 	if err != nil {
@@ -74,9 +91,8 @@ func fetchUpdates(ctx context.Context, client *mastodon.Client, outputDir, media
 		slog.Info("processing more statuses", "count", len(statuses), "total", runningTotal)
 		for _, status := range statuses {
 			year, month, day := status.CreatedAt.Date()
-			basepath := filepath.Join(outputDir, fmt.Sprintf("%04d/%02d/%02d/%s", year, month, day, string(status.ID)))
-			mediaBasepath := filepath.Join(mediaOutputDir, fmt.Sprintf("%04d/%02d/%02d/%s", year, month, day, string(status.ID)))
-			if err := saveStatus(status, basepath, mediaBasepath); err != nil {
+			basepath := filepath.Join(fmt.Sprintf("%04d/%02d/%02d/%s", year, month, day, string(status.ID)))
+			if err := saveStatus(cfg, status, basepath); err != nil {
 				return err
 			}
 
@@ -92,7 +108,7 @@ func fetchUpdates(ctx context.Context, client *mastodon.Client, outputDir, media
 						continue
 					}
 					prefix := filepath.Join(basepath, "replies", string(descendant.ID))
-					if err := saveStatus(descendant, prefix, mediaBasepath); err != nil {
+					if err := saveStatus(cfg, descendant, prefix); err != nil {
 						return err
 					}
 				}
@@ -115,40 +131,45 @@ func fetchUpdates(ctx context.Context, client *mastodon.Client, outputDir, media
 	if err != nil {
 		return err
 	}
-	if err := os.WriteFile(filepath.Join(outputDir, "index.json"), indexBytes, 0644); err != nil {
+	if err := os.WriteFile(filepath.Join(cfg.StatusPath("index.json")), indexBytes, 0644); err != nil {
 		return err
 	}
 
 	return nil
 }
 
-func saveStatus(status *mastodon.Status, prefix, mediaPrefix string) error {
-	if err := os.MkdirAll(prefix, 0700); err != nil {
+func saveStatus(cfg Config, status *mastodon.Status, prefix string) error {
+	if err := os.MkdirAll(cfg.StatusPath(prefix), 0700); err != nil {
 		return err
 	}
-	if err := os.MkdirAll(mediaPrefix, 0700); err != nil {
+	if err := os.MkdirAll(cfg.MediaPath(prefix), 0700); err != nil {
 		return err
 	}
 
 	if status.Card != nil && status.Card.Image != "" {
 		ext := filepath.Ext(status.Card.Image)
-		outputPath := filepath.Join(mediaPrefix, "card_image"+ext)
-		if err := saveMedia(status.Card.Image, outputPath); err != nil {
+		relPath := filepath.Join(prefix, "card_image"+ext)
+		if err := saveMedia(status.Card.Image, cfg.MediaPath(relPath)); err != nil {
 			slog.Error("downloading cover image:", "error", err)
 		} else {
-			status.Card.Image = outputPath
+			status.Card.Image = relPath
 		}
 	}
 	for i, mediaAttachment := range status.MediaAttachments {
-		if mediaAttachment.RemoteURL == "" {
+		url := mediaAttachment.URL
+		if mediaAttachment.RemoteURL != "" {
+			url = mediaAttachment.RemoteURL
+		}
+		if url == "" {
 			continue
 		}
-		ext := filepath.Ext(mediaAttachment.RemoteURL)
-		outputPath := filepath.Join(mediaPrefix, "media_attachment_"+string(mediaAttachment.ID)+ext)
-		if err := saveMedia(mediaAttachment.RemoteURL, outputPath); err != nil {
+		ext := filepath.Ext(url)
+		relPath := filepath.Join(prefix, "media_attachment_"+string(mediaAttachment.ID)+ext)
+		if err := saveMedia(url, cfg.MediaPath(relPath)); err != nil {
 			slog.Error("downloading media:", "error", err)
 		} else {
-			status.MediaAttachments[i].URL = outputPath
+			status.MediaAttachments[i].RemoteURL = url
+			status.MediaAttachments[i].URL = relPath
 		}
 	}
 
@@ -156,7 +177,8 @@ func saveStatus(status *mastodon.Status, prefix, mediaPrefix string) error {
 	if err != nil {
 		return err
 	}
-	if err := os.WriteFile(filepath.Join(prefix, "status.json"), b, 0644); err != nil {
+	relPath := filepath.Join(prefix, "status.json")
+	if err := os.WriteFile(cfg.StatusPath(relPath), b, 0644); err != nil {
 		return err
 	}
 	return nil
