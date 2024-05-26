@@ -16,15 +16,12 @@ import (
 )
 
 func main() {
-	if len(os.Args) != 2 {
-		log.Fatalf("usage: %s [SERVER_ENDPOINT]", filepath.Base(os.Args[0]))
-	}
 	outputDir := os.Getenv("OUTPUT_DIR")
 	if outputDir == "" {
 		outputDir = "statuses"
 	}
 	config := &mastodon.Config{
-		Server:       os.Args[0],
+		Server:       os.Getenv("SERVER_ENDPOINT"),
 		ClientID:     os.Getenv("OAUTH_CLIENT_ID"),
 		ClientSecret: os.Getenv("OAUTH_CLIENT_SECRET"),
 		AccessToken:  os.Getenv("OAUTH_ACCESS_TOKEN"),
@@ -37,7 +34,7 @@ func main() {
 }
 
 func fetchUpdates(ctx context.Context, client *mastodon.Client, outputDir string) error {
-	slog.Info("starting to fetch updated", "output-dir", outputDir)
+	slog.Info("starting to fetch updates", "output-dir", outputDir)
 	defer slog.Info("finished fetching updates", "output-dir", outputDir)
 
 	acct, err := client.GetAccountCurrentUser(context.Background())

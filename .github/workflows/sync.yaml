@@ -29,7 +29,6 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
-    environment: sync
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5
@@ -42,7 +41,8 @@ jobs:
             OAUTH_CLIENT_ID: ${{ secrets.OAUTH_CLIENT_ID }}
             OAUTH_CLIENT_SECRET: ${{ secrets.OAUTH_CLIENT_SECRET }}
             OAUTH_ACCESS_TOKEN: ${{ secrets.OAUTH_ACCESS_TOKEN }}
-        run: go run main.go ${{ secrets.SERVER_ENDPOINT }}
+            SERVER_ENDPOINT: ${{ secrets.SERVER_ENDPOINT }}
+        run: go run main.go
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
