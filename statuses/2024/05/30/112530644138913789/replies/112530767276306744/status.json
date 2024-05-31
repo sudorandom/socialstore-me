@@ -9,9 +9,9 @@
     "display_name": "Robert Birming",
     "locked": false,
     "created_at": "2024-05-04T00:00:00Z",
-    "followers_count": 35,
-    "following_count": 42,
-    "statuses_count": 461,
+    "followers_count": 37,
+    "following_count": 46,
+    "statuses_count": 465,
     "note": "\u003cp\u003eLove to read, write and take photos.\u003c/p\u003e",
     "url": "https://mastodon.world/@birming",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/112/388/339/719/003/400/original/1429590c88e48e28.jpeg",
@@ -29,7 +29,7 @@
       {
         "name": "Blog",
         "value": "\u003ca href=\"https://birming.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ebirming.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2024-05-27T23:11:53.264Z"
+        "verified_at": "2024-05-30T17:24:43.777Z"
       }
     ],
     "bot": false,
