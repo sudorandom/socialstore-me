@@ -102,12 +102,23 @@ func fetchUpdates(ctx context.Context, cfg Config, client *mastodon.Client) erro
 					return err
 				}
 
+				prefixes := map[string]string{}
+
 				for _, descendant := range context.Descendants {
 					// Note that we only care about direct descendants
-					if descendant.InReplyToID != string(status.ID) {
-						continue
+					var prefix string
+					if descendant.InReplyToID == string(status.ID) {
+						prefix = filepath.Join(basepath, "replies", string(descendant.ID))
+					} else {
+						inReplyToID := descendant.InReplyToID.(string)
+						parentPrefix, ok := prefixes[inReplyToID]
+						if !ok {
+							slog.Info("unable to parent reply", "in-reply-to", descendant.InReplyToID)
+							continue
+						}
+						prefix = filepath.Join(parentPrefix, "replies", string(descendant.ID))
 					}
-					prefix := filepath.Join(basepath, "replies", string(descendant.ID))
+					prefixes[string(descendant.ID)] = prefix
 					if err := saveStatus(cfg, descendant, prefix); err != nil {
 						return err
 					}
