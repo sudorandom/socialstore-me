@@ -1,7 +1,7 @@
 {
-  "id": "111449588266326606",
-  "uri": "https://infosec.exchange/users/sudorandom/statuses/111449588266326606",
-  "url": "https://infosec.exchange/@sudorandom/111449588266326606",
+  "id": "112564613471771545",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/112564613471771545",
+  "url": "https://infosec.exchange/@sudorandom/112564613471771545",
   "account": {
     "id": "109300069582362316",
     "username": "sudorandom",
@@ -45,12 +45,12 @@
   "in_reply_to_id": null,
   "in_reply_to_account_id": null,
   "reblog": null,
-  "content": "\u003cp\u003eAsteroids but the asteroids are files on your filesystem that get deleted on destruction. Bonus multiplier for running as admin/root.\u003c/p\u003e",
-  "created_at": "2023-11-21T16:55:58.458Z",
+  "content": "\u003cp\u003e📆 Daily Prompt [2024-06-05]: How do you show gratitude to your colleagues?\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev/prompts/2024-06-05/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev/prompts/2024-06-05/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr /\u003e\u003ca href=\"https://infosec.exchange/tags/dailyprompt\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003edailyprompt\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://infosec.exchange/tags/writing\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003ewriting\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://infosec.exchange/tags/softwareengineering\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003esoftwareengineering\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "created_at": "2024-06-05T15:01:32.868Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],
   "replies_count": 0,
-  "reblogs_count": 0,
+  "reblogs_count": 1,
   "favourites_count": 0,
   "reblogged": false,
   "favourited": false,
@@ -61,8 +61,37 @@
   "visibility": "public",
   "media_attachments": [],
   "mentions": [],
-  "tags": [],
-  "card": null,
+  "tags": [
+    {
+      "name": "dailyprompt",
+      "url": "https://infosec.exchange/tags/dailyprompt",
+      "history": null
+    },
+    {
+      "name": "writing",
+      "url": "https://infosec.exchange/tags/writing",
+      "history": null
+    },
+    {
+      "name": "softwareengineering",
+      "url": "https://infosec.exchange/tags/softwareengineering",
+      "history": null
+    }
+  ],
+  "card": {
+    "url": "https://kmcd.dev/prompts/2024-06-05/",
+    "title": "How do you show gratitude to your colleagues?",
+    "description": "Depth-first search into networking, programming, web development and random tech topics by a bored software engineer.",
+    "image": "",
+    "type": "link",
+    "author_name": "",
+    "author_url": "",
+    "provider_name": "kmcd.dev",
+    "provider_url": "",
+    "html": "",
+    "width": 0,
+    "height": 0
+  },
   "poll": null,
   "application": {
     "id": "",
