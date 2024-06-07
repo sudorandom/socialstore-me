@@ -55,13 +55,13 @@
       "display_name": "The Gibson",
       "locked": false,
       "created_at": "2017-11-11T00:00:00Z",
-      "followers_count": 14054,
-      "following_count": 1411,
-      "statuses_count": 3684,
+      "followers_count": 14059,
+      "following_count": 1412,
+      "statuses_count": 2769,
       "note": "\u003cp\u003eMayor of Hackers.town\u003c/p\u003e\u003cp\u003eHacker, VP of Ops at Veilid Foundation, Global Director of Threat Ops at (undisclosed), APT3319\u003c/p\u003e\u003cp\u003eA meat serf in a digital cropsharing arrangement.\u003c/p\u003e\u003cp\u003eA netizen of New Cyberia.\u003c/p\u003e\u003cp\u003ehe/him they/them\u003c/p\u003e\u003cp\u003eBoosts do not equal endorsement.\u003c/p\u003e",
       "url": "https://hackers.town/@thegibson",
-      "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/003/736/original/0c85962fb92efa1a.jpeg",
-      "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/003/736/original/0c85962fb92efa1a.jpeg",
+      "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/003/736/original/2c8e96c55322592e.webp",
+      "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/003/736/original/2c8e96c55322592e.webp",
       "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/000/003/736/original/32f0cd67494c02d0.jpeg",
       "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/000/003/736/original/32f0cd67494c02d0.jpeg",
       "emojis": [],
@@ -80,7 +80,7 @@
         {
           "name": "Me",
           "value": "\u003ca href=\"https://hackers.town/@thegibson\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ehackers.town/@thegibson\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2024-06-05T17:46:44.984Z"
+          "verified_at": "2024-06-07T00:44:06.583Z"
         },
         {
           "name": "Magic",
