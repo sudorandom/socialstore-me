@@ -9,9 +9,9 @@
     "display_name": "Kevin McDonald",
     "locked": false,
     "created_at": "2022-11-07T00:00:00Z",
-    "followers_count": 148,
+    "followers_count": 150,
     "following_count": 67,
-    "statuses_count": 442,
+    "statuses_count": 443,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://infosec.exchange/@sudorandom",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
@@ -137,8 +137,8 @@
       "source": null,
       "followed_tags": null
     },
-    "in_reply_to_id": "109320087904786544",
-    "in_reply_to_account_id": "109310133391445932",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
     "reblog": null,
     "content": "\u003cp\u003e\u003cspan class=\"h-card\"\u003e\u003ca href=\"https://raspberrypi.social/@Raspberry_Pi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003eRaspberry_Pi\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e I've used a Raspberry Pi 4 to control my \u003ca href=\"https://social.networkingnomad.net/tags/astrophotography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eastrophotography\u003c/span\u003e\u003c/a\u003e setup for the past 18 months or so. Your computers have enabled some photos like these:\u003c/p\u003e",
     "created_at": "2022-11-10T15:26:35Z",
@@ -248,14 +248,7 @@
         }
       }
     ],
-    "mentions": [
-      {
-        "url": "https://raspberrypi.social/@Raspberry_Pi",
-        "username": "Raspberry_Pi",
-        "acct": "Raspberry_Pi@raspberrypi.social",
-        "id": "109310133391445932"
-      }
-    ],
+    "mentions": [],
     "tags": [
       {
         "name": "astrophotography",
