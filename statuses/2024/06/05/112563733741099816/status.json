@@ -9,9 +9,9 @@
     "display_name": "Kevin McDonald",
     "locked": false,
     "created_at": "2022-11-07T00:00:00Z",
-    "followers_count": 153,
+    "followers_count": 154,
     "following_count": 67,
-    "statuses_count": 472,
+    "statuses_count": 473,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://infosec.exchange/@sudorandom",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
@@ -114,9 +114,9 @@
       {
         "id": "112560499692652897",
         "type": "image",
-        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/112/560/499/692/652/897/original/1af3484de384bb43.png",
+        "url": "https://infosec.exchange/media_proxy/112560499692652897/original",
         "remote_url": "https://cdn.masto.host/socelnet/media_attachments/files/112/560/496/172/338/933/original/6f3b44651a60771b.png",
-        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/112/560/499/692/652/897/small/1af3484de384bb43.png",
+        "preview_url": "https://infosec.exchange/media_proxy/112560499692652897/small",
         "text_url": "",
         "description": "",
         "meta": {
@@ -137,9 +137,9 @@
       {
         "id": "112560499761564816",
         "type": "image",
-        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/112/560/499/761/564/816/original/239491bd537e3218.png",
+        "url": "https://infosec.exchange/media_proxy/112560499761564816/original",
         "remote_url": "https://cdn.masto.host/socelnet/media_attachments/files/112/560/497/327/124/670/original/7df4af05ac6b8a4e.png",
-        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/112/560/499/761/564/816/small/239491bd537e3218.png",
+        "preview_url": "https://infosec.exchange/media_proxy/112560499761564816/small",
         "text_url": "",
         "description": "",
         "meta": {
