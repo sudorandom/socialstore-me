@@ -114,9 +114,9 @@
       {
         "id": "112560499692652897",
         "type": "image",
-        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/112/560/499/692/652/897/original/dca45962505193a5.png",
+        "url": "https://infosec.exchange/media_proxy/112560499692652897/original",
         "remote_url": "https://cdn.masto.host/socelnet/media_attachments/files/112/560/496/172/338/933/original/6f3b44651a60771b.png",
-        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/112/560/499/692/652/897/small/dca45962505193a5.png",
+        "preview_url": "https://infosec.exchange/media_proxy/112560499692652897/small",
         "text_url": "",
         "description": "",
         "meta": {
@@ -137,9 +137,9 @@
       {
         "id": "112560499761564816",
         "type": "image",
-        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/112/560/499/761/564/816/original/eff94945365ae59e.png",
+        "url": "https://infosec.exchange/media_proxy/112560499761564816/original",
         "remote_url": "https://cdn.masto.host/socelnet/media_attachments/files/112/560/497/327/124/670/original/7df4af05ac6b8a4e.png",
-        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/112/560/499/761/564/816/small/eff94945365ae59e.png",
+        "preview_url": "https://infosec.exchange/media_proxy/112560499761564816/small",
         "text_url": "",
         "description": "",
         "meta": {
