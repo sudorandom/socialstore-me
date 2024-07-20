@@ -1,7 +1,7 @@
 {
-  "id": "112788840845530939",
-  "uri": "https://lazybear.social/users/hyde/statuses/112788840772074426",
-  "url": "https://lazybear.social/@hyde/112788840772074426",
+  "id": "112813928381073840",
+  "uri": "https://lazybear.social/users/hyde/statuses/112813928218677761",
+  "url": "https://lazybear.social/@hyde/112813928218677761",
   "account": {
     "id": "152850",
     "username": "hyde",
@@ -55,18 +55,18 @@
     "source": null,
     "followed_tags": null
   },
-  "in_reply_to_id": "112779785055118456",
+  "in_reply_to_id": "112813761370479573",
   "in_reply_to_account_id": "109300069582362316",
   "reblog": null,
-  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e about \u003ca href=\"https://lazybear.social/tags/zettelkasten\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003ezettelkasten\u003c/span\u003e\u003c/a\u003e which is a great way to take notes\u003c/p\u003e",
-  "created_at": "2024-07-15T05:25:29Z",
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e vim/neovim without hesitation :)\u003c/p\u003e",
+  "created_at": "2024-07-19T15:45:34Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],
   "replies_count": 0,
   "reblogs_count": 0,
-  "favourites_count": 1,
+  "favourites_count": 0,
   "reblogged": false,
-  "favourited": true,
+  "favourited": false,
   "bookmarked": false,
   "muted": false,
   "sensitive": false,
@@ -81,13 +81,7 @@
       "id": "109300069582362316"
     }
   ],
-  "tags": [
-    {
-      "name": "zettelkasten",
-      "url": "https://infosec.exchange/tags/zettelkasten",
-      "history": null
-    }
-  ],
+  "tags": [],
   "card": null,
   "poll": null,
   "application": {
