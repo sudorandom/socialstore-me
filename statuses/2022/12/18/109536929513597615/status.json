@@ -74,8 +74,8 @@
         },
         {
           "name": "GitHub",
-          "value": "\u003ca href=\"https://github.com/muesli\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/muesli\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "0001-01-01T00:00:00Z"
+          "value": "\u003ca href=\"https://github.com/muesli\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/muesli\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "2024-08-03T16:45:47.813Z"
         },
         {
           "name": "Photos",
@@ -84,8 +84,8 @@
         },
         {
           "name": "In German",
-          "value": "\u003ca href=\"https://mastodon.social/@muesli\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emastodon.social/@muesli\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "0001-01-01T00:00:00Z"
+          "value": "\u003ca href=\"https://mastodon.social/@muesli\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emastodon.social/@muesli\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "2024-08-03T16:45:48.556Z"
         }
       ],
       "bot": false,
