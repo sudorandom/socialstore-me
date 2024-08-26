@@ -1,0 +1,86 @@
+{
+  "id": "113029805548621874",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/113029805548621874",
+  "url": "https://infosec.exchange/@sudorandom/113029805548621874",
+  "account": {
+    "id": "109300069582362316",
+    "username": "sudorandom",
+    "acct": "sudorandom",
+    "display_name": "Kevin McDonald",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 181,
+    "following_count": 70,
+    "statuses_count": 597,
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@sudorandom",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Languages",
+        "value": "English, Danish (beginner)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Interests",
+        "value": "programming, doing weird things with data, video games, board games",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-05-25T17:40:09.733Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "113028941482642537",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003eI\u0026#39;m still really excited for the reach my blog has gotten. My consistent writing hasn\u0026#39;t been easy but if I go back and read the earlier posts from oldest to most recent I see a dramatic improvement in technical depth, writing style, length, focus, etc. My recent posts are dramatically better, in my opinion. So back to the question, I\u0026#39;m excited about many of the ideas that I still have. I\u0026#39;m excited to jump into websockets, the guts of HTTP/2, QUIC and HTTP/3.\u003c/p\u003e\u003cp\u003eI\u0026#39;m also excited to expand what I\u0026#39;m doing with protoc-gen-connect-openapi. OpenAPI has in-app documentation tooling, so why can\u0026#39;t protobuf?\u003c/p\u003e\u003cp\u003eAnd with FauxRPC, I\u0026#39;m excited to flesh the project out. I need to write a few articles showing how to use it as a Go library, set up stub responses, and start work on some new features. I have an idea of writing a protobuf editor that instantly makes a mock server as you type the protobuf. If that wasn\u0026#39;t enough, I also want to make something that takes a set of stub requests and responses in JSON and generates protobuf out of them.\u003c/p\u003e\u003cp\u003eI\u0026#39;m also excited to get trailer support finished for servers in quic-go. I think it\u0026#39;s in a pretty good state, but still needs more reviewing. I know there are parallel efforts for implementing QUIC into the Go standard library but it\u0026#39;s super exciting to be the one to first enable gRPC over HTTP/3 in Go.\u003c/p\u003e",
+  "created_at": "2024-08-26T18:46:00.642Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": false,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
