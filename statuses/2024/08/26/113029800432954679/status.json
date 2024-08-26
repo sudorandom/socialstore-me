@@ -1,7 +1,7 @@
 {
-  "id": "112746423500638596",
-  "uri": "https://infosec.exchange/users/sudorandom/statuses/112746423500638596",
-  "url": "https://infosec.exchange/@sudorandom/112746423500638596",
+  "id": "113029800432954679",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/113029800432954679",
+  "url": "https://infosec.exchange/@sudorandom/113029800432954679",
   "account": {
     "id": "109300069582362316",
     "username": "sudorandom",
@@ -42,11 +42,11 @@
     "source": null,
     "followed_tags": null
   },
-  "in_reply_to_id": "112712120551129517",
-  "in_reply_to_account_id": "109300069582362316",
+  "in_reply_to_id": null,
+  "in_reply_to_account_id": null,
   "reblog": null,
-  "content": "\u003cp\u003eA little late on this one. I am taking my vacation this month... I actually already started it. So my goals for this month is to detach from work (professional and my side efforts). I do get obsessive over my work and I will go through cycles of burnout and I suspect my vacation is coming at a pretty great time.\u003c/p\u003e",
-  "created_at": "2024-07-07T17:38:13.746Z",
+  "content": "\u003cp\u003eI\u0026#39;m still really excited for the reach my blog has gotten. My consistent writing hasn\u0026#39;t been easy but if I go back and read the earlier posts from oldest to most recent I see a dramatic improvement in technical depth, writing style, length, focus, etc. My recent posts are dramatically better, in my opinion. So back to the question, I\u0026#39;m excited about many of the ideas that I still have. I\u0026#39;m excited to jump into websockets, the guts of HTTP/2, QUIC and HTTP/3.\u003c/p\u003e\u003cp\u003eI\u0026#39;m also excited to expand what I\u0026#39;m doing with protoc-gen-connect-openapi. OpenAPI has in-app documentation tooling, so why can\u0026#39;t protobuf?\u003c/p\u003e\u003cp\u003eAnd with FauxRPC, I\u0026#39;m excited to flesh the project out. I need to write a few articles showing how to use it as a Go library, set up stub responses, and start work on some new features. I have an idea of writing a protobuf editor that instantly makes a mock server as you type the protobuf. If that wasn\u0026#39;t enough, I also want to make something that takes a set of stub requests and responses in JSON and generates protobuf out of them.\u003c/p\u003e\u003cp\u003eI\u0026#39;m also excited to get trailer support finished for servers in quic-go. I think it\u0026#39;s in a pretty good state, but still needs more reviewing. I know there are parallel efforts for implementing QUIC into the Go standard library but it\u0026#39;s super exciting to be the one to first enable gRPC over HTTP/3 in Go.\u003c/p\u003e",
+  "created_at": "2024-08-26T18:44:42.585Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],
   "replies_count": 0,
