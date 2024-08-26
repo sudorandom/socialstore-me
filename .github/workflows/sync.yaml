@@ -1,0 +1,49 @@
+name: Synchronize all statuses (and direct replies) to the repo
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "30 5,14 * * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "sync"
+  cancel-in-progress: false
+
+# Default to bash
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
+
+      - name: Run mastodon sync
+        env:
+            OUTPUT_DIR: "statuses"
+            OAUTH_CLIENT_ID: ${{ secrets.OAUTH_CLIENT_ID }}
+            OAUTH_CLIENT_SECRET: ${{ secrets.OAUTH_CLIENT_SECRET }}
+            OAUTH_ACCESS_TOKEN: ${{ secrets.OAUTH_ACCESS_TOKEN }}
+            SERVER_ENDPOINT: ${{ secrets.SERVER_ENDPOINT }}
+        run: go run main.go
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update Mastodon

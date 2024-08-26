@@ -1,0 +1,83 @@
+{
+  "id": "111958262464830447",
+  "uri": "https://freesoftwareextremist.com/objects/e9c4dfdd-1a06-40b3-881f-79879b6231e5",
+  "url": "https://freesoftwareextremist.com/objects/e9c4dfdd-1a06-40b3-881f-79879b6231e5",
+  "account": {
+    "id": "108243120243414914",
+    "username": "Suiseiseki",
+    "acct": "Suiseiseki@freesoftwareextremist.com",
+    "display_name": "翠星石",
+    "locked": false,
+    "created_at": "2022-05-04T00:00:00Z",
+    "followers_count": 289,
+    "following_count": 33,
+    "statuses_count": 11622,
+    "note": "Free software extremist who enjoys freedom and posting ですぅ.\u003cbr\u003e\u003cbr\u003ePlease don't confuse me with an \"open source\" supporter ですぅ.\u003cbr\u003e\u003cbr\u003eGNU+Jihad against proprietary and \"open source\" software ですぅぅぅぅぅぅ!!!\u003cbr\u003e\u003cbr\u003eですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅですぅ",
+    "url": "https://freesoftwareextremist.com/users/Suiseiseki",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/108/243/120/243/414/914/original/55a37d48d3e55a5c.webp",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/108/243/120/243/414/914/original/55a37d48d3e55a5c.webp",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/108/243/120/243/414/914/original/bd9c34ab9c336ee7.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/108/243/120/243/414/914/original/bd9c34ab9c336ee7.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "111958247133981611",
+  "in_reply_to_account_id": "3",
+  "reblog": null,
+  "content": "\u003cspan class=\"h-card\"\u003e\u003ca class=\"u-url mention\" href=\"https://infosec.exchange/@sudorandom\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e I would argue searching for \"google\" and then typing in a search term as a question is more common, although the first search can be followed by a misspelled word the built in browser spell checker suggests.\u003cbr\u003e\u003cbr\u003eI use GNU aspell for spell checking myself - no matter how much I butcher the word, it very accurately works out which spelling I want.",
+  "created_at": "2024-02-19T12:58:26.861Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@jerry",
+      "username": "jerry",
+      "acct": "jerry",
+      "id": "3"
+    },
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

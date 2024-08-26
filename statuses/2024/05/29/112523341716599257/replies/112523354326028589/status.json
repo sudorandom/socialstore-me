@@ -1,0 +1,88 @@
+{
+  "id": "112523354326028589",
+  "uri": "https://infosec.exchange/users/hula/statuses/112523354326028589",
+  "url": "https://infosec.exchange/@hula/112523354326028589",
+  "account": {
+    "id": "111068332685354960",
+    "username": "hula",
+    "acct": "hula",
+    "display_name": "hula",
+    "locked": false,
+    "created_at": "2023-09-15T00:00:00Z",
+    "followers_count": -1,
+    "following_count": 244,
+    "statuses_count": 52,
+    "note": "\u003cp\u003eSitting in a lounge chair at the crossroad of security and privacy drinking what I can only hope isn\u0026#39;t the latest corporate Kool-Aid\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://infosec.exchange/tags/nobridge\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003enobridge\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@hula",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/111/068/332/685/354/960/original/e55bf625cf6ad569.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/111/068/332/685/354/960/original/e55bf625cf6ad569.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/111/068/332/685/354/960/original/4ad8bdaae0d0f4eb.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/111/068/332/685/354/960/original/4ad8bdaae0d0f4eb.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Title",
+        "value": "Metadatadatanörd",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Pets",
+        "value": "A dog",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "112523341716599257",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e I can do sock, shoe, sock, etc too, but what really trips me up is pants.\u003c/p\u003e",
+  "created_at": "2024-05-29T08:08:48.266Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "sv",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

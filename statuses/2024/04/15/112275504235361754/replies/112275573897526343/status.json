@@ -1,0 +1,83 @@
+{
+  "id": "112275573897526343",
+  "uri": "https://c.im/users/matdevdug/statuses/112275573879734485",
+  "url": "https://c.im/@matdevdug/112275573879734485",
+  "account": {
+    "id": "109315082071853305",
+    "username": "matdevdug",
+    "acct": "matdevdug@c.im",
+    "display_name": "matdevdug",
+    "locked": false,
+    "created_at": "2022-10-29T00:00:00Z",
+    "followers_count": 943,
+    "following_count": 446,
+    "statuses_count": 820,
+    "note": "\u003cp\u003eSecurity/Devops engineer. Moved from Chicago to Denmark. I’m an expert on nothing but I’m trying.\u003c/p\u003e",
+    "url": "https://c.im/@matdevdug",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/315/082/071/853/305/original/fc4b79d2cdfb1369.jpeg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/315/082/071/853/305/original/fc4b79d2cdfb1369.jpeg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/315/082/071/853/305/original/a09b6b2c242bbcc8.jpeg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/315/082/071/853/305/original/a09b6b2c242bbcc8.jpeg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Blog",
+        "value": "\u003ca href=\"https://matduggan.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ematduggan.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-08-24T00:07:42.918Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "112275504235361754",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e As long as your laptop is a Steam Deck.\u003c/p\u003e",
+  "created_at": "2024-04-15T13:54:58Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

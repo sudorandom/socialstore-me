@@ -1,0 +1,113 @@
+{
+  "id": "109410489015047432",
+  "uri": "https://infosec.exchange/users/cydave/statuses/109410489015047432",
+  "url": "https://infosec.exchange/@cydave/109410489015047432",
+  "account": {
+    "id": "109291588048870866",
+    "username": "cydave",
+    "acct": "cydave",
+    "display_name": "Dave",
+    "locked": false,
+    "created_at": "2022-11-05T00:00:00Z",
+    "followers_count": 83,
+    "following_count": 111,
+    "statuses_count": 98,
+    "note": "\u003cp\u003eSecurity Engineer | Clicker of Links | Pusher of Buttons | Cat Dad\u003c/p\u003e",
+    "url": "https://infosec.exchange/@cydave",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/291/588/048/870/866/original/22f9afe82fdaacd7.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/291/588/048/870/866/original/22f9afe82fdaacd7.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/291/588/048/870/866/original/e147f720e452cda6.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/291/588/048/870/866/original/e147f720e452cda6.jpg",
+    "emojis": [
+      {
+        "shortcode": "twitter",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/028/655/static/6dcf2d301873413b.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/028/655/original/6dcf2d301873413b.png",
+        "visible_in_picker": true
+      },
+      {
+        "shortcode": "github",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/029/258/static/1ca6336cc1d505ad.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/029/258/original/1ca6336cc1d505ad.png",
+        "visible_in_picker": true
+      }
+    ],
+    "moved": null,
+    "fields": [
+      {
+        "name": ":twitter:",
+        "value": "\u003ca href=\"https://twitter.com/_cydave\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etwitter.com/_cydave\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": ":github:",
+        "value": "\u003ca href=\"https://github.com/cydave\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/cydave\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2023-12-28T09:13:51.169Z"
+      },
+      {
+        "name": "✍️​",
+        "value": "\u003ca href=\"https://0dave.ch/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003e0dave.ch/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-02-11T08:28:43.043Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "109410485742944202",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e I don't think you're missing anything, me personally I like complaining about the Go standard library a bunch :blobcat:​\u003c/p\u003e\u003cp\u003eEdit: \u003cem\u003ecough\u003c/em\u003e\u003c/p\u003e",
+  "created_at": "2022-11-26T14:06:13.104Z",
+  "edited_at": "2022-11-26T14:13:15.971Z",
+  "emojis": [
+    {
+      "shortcode": "blobcat",
+      "static_url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/028/153/static/8a85e1dbde05805d.png",
+      "url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/028/153/original/8a85e1dbde05805d.png",
+      "visible_in_picker": true
+    }
+  ],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

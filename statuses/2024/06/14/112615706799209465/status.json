@@ -1,0 +1,86 @@
+{
+  "id": "112615706799209465",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/112615706799209465",
+  "url": "https://infosec.exchange/@sudorandom/112615706799209465",
+  "account": {
+    "id": "109300069582362316",
+    "username": "sudorandom",
+    "acct": "sudorandom",
+    "display_name": "Kevin McDonald",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 181,
+    "following_count": 70,
+    "statuses_count": 595,
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@sudorandom",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Languages",
+        "value": "English, Danish (beginner)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Interests",
+        "value": "programming, doing weird things with data, video games, board games",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-05-25T17:40:09.733Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "112615576834453077",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e1. My wife: shes my partner and best friend and has always done so much for me.\u003cbr /\u003e2. My daughter: She\u0026#39;s extremely amazing and I feel lucky enough to witness her grow up.\u003cbr /\u003e3. Ability to move to Denmark. For most people it seems insane for a family of Texans to move to Denmark with no other family or social roots but it has been an amazing move. It is sometimes very challenging but we\u0026#39;ve gained so much from the move.\u003c/p\u003e\u003cp\u003eFor anyone considering making a similar move, being in a different country doesn\u0026#39;t suddenly change you. You have to be willing to put in work to change yourself. I learned how to ride a bike, walk more than I ever have in my life, am learning Danish, was obsessed with cultural differences that might become issues for a couple years (that definitely fades over time as you adapt to things). I think the attitude you bring into this really matters. All of your problems will still be there. Okay, I\u0026#39;m going to make a long-form post about this. I\u0026#39;ll shut up about this for now.\u003c/p\u003e\u003cp\u003e4. I\u0026#39;m super thankful that I appear to still be good at software engineering. It has enabled an absolutely insane lifestyle while living in the United States and the capital for us to relocate countries without a lot of worry about money or job opportunities. I do, often, feel like an imposter but I feel like as long as I keep fearlessly tackling the unknown I will keep my skills sharp enough for whatever will come.\u003c/p\u003e",
+  "created_at": "2024-06-14T15:35:15.172Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": false,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

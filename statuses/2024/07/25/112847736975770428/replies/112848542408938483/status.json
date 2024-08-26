@@ -1,0 +1,123 @@
+{
+  "id": "112848542408938483",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/112848542408938483",
+  "url": "https://infosec.exchange/@sudorandom/112848542408938483",
+  "account": {
+    "id": "109300069582362316",
+    "username": "sudorandom",
+    "acct": "sudorandom",
+    "display_name": "Kevin McDonald",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 181,
+    "following_count": 70,
+    "statuses_count": 595,
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@sudorandom",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Languages",
+        "value": "English, Danish (beginner)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Interests",
+        "value": "programming, doing weird things with data, video games, board games",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-05-25T17:40:09.733Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "112847736975770428",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003eI recently had a lunch/movie date with my wife and went to an Indian restaurant at a nearby mall because that\u0026#39;s where the movie was being shown. The restaurant is called \u0026quot;Nameste\u0026quot; located in the Fisketorvet mall and the food was amazing. We also sat next to the window overlooking the harbor and were amazed at how wonderful our city looks.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://www.westfield.com/en/denmark/fisketorvet/restaurants-detail/namaste/80417\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ewestfield.com/en/denmark/fiske\u003c/span\u003e\u003cspan class=\"invisible\"\u003etorvet/restaurants-detail/namaste/80417\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "created_at": "2024-07-25T18:28:24.626Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [
+    {
+      "id": "112848537047097665",
+      "type": "image",
+      "url": "2024/07/25/112847736975770428/replies/112848542408938483/media_attachment_112848537047097665.png",
+      "remote_url": "https://media.infosec.exchange/infosec.exchange/media_attachments/files/112/848/537/047/097/665/original/acadbdca3aa1a270.png",
+      "preview_url": "https://media.infosec.exchange/infosec.exchange/media_attachments/files/112/848/537/047/097/665/small/acadbdca3aa1a270.png",
+      "text_url": "",
+      "description": "",
+      "meta": {
+        "original": {
+          "width": 1663,
+          "height": 1247,
+          "size": "1663x1247",
+          "aspect": 1.3336006415396953
+        },
+        "small": {
+          "width": 554,
+          "height": 415,
+          "size": "554x415",
+          "aspect": 1.3349397590361445
+        }
+      }
+    }
+  ],
+  "mentions": [],
+  "tags": [],
+  "card": {
+    "url": "https://www.westfield.com/en/denmark/fisketorvet/restaurants-detail/namaste/80417",
+    "title": "NAMASTE Restaurant | Fisketorvet Copenhagen Mall",
+    "description": "Discover the NAMASTE restaurant at Fisketorvet Shopping Center\n",
+    "image": "",
+    "type": "link",
+    "author_name": "",
+    "author_url": "",
+    "provider_name": "",
+    "provider_url": "",
+    "html": "",
+    "width": 1080,
+    "height": 378
+  },
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": false,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

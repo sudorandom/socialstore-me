@@ -1,0 +1,212 @@
+{
+  "id": "112421561334330730",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/112421561334330730/activity",
+  "url": "https://infosec.exchange/users/sudorandom/statuses/112421561334330730/activity",
+  "account": {
+    "id": "109300069582362316",
+    "username": "sudorandom",
+    "acct": "sudorandom",
+    "display_name": "Kevin McDonald",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 181,
+    "following_count": 70,
+    "statuses_count": 595,
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@sudorandom",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Languages",
+        "value": "English, Danish (beginner)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Interests",
+        "value": "programming, doing weird things with data, video games, board games",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-05-25T17:40:09.733Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": null,
+  "in_reply_to_account_id": null,
+  "reblog": {
+    "id": "112418391241918562",
+    "uri": "https://social.lol/users/cory/statuses/112418391050866652",
+    "url": "https://social.lol/@cory/112418391050866652",
+    "account": {
+      "id": "109606268322256674",
+      "username": "cory",
+      "acct": "cory@social.lol",
+      "display_name": "Cory :prami_pride_demi:",
+      "locked": false,
+      "created_at": "2022-12-31T00:00:00Z",
+      "followers_count": 911,
+      "following_count": 388,
+      "statuses_count": 10383,
+      "note": "\u003cp\u003eHusband, dad, developer, music nerd.\u003c/p\u003e\u003cp\u003eEngineering, music, automation, general nerdery, \u003ca href=\"https://social.lol/tags/tattoos\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003etattoos\u003c/span\u003e\u003c/a\u003e and rescue dogs.\u003c/p\u003e\u003cp\u003eI post about web development (typically front end, front of the front end, \u003ca href=\"https://social.lol/tags/Eleventy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eEleventy\u003c/span\u003e\u003c/a\u003e, \u003ca href=\"https://social.lol/tags/JavaScript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eJavaScript\u003c/span\u003e\u003c/a\u003e and so forth), privacy and music (\u003ca href=\"https://social.lol/tags/DeathMetal\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eDeathMetal\u003c/span\u003e\u003c/a\u003e, \u003ca href=\"https://social.lol/tags/BlackMetal\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eBlackMetal\u003c/span\u003e\u003c/a\u003e, \u003ca href=\"https://social.lol/tags/Grindcore\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eGrindcore\u003c/span\u003e\u003c/a\u003e, \u003ca href=\"https://social.lol/tags/Emo\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eEmo\u003c/span\u003e\u003c/a\u003e, \u003ca href=\"https://social.lol/tags/Punk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003ePunk\u003c/span\u003e\u003c/a\u003e et al).\u003c/p\u003e\u003cp\u003ePronouns: he/him/his\u003c/p\u003e",
+      "url": "https://social.lol/@cory",
+      "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/606/268/322/256/674/original/1101e80a7d00376d.jpeg",
+      "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/606/268/322/256/674/original/1101e80a7d00376d.jpeg",
+      "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/606/268/322/256/674/original/53499180808e27f4.png",
+      "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/606/268/322/256/674/original/53499180808e27f4.png",
+      "emojis": [
+        {
+          "shortcode": "prami_pride_demi",
+          "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/174/726/static/77fee3ce5276cb0d.png",
+          "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/174/726/original/77fee3ce5276cb0d.png",
+          "visible_in_picker": true
+        }
+      ],
+      "moved": null,
+      "fields": [
+        {
+          "name": "🏡",
+          "value": "\u003ca href=\"https://coryd.dev\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "name": "🎧",
+          "value": "\u003ca href=\"https://coryd.dev/music\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev/music\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "name": "📖",
+          "value": "\u003ca href=\"https://coryd.dev/feeds\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev/feeds\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "name": "💻",
+          "value": "\u003ca href=\"https://github.com/cdransf\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/cdransf\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "2024-08-23T20:00:11.812Z"
+        }
+      ],
+      "bot": false,
+      "discoverable": true,
+      "source": null,
+      "followed_tags": null
+    },
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "reblog": null,
+    "content": "\u003cp\u003e📝: Against the commercial internet \u003ca href=\"https://social.lol/tags/Tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eTech\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.lol/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eAI\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.lol/tags/SocialMedia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eSocialMedia\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://coryd.dev/posts/2024/against-the-commercial-web/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ecoryd.dev/posts/2024/against-t\u003c/span\u003e\u003cspan class=\"invisible\"\u003ehe-commercial-web/\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "created_at": "2024-05-10T19:15:15Z",
+    "edited_at": "0001-01-01T00:00:00Z",
+    "emojis": [],
+    "replies_count": 2,
+    "reblogs_count": 10,
+    "favourites_count": 1,
+    "reblogged": true,
+    "favourited": true,
+    "bookmarked": false,
+    "muted": false,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "tech",
+        "url": "https://infosec.exchange/tags/tech",
+        "history": null
+      },
+      {
+        "name": "ai",
+        "url": "https://infosec.exchange/tags/ai",
+        "history": null
+      },
+      {
+        "name": "socialmedia",
+        "url": "https://infosec.exchange/tags/socialmedia",
+        "history": null
+      }
+    ],
+    "card": {
+      "url": "https://coryd.dev/posts/2024/against-the-commercial-web/",
+      "title": "Against the commercial internet",
+      "description": "It's been mind-boggling to watch the commercial internet accelerate in an ever more user-hostile direction over the last year and change. It's no longer about offering users a \"free\" service in exchange for their data — companies now want everything.",
+      "image": "",
+      "type": "link",
+      "author_name": "",
+      "author_url": "",
+      "provider_name": "",
+      "provider_url": "",
+      "html": "",
+      "width": 1200,
+      "height": 630
+    },
+    "poll": null,
+    "application": {
+      "id": "",
+      "redirect_uri": "",
+      "client_id": "",
+      "client_secret": ""
+    },
+    "language": "en",
+    "pinned": null,
+    "params": {
+      "application_id": "",
+      "idempotency": "",
+      "in_reply_to_id": null,
+      "media_ids": null,
+      "poll": null,
+      "sensitive": false,
+      "spoiler_text": "",
+      "text": "",
+      "visibility": ""
+    }
+  },
+  "content": "",
+  "created_at": "2024-05-11T08:41:30.478Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

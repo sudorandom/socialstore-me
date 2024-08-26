@@ -1,0 +1,99 @@
+{
+  "id": "112445817287325461",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/112445817287325461",
+  "url": "https://infosec.exchange/@sudorandom/112445817287325461",
+  "account": {
+    "id": "109300069582362316",
+    "username": "sudorandom",
+    "acct": "sudorandom",
+    "display_name": "Kevin McDonald",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 181,
+    "following_count": 70,
+    "statuses_count": 595,
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@sudorandom",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Languages",
+        "value": "English, Danish (beginner)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Interests",
+        "value": "programming, doing weird things with data, video games, board games",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-05-25T17:40:09.733Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "112440097903861797",
+  "in_reply_to_account_id": "110950222511272818",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://hachyderm.io/@thudfactor\" class=\"u-url mention\"\u003e@\u003cspan\u003ethudfactor\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://shellsharks.social/@shellsharks\" class=\"u-url mention\"\u003e@\u003cspan\u003eshellsharks\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e As someone who uses github and cloudflare for my site, I totally agree. For me, the freedom and ownership comes from controlling my domain. I can switch to anywhere else if I want.\u003c/p\u003e\u003cp\u003eBut also where is the natural place to stop? Do we really want indieweb to be synonymous with \u0026quot;fails if it gets somewhat relatively popular\u0026quot; because everyone is running their website on an underpowered home server? You also don\u0026#39;t own the fiber optic cables that connect you to an Internet exchange point so are you TRULY indieweb if you rely on an ISP? The gatekeeping becomes pretty silly extremely quickly.\u003c/p\u003e",
+  "created_at": "2024-05-15T15:30:06.948Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 2,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://hachyderm.io/@thudfactor",
+      "username": "thudfactor",
+      "acct": "thudfactor@hachyderm.io",
+      "id": "110950222511272818"
+    },
+    {
+      "url": "https://shellsharks.social/@shellsharks",
+      "username": "shellsharks",
+      "acct": "shellsharks@shellsharks.social",
+      "id": "112139363910006502"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": false,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

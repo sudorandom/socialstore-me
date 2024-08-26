@@ -1,0 +1,111 @@
+{
+  "id": "112395772840766734",
+  "uri": "https://techhub.social/users/CiscoJunkie/statuses/112395772791302008",
+  "url": "https://techhub.social/@CiscoJunkie/112395772791302008",
+  "account": {
+    "id": "109468672258396284",
+    "username": "CiscoJunkie",
+    "acct": "CiscoJunkie@techhub.social",
+    "display_name": "Ryan Clough",
+    "locked": true,
+    "created_at": "2022-11-23T00:00:00Z",
+    "followers_count": 88,
+    "following_count": 134,
+    "statuses_count": 1933,
+    "note": "\u003cp\u003eNetwork engineer and computer tinkerer.\u003c/p\u003e\u003cp\u003eI'm agender, so if you're interested in following my non-tech journey, definitely follow that account: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://lgbtqia.space/@internet_ryan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003einternet_ryan\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+    "url": "https://techhub.social/@CiscoJunkie",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/468/672/258/396/284/original/453226fd831b2240.jpeg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/468/672/258/396/284/original/453226fd831b2240.jpeg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/468/672/258/396/284/original/00019a14a67e73b3.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/468/672/258/396/284/original/00019a14a67e73b3.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Pronouns",
+        "value": "They/Them",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Linktree",
+        "value": "\u003ca href=\"https://linktr.ee/ryanmclough\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elinktr.ee/ryanmclough\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Location",
+        "value": "Bothell, WA, United States of America",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "GitHub",
+        "value": "\u003ca href=\"https://github.com/CiscoJunkie\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/CiscoJunkie\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-08-20T22:49:33.744Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "112395091455032665",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Here are some software-focused folks I follow:\u003cbr\u003e\u003ca href=\"https://mastodon.sdf.org/@machaddr\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emastodon.sdf.org/@machaddr\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://mastodon.online/@drewdaniels\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emastodon.online/@drewdaniels\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://puddle.town/@null\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epuddle.town/@null\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://fosstodon.org/@shawnhooper\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003efosstodon.org/@shawnhooper\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://mastodon.online/@SelfDrivingCarp\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003emastodon.online/@SelfDrivingCa\u003c/span\u003e\u003cspan class=\"invisible\"\u003erp\u003c/span\u003e\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://tilde.zone/@tdback\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etilde.zone/@tdback\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://infosec.exchange/@codinghorror\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003einfosec.exchange/@codinghorror\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://glasgow.social/@sue\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eglasgow.social/@sue\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://hachyderm.io/@marcua\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ehachyderm.io/@marcua\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://infosec.exchange/@AlicornSkyler\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003einfosec.exchange/@AlicornSkyle\u003c/span\u003e\u003cspan class=\"invisible\"\u003er\u003c/span\u003e\u003c/a\u003e\u003cbr\u003eApologies if you already follow some of those folks; I did not de-dupe this with your follow list.\u003c/p\u003e",
+  "created_at": "2024-05-06T19:23:08Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": {
+    "url": "https://mastodon.sdf.org/@machaddr",
+    "title": "André Machado (@machaddr@mastodon.sdf.org)",
+    "description": "7 Posts, 988 Following, 65 Followers · 💾 Software Programmer \u0026 Retro Computing Enthusiast\r\n🔌 Electronics and Low-Level Lover\r\n📚 Culture \u0026 Knowledge Seeker\r\n📖 Bookworm\r\n\r\n🚧 Under Construction Projects:\r\n\r\n🐧 Libero GNU/Linux: Fast and Secure GNU/Linux 👉 https://libero.eu.org\r\n📰 OpenJournal: Headlines from the Future 👉 https://openjournal.eu.org\r\n✉️ Falanet: Fast Webmail for Everyone 👉 https://falanet.org\r\n🌀 Psychedelics: Research and Scientific Forum 👉 https://psychedelics.eu.org\r\n🏠 My Blog: 👉 https://machaddr.substack.com",
+    "image": "",
+    "type": "link",
+    "author_name": "",
+    "author_url": "",
+    "provider_name": "Mastodon @ SDF",
+    "provider_url": "",
+    "html": "",
+    "width": 400,
+    "height": 400
+  },
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

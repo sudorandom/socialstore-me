@@ -1,0 +1,120 @@
+{
+  "id": "112967483267694254",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/112967483267694254",
+  "url": "https://infosec.exchange/@sudorandom/112967483267694254",
+  "account": {
+    "id": "109300069582362316",
+    "username": "sudorandom",
+    "acct": "sudorandom",
+    "display_name": "Kevin McDonald",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 181,
+    "following_count": 70,
+    "statuses_count": 595,
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@sudorandom",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Languages",
+        "value": "English, Danish (beginner)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Interests",
+        "value": "programming, doing weird things with data, video games, board games",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-05-25T17:40:09.733Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": null,
+  "in_reply_to_account_id": null,
+  "reblog": null,
+  "content": "\u003cp\u003eCalling those who use gRPC or any protobuf-based services.\u003c/p\u003e\u003cp\u003eI’m looking for feedback on a project related to connectrpc that I’ve spun up recently. The idea is to use vanguard and some tedious protobuf dynamic/reflection code to make a server that conforms to given protobuf specs but with fake data.\u003c/p\u003e\u003cp\u003eThe idea is that you can design the service with protobuf and before any service written you can start on UI work just to see what it looks like.\u003c/p\u003e\u003cp\u003eI have a working version where everything is random but I figured it’d be nice to add a mode where you can supply stubs as well via a service or configuration. One of the benefits of doing it this way is to support gRPC/gRPC-Web/Connect and HTTP API (if you have google.api.http annotations) all at once with extremely little effort (no protoc plugin, you just start the server with protobuf descriptors). Also, I want to use protovalidate constraints to make the random data look closer to what it should.\u003c/p\u003e\u003cp\u003eHere\u0026#39;s the project, it\u0026#39;s called FauxRPC: \u003ca href=\"https://github.com/sudorandom/fauxrpc\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/sudorandom/fauxrpc\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eAny thoughts? Comments? Do you think this is useful, and if not, is there something to make it more useful for you?\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://infosec.exchange/tags/grpc\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003egrpc\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://infosec.exchange/tags/protobuf\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eprotobuf\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://infosec.exchange/tags/programming\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eprogramming\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://infosec.exchange/tags/api\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eapi\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "created_at": "2024-08-15T18:36:38.103Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [],
+  "tags": [
+    {
+      "name": "grpc",
+      "url": "https://infosec.exchange/tags/grpc",
+      "history": null
+    },
+    {
+      "name": "protobuf",
+      "url": "https://infosec.exchange/tags/protobuf",
+      "history": null
+    },
+    {
+      "name": "programming",
+      "url": "https://infosec.exchange/tags/programming",
+      "history": null
+    },
+    {
+      "name": "api",
+      "url": "https://infosec.exchange/tags/api",
+      "history": null
+    }
+  ],
+  "card": {
+    "url": "https://github.com/sudorandom/fauxrpc",
+    "title": "GitHub - sudorandom/fauxrpc: Easily start a fake gRPC/gRPC-Web/Connect/REST server from protobufs",
+    "description": "Easily start a fake gRPC/gRPC-Web/Connect/REST server from protobufs - sudorandom/fauxrpc",
+    "image": "",
+    "type": "link",
+    "author_name": "",
+    "author_url": "",
+    "provider_name": "GitHub",
+    "provider_url": "",
+    "html": "",
+    "width": 1200,
+    "height": 600
+  },
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": false,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

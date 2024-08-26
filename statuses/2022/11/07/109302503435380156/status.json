@@ -1,0 +1,123 @@
+{
+  "id": "109302503435380156",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/109302503435380156",
+  "url": "https://infosec.exchange/@sudorandom/109302503435380156",
+  "account": {
+    "id": "109300069582362316",
+    "username": "sudorandom",
+    "acct": "sudorandom",
+    "display_name": "Kevin McDonald",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 181,
+    "following_count": 70,
+    "statuses_count": 595,
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@sudorandom",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Languages",
+        "value": "English, Danish (beginner)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Interests",
+        "value": "programming, doing weird things with data, video games, board games",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-05-25T17:40:09.733Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": null,
+  "in_reply_to_account_id": null,
+  "reblog": null,
+  "content": "\u003cp\u003eThis is a visualization of the sun\u0026#39;s spectra. The dark lines are how we know what the sun is made of through spectrum analysis. Because certain elements can absorb specific wavelengths of light that means that there are certain colors that are less bright than others. Further, this means that there are actually small holes in the rainbow!\u003c/p\u003e\u003cp\u003eThis image was generated using Python and data provided by NREL: \u003ca href=\"https://www.nrel.gov/grid/solar-resource/spectra.html\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003enrel.gov/grid/solar-resource/s\u003c/span\u003e\u003cspan class=\"invisible\"\u003epectra.html\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eSource code: \u003ca href=\"https://github.com/sudorandom/sun-fingerprint\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003egithub.com/sudorandom/sun-fing\u003c/span\u003e\u003cspan class=\"invisible\"\u003eerprint\u003c/span\u003e\u003c/a\u003e\u003cbr /\u003eMore info: \u003ca href=\"https://scied.ucar.edu/image/sun-spectrum\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003escied.ucar.edu/image/sun-spect\u003c/span\u003e\u003cspan class=\"invisible\"\u003erum\u003c/span\u003e\u003c/a\u003e\u003cbr /\u003ePortfolio: \u003ca href=\"https://sudorandom.dev/portfolio/sun-spectra-v2/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003esudorandom.dev/portfolio/sun-s\u003c/span\u003e\u003cspan class=\"invisible\"\u003epectra-v2/\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "created_at": "2022-11-07T12:24:03.927Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 1,
+  "favourites_count": 2,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [
+    {
+      "id": "109302493242770248",
+      "type": "image",
+      "url": "2022/11/07/109302503435380156/media_attachment_109302493242770248.jpeg",
+      "remote_url": "https://media.infosec.exchange/infosec.exchange/media_attachments/files/109/302/493/242/770/248/original/a9b938089a97e901.jpeg",
+      "preview_url": "https://media.infosec.exchange/infosec.exchange/media_attachments/files/109/302/493/242/770/248/small/a9b938089a97e901.jpeg",
+      "text_url": "",
+      "description": "",
+      "meta": {
+        "original": {
+          "width": 1217,
+          "height": 1704,
+          "size": "1217x1704",
+          "aspect": 0.7142018779342723
+        },
+        "small": {
+          "width": 338,
+          "height": 473,
+          "size": "338x473",
+          "aspect": 0.7145877378435518
+        }
+      }
+    }
+  ],
+  "mentions": [],
+  "tags": [],
+  "card": {
+    "url": "https://www.nrel.gov/grid/solar-resource/spectra.html",
+    "title": "Solar Spectra",
+    "description": "",
+    "image": "",
+    "type": "link",
+    "author_name": "",
+    "author_url": "",
+    "provider_name": "",
+    "provider_url": "",
+    "html": "",
+    "width": 0,
+    "height": 0
+  },
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": false,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

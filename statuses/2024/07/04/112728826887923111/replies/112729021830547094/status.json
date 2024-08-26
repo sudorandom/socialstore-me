@@ -1,0 +1,98 @@
+{
+  "id": "112729021830547094",
+  "uri": "https://social.vivaldi.net/users/zombiewarrior/statuses/112729021388196774",
+  "url": "https://social.vivaldi.net/@zombiewarrior/112729021388196774",
+  "account": {
+    "id": "112493621912476620",
+    "username": "zombiewarrior",
+    "acct": "zombiewarrior@vivaldi.net",
+    "display_name": "zombiewarrior",
+    "locked": false,
+    "created_at": "2024-05-24T00:00:00Z",
+    "followers_count": 54,
+    "following_count": 192,
+    "statuses_count": 2370,
+    "note": "\u003cp\u003ethe world's most cynical man\u003cbr\u003e(no one's driving)\u003c/p\u003e",
+    "url": "https://social.vivaldi.net/@zombiewarrior",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/112/493/621/912/476/620/original/6a50ce67d4a30fe7.jpeg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/112/493/621/912/476/620/original/6a50ce67d4a30fe7.jpeg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/112/493/621/912/476/620/original/b56ce110f7e97421.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/112/493/621/912/476/620/original/b56ce110f7e97421.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Microsoft Windows",
+        "value": "sucks",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Linux",
+        "value": "sucks",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Macintosh OSX/IOS",
+        "value": "sucks",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "BSD",
+        "value": "sucks",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "112728826887923111",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e installing debian\u003c/p\u003e",
+  "created_at": "2024-07-04T15:52:38Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

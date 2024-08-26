@@ -1,0 +1,98 @@
+{
+  "id": "112417565230331820",
+  "uri": "https://defcon.social/users/canterberry/statuses/112417565162640197",
+  "url": "https://defcon.social/@canterberry/112417565162640197",
+  "account": {
+    "id": "110645900673015698",
+    "username": "canterberry",
+    "acct": "canterberry@defcon.social",
+    "display_name": "Devin Canterberry",
+    "locked": false,
+    "created_at": "2023-07-02T00:00:00Z",
+    "followers_count": 43,
+    "following_count": 75,
+    "statuses_count": 438,
+    "note": "",
+    "url": "https://defcon.social/@canterberry",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/645/900/673/015/698/original/9e0816298612153a.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/645/900/673/015/698/original/9e0816298612153a.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/110/645/900/673/015/698/original/09953f6231e7fffe.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/110/645/900/673/015/698/original/09953f6231e7fffe.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Original Music",
+        "value": "\u003ca href=\"https://twuni.net/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etwuni.net/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Pronouns",
+        "value": "He / Him",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Profession",
+        "value": "Software Engineer (Generalist)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Location",
+        "value": "Seattle, WA",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "112417534581180484",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e chatgpt\u003cbr\u003ehonorable mention: blockchain\u003c/p\u003e",
+  "created_at": "2024-05-10T15:45:13Z",
+  "edited_at": "2024-05-10T15:45:33Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 1,
+  "favourites_count": 2,
+  "reblogged": true,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

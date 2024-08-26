@@ -1,0 +1,98 @@
+{
+  "id": "112530645866216041",
+  "uri": "https://techhub.social/users/CiscoJunkie/statuses/112530645838983201",
+  "url": "https://techhub.social/@CiscoJunkie/112530645838983201",
+  "account": {
+    "id": "109468672258396284",
+    "username": "CiscoJunkie",
+    "acct": "CiscoJunkie@techhub.social",
+    "display_name": "Ryan Clough",
+    "locked": true,
+    "created_at": "2022-11-23T00:00:00Z",
+    "followers_count": 88,
+    "following_count": 134,
+    "statuses_count": 1933,
+    "note": "\u003cp\u003eNetwork engineer and computer tinkerer.\u003c/p\u003e\u003cp\u003eI'm agender, so if you're interested in following my non-tech journey, definitely follow that account: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://lgbtqia.space/@internet_ryan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003einternet_ryan\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+    "url": "https://techhub.social/@CiscoJunkie",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/468/672/258/396/284/original/453226fd831b2240.jpeg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/468/672/258/396/284/original/453226fd831b2240.jpeg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/468/672/258/396/284/original/00019a14a67e73b3.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/468/672/258/396/284/original/00019a14a67e73b3.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Pronouns",
+        "value": "They/Them",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Linktree",
+        "value": "\u003ca href=\"https://linktr.ee/ryanmclough\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elinktr.ee/ryanmclough\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Location",
+        "value": "Bothell, WA, United States of America",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "GitHub",
+        "value": "\u003ca href=\"https://github.com/CiscoJunkie\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/CiscoJunkie\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-08-20T22:49:33.744Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "112528605786478473",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Step 0 for me has always been \"Has this been done before?\" If I dive in and find I need something custom, then so be it, but that research usually informs me of problems or caveats I wasn't even aware of.\u003c/p\u003e",
+  "created_at": "2024-05-30T15:03:07Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "110777705614115158",
+  "uri": "https://mastodon.social/users/jimleonardo/statuses/110777705600127087",
+  "url": "https://mastodon.social/@jimleonardo/110777705600127087",
+  "account": {
+    "id": "110061313867828510",
+    "username": "jimleonardo",
+    "acct": "jimleonardo@mastodon.social",
+    "display_name": "jimleonardo",
+    "locked": false,
+    "created_at": "2023-03-16T00:00:00Z",
+    "followers_count": 20,
+    "following_count": 23,
+    "statuses_count": 114,
+    "note": "\u003cp\u003eI am a hands-on software development leader with 20+ years of experience. My side projects are focused on blogging about and playing with tech.\u003c/p\u003e\u003cp\u003eFind my writings at both \u003ca href=\"https://www.jimsrules.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ejimsrules.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e (software development topics) and \u003ca href=\"https://www.jimleonardo.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ejimleonardo.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e (fiction and anything else).\u003c/p\u003e",
+    "url": "https://mastodon.social/@jimleonardo",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/061/313/867/828/510/original/74a76f06fd9db004.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/061/313/867/828/510/original/74a76f06fd9db004.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/110/061/313/867/828/510/original/903aabcdb8ae2e0e.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/110/061/313/867/828/510/original/903aabcdb8ae2e0e.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Tech \u0026 Software Dev Website",
+        "value": "\u003ca href=\"https://www.jimsrules.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ejimsrules.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-07-06T19:26:52.54Z"
+      },
+      {
+        "name": "Fiction Website",
+        "value": "\u003ca href=\"https://jimleonardo.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ejimleonardo.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "LinkedIn",
+        "value": "\u003ca href=\"https://www.linkedin.com/in/jimleonardo/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003elinkedin.com/in/jimleonardo/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "110776435468889961",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Intriguing start. Are you looking for specific feedback or just general? On the general side, you could try to set the hook a little harder for the reader in that first post. Maybe add something specific in the mention of the training that makes this sound unique?\u003c/p\u003e",
+  "created_at": "2023-07-26T01:07:22Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

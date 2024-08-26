@@ -1,0 +1,223 @@
+{
+  "id": "109409473356908095",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/109409473356908095/activity",
+  "url": "https://infosec.exchange/users/sudorandom/statuses/109409473356908095/activity",
+  "account": {
+    "id": "109300069582362316",
+    "username": "sudorandom",
+    "acct": "sudorandom",
+    "display_name": "Kevin McDonald",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 181,
+    "following_count": 70,
+    "statuses_count": 595,
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@sudorandom",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Languages",
+        "value": "English, Danish (beginner)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Interests",
+        "value": "programming, doing weird things with data, video games, board games",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-05-25T17:40:09.733Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": null,
+  "in_reply_to_account_id": null,
+  "reblog": {
+    "id": "109406047267417223",
+    "uri": "https://chaos.social/users/gsuberland/statuses/109406047105100887",
+    "url": "https://chaos.social/@gsuberland/109406047105100887",
+    "account": {
+      "id": "108199440420430431",
+      "username": "gsuberland",
+      "acct": "gsuberland@chaos.social",
+      "display_name": "Graham Sutherland / Polynomial",
+      "locked": false,
+      "created_at": "2022-04-26T00:00:00Z",
+      "followers_count": 5241,
+      "following_count": 788,
+      "statuses_count": 37284,
+      "note": "\u003cp\u003ehe/him\u003c/p\u003e\u003cp\u003eInto electronics, windows internals, cryptography, security, high speed networking, compute hardware, physics, colourimetry, lasers, stage lighting, D\u0026amp;B, DJing, demoscene, socialism.\u003c/p\u003e\u003cp\u003eHeavily ADHD.\u003c/p\u003e\u003cp\u003eLaser team @ EMF Camp, lasers \u0026amp; lighting orga @ NOVA Demoparty.\u003c/p\u003e\u003cp\u003eI sell parody warning stickers at Unsafe Warnings: \u003ca href=\"https://unsafewarnings.etsy.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eunsafewarnings.etsy.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eFor a day job I hack stuff, I guess. Embedded tech, ICS/SCADA, marine stuff, x86 platforms, etc.\u003c/p\u003e\u003cp\u003eAll posts encrypted with ROT256-ECB.\u003c/p\u003e",
+      "url": "https://chaos.social/@gsuberland",
+      "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/108/199/440/420/430/431/original/bb471b67b70e8a1c.jpg",
+      "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/108/199/440/420/430/431/original/bb471b67b70e8a1c.jpg",
+      "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/108/199/440/420/430/431/original/0e3f9262dd48df8b.jpg",
+      "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/108/199/440/420/430/431/original/0e3f9262dd48df8b.jpg",
+      "emojis": [],
+      "moved": null,
+      "fields": [
+        {
+          "name": "Web",
+          "value": "\u003ca href=\"https://poly.nomial.co.uk\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epoly.nomial.co.uk\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "2024-08-23T19:51:39.734Z"
+        },
+        {
+          "name": "Blog",
+          "value": "\u003ca href=\"https://codeinsecurity.wordpress.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecodeinsecurity.wordpress.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "name": "Stickers ⚠",
+          "value": "\u003ca href=\"https://unsafewarnings.etsy.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eunsafewarnings.etsy.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "name": "Streaming",
+          "value": "\u003ca href=\"https://twitch.tv/gsuberland\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etwitch.tv/gsuberland\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "0001-01-01T00:00:00Z"
+        }
+      ],
+      "bot": false,
+      "discoverable": true,
+      "source": null,
+      "followed_tags": null
+    },
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "reblog": null,
+    "content": "\u003cp\u003eif you've ever messed up a dimension or a hole position on something you're building, don't be too hard on yourself.\u003c/p\u003e\u003cp\u003eat least you're not the Cisco design engineer who caused an entire product line recall by placing the mode button (which resets the switch if held) directly above an RJ45 port.\u003c/p\u003e",
+    "created_at": "2022-11-25T19:16:34Z",
+    "edited_at": "0001-01-01T00:00:00Z",
+    "emojis": [],
+    "replies_count": 143,
+    "reblogs_count": 965,
+    "favourites_count": 248,
+    "reblogged": true,
+    "favourited": true,
+    "bookmarked": false,
+    "muted": false,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "media_attachments": [
+      {
+        "id": "109406047164573776",
+        "type": "image",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/406/047/164/573/776/original/a5b1613700f8a1a7.jpg",
+        "remote_url": "https://assets.chaos.social/media_attachments/files/109/406/013/793/351/730/original/da3803bec6cbff70.jpg",
+        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/406/047/164/573/776/small/a5b1613700f8a1a7.jpg",
+        "text_url": "",
+        "description": "3D drawing of a Cisco network switch indicating a design flaw. The mode button on the front of the switch is placed directly above an RJ45 port. When a cable is plugged in, the lip of the protective boot (strain relief) that covers the retaining clip on the RJ45 connector presses the button.",
+        "meta": {
+          "original": {
+            "width": 685,
+            "height": 468,
+            "size": "685x468",
+            "aspect": 1.4636752136752136
+          },
+          "small": {
+            "width": 581,
+            "height": 397,
+            "size": "581x397",
+            "aspect": 1.4634760705289673
+          }
+        }
+      },
+      {
+        "id": "109406047190771989",
+        "type": "image",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/406/047/190/771/989/original/5033066abeeec1a1.webp",
+        "remote_url": "https://assets.chaos.social/media_attachments/files/109/406/031/039/700/085/original/f69224ef7ec8a545.webp",
+        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/406/047/190/771/989/small/5033066abeeec1a1.webp",
+        "text_url": "",
+        "description": "Side on drawing of a Cisco network switch indicating a design flaw. The protective boot on the RJ45 connector is pressing the mode button above the port.",
+        "meta": {
+          "original": {
+            "width": 685,
+            "height": 401,
+            "size": "685x401",
+            "aspect": 1.7082294264339153
+          },
+          "small": {
+            "width": 627,
+            "height": 367,
+            "size": "627x367",
+            "aspect": 1.7084468664850136
+          }
+        }
+      }
+    ],
+    "mentions": [],
+    "tags": [],
+    "card": null,
+    "poll": null,
+    "application": {
+      "id": "",
+      "redirect_uri": "",
+      "client_id": "",
+      "client_secret": ""
+    },
+    "language": "en",
+    "pinned": null,
+    "params": {
+      "application_id": "",
+      "idempotency": "",
+      "in_reply_to_id": null,
+      "media_ids": null,
+      "poll": null,
+      "sensitive": false,
+      "spoiler_text": "",
+      "text": "",
+      "visibility": ""
+    }
+  },
+  "content": "",
+  "created_at": "2022-11-26T09:47:55.393Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

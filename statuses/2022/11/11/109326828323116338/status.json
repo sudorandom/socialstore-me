@@ -1,0 +1,93 @@
+{
+  "id": "109326828323116338",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/109326828323116338",
+  "url": "https://infosec.exchange/@sudorandom/109326828323116338",
+  "account": {
+    "id": "109300069582362316",
+    "username": "sudorandom",
+    "acct": "sudorandom",
+    "display_name": "Kevin McDonald",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 181,
+    "following_count": 70,
+    "statuses_count": 595,
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@sudorandom",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Languages",
+        "value": "English, Danish (beginner)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Interests",
+        "value": "programming, doing weird things with data, video games, board games",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-05-25T17:40:09.733Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "109326735037538513",
+  "in_reply_to_account_id": "109322236508469288",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://c.im/@undercoverdane\" class=\"u-url mention\"\u003e@\u003cspan\u003eundercoverdane\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e hah, wow. We moved away from DFW for all the same reasons  that you did except we’ve been vegetarians on and off and haven’t completely kicked the habit of burgers and barbecue. Atheist, liberal, anti gun, etc. I’ll elaborate below… and sorry for how long this is. Blame mastodon for allowing me to type this much!\u003c/p\u003e\u003cp\u003eBut here’s kind of the breakdown from our side. I worked for Apple making close to silicon valley money but in Dallas… which is very nice. We had a very wonderful lifestyle while saving a lot of money. My wife and I ended up having a daughter and we were basically set with life. Except… we constantly felt the class differences. We had our daughter going to a private school which costs a lot of money each month and we saw that she just was never going to ever see people of different socioeconomic statuses than her. This seriously feels sounds awful to type out in this way but I really did feel bad about my daughter having such a dramatically different and privileged life than that of her peers… and we don’t want to send her to public school when she gets old enough to because of school shootings and just the general roll of the dice that you get when attending public school in the US (and especially Texas). So we were set on moving somewhere that doesn’t have nearly as much separation between upper middle class and lower class. There were other criteria as well, but that one was probably the most important to me. As you can probably tell, we’ve gone further and further left and think that it’s impossible for billionaires to exist without the exploitation of many, many people.\u003c/p\u003e\u003cp\u003eSo we settled on Denmark. We liked what we knew of the education system. We liked the public infrastructure and biking culture. We liked how health care was done (which was also a stressor in the US, despite having good health insurance). We even like the general attitude of Danes which you mentioned. Keeping to yourself and respecting other’s privacy and not bothering them is a type of kindness that I appreciate greatly. And I’m an introvert so that’s fine as well. I like the direct communication that comes from Danes a lot of the time. But anyway, that’s why we’re here. Our runner up was actually The Netherlands. It was close but there were a couple things we liked better about Denmark… including the remarkably high rate of employed women and the amount of maternity care (even though we’re done having children ourselves).\u003c/p\u003e\u003cp\u003eSo yeah, hopefully that answers your curiosity. It was harder for us to leave DFW than I imagine it was for you due to leaving family behind… but it was a sacrifice we decided to make based the abundance of reasons telling us to leave. Jeg taler lidt dansk, men jeg har meget at lære.\u003c/p\u003e",
+  "created_at": "2022-11-11T19:30:12.262Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://c.im/@undercoverdane",
+      "username": "undercoverdane",
+      "acct": "undercoverdane@c.im",
+      "id": "109322236508469288"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": false,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "112490226682291752",
+  "uri": "https://infosec.exchange/users/badsamurai/statuses/112490226682291752",
+  "url": "https://infosec.exchange/@badsamurai/112490226682291752",
+  "account": {
+    "id": "111149879124628398",
+    "username": "badsamurai",
+    "acct": "badsamurai",
+    "display_name": "B'ad Samurai 🐐",
+    "locked": false,
+    "created_at": "2023-09-29T00:00:00Z",
+    "followers_count": 16,
+    "following_count": 46,
+    "statuses_count": 159,
+    "note": "\u003cp\u003e\u003ca href=\"https://infosec.exchange/tags/securty\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003esecurty\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://infosec.exchange/tags/automation\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eautomation\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://infosec.exchange/tags/soar\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003esoar\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://infosec.exchange/tags/iac\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eiac\u003c/span\u003e\u003c/a\u003e and \u003ca href=\"https://infosec.exchange/tags/tay\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003etay\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@badsamurai",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/111/149/879/124/628/398/original/fd34fb59e0005554.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/111/149/879/124/628/398/original/fd34fb59e0005554.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/111/149/879/124/628/398/original/28af54fb5cb11535.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/111/149/879/124/628/398/original/28af54fb5cb11535.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Web",
+        "value": "\u003ca href=\"https://badsamurai.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ebadsamurai.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2023-09-30T02:06:31.541Z"
+      },
+      {
+        "name": "GitHub",
+        "value": "\u003ca href=\"https://github.com/BadSamuraiDev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/BadSamuraiDev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Verification",
+        "value": "\u003ca href=\"https://www.badsamurai.dev/mastodon-verification\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ebadsamurai.dev/mastodon-verifi\u003c/span\u003e\u003cspan class=\"invisible\"\u003ecation\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2023-09-30T02:06:32.548Z"
+      },
+      {
+        "name": "Gravatar",
+        "value": "\u003ca href=\"https://gravatar.com/badsamuraidev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egravatar.com/badsamuraidev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-04-16T19:03:33.441Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "112489893003172528",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e and I like the .dev tld. It\u0026#39;s not one I see abused enough to be found on Enterprise block lists and not a cc like .me .ai and .io a lot of tech is obsessed with.\u003c/p\u003e",
+  "created_at": "2024-05-23T11:44:00.538Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

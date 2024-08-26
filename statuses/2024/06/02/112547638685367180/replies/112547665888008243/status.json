@@ -1,0 +1,83 @@
+{
+  "id": "112547665888008243",
+  "uri": "https://social.lol/users/teejay/statuses/112547665851549902",
+  "url": "https://social.lol/@teejay/112547665851549902",
+  "account": {
+    "id": "111919004762046340",
+    "username": "teejay",
+    "acct": "teejay@social.lol",
+    "display_name": "Teejay",
+    "locked": false,
+    "created_at": "2024-01-06T00:00:00Z",
+    "followers_count": 50,
+    "following_count": 95,
+    "statuses_count": 431,
+    "note": "",
+    "url": "https://social.lol/@teejay",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/111/919/004/762/046/340/original/8851d2eef7374bf2.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/111/919/004/762/046/340/original/8851d2eef7374bf2.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/111/919/004/762/046/340/original/58a47ff15cd5daa3.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/111/919/004/762/046/340/original/58a47ff15cd5daa3.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "microblog",
+        "value": "\u003ca href=\"https://teejay.blog\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eteejay.blog\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "112547638685367180",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e No. Hell no. HELL no.\u003c/p\u003e\u003cp\u003eBut I *do* check email once or twice through our portal. I'm a manager and need to make sure I'm not coming back to any critical fires. :/ But my team knows how to get in touch with me for emergencies and is pretty good about letting me have my time (and I do the same for them).\u003c/p\u003e",
+  "created_at": "2024-06-02T15:11:32Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
