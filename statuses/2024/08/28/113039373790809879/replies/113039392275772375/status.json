@@ -1,0 +1,95 @@
+{
+  "id": "113039392275772375",
+  "uri": "https://chaos.social/users/ryan_harg/statuses/113039392249507910",
+  "url": "https://chaos.social/@ryan_harg/113039392249507910",
+  "account": {
+    "id": "163050",
+    "username": "ryan_harg",
+    "acct": "ryan_harg@chaos.social",
+    "display_name": "ryan harg :antifa:",
+    "locked": true,
+    "created_at": "2020-01-23T00:00:00Z",
+    "followers_count": 309,
+    "following_count": 425,
+    "statuses_count": 300,
+    "note": "\u003cp\u003e\u003ca href=\"https://chaos.social/tags/antifa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eantifa\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://chaos.social/tags/fckhms\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003efckhms\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://chaos.social/tags/FreeGazaFromHamas\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eFreeGazaFromHamas\u003c/span\u003e\u003c/a\u003e  ژن، ژیان، ئازادی - yt - Posting mainly in german - Please tell me, if you require specific CWs that I don't use - to DM, please follow first.\u003c/p\u003e",
+    "url": "https://chaos.social/@ryan_harg",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/163/050/original/dcf2957bd3f49348.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/163/050/original/dcf2957bd3f49348.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/000/163/050/original/1c47e3532c37b811.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/000/163/050/original/1c47e3532c37b811.png",
+    "emojis": [
+      {
+        "shortcode": "antifa",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/000/235/static/d586c4c77f51740c.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/000/235/original/d586c4c77f51740c.png",
+        "visible_in_picker": true
+      }
+    ],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Pronouns",
+        "value": "he/him | they/them",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "CWs",
+        "value": "depol, nazis, racism and other intense topics...",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "113039373790809879",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Ah I see, that indeed works. I think I need to readup on channels, pretty new to go, so I just tried to apply what I know from other languages... Thanks much!\u003c/p\u003e",
+  "created_at": "2024-08-28T11:24:02Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "de",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
