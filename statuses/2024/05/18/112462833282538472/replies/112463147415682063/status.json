@@ -9,9 +9,9 @@
     "display_name": "Ryan Clough",
     "locked": true,
     "created_at": "2022-11-23T00:00:00Z",
-    "followers_count": 88,
-    "following_count": 134,
-    "statuses_count": 1936,
+    "followers_count": 90,
+    "following_count": 133,
+    "statuses_count": 1939,
     "note": "\u003cp\u003eNetwork engineer and computer tinkerer.\u003c/p\u003e\u003cp\u003eI'm agender, so if you're interested in following my non-tech journey, definitely follow that account: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://lgbtqia.space/@internet_ryan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003einternet_ryan\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
     "url": "https://techhub.social/@CiscoJunkie",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/468/672/258/396/284/original/453226fd831b2240.jpeg",
@@ -39,7 +39,7 @@
       {
         "name": "GitHub",
         "value": "\u003ca href=\"https://github.com/CiscoJunkie\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/CiscoJunkie\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2024-08-20T22:49:33.744Z"
+        "verified_at": "2024-08-28T21:09:17.328Z"
       }
     ],
     "bot": false,
