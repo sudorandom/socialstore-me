@@ -55,9 +55,9 @@
       "display_name": "The Gibson",
       "locked": false,
       "created_at": "2017-11-11T00:00:00Z",
-      "followers_count": 13697,
+      "followers_count": 13698,
       "following_count": 1414,
-      "statuses_count": 4314,
+      "statuses_count": 4276,
       "note": "\u003cp\u003eMayor of Hackers.town\u003c/p\u003e\u003cp\u003eHacker, VP of Ops at Veilid Foundation, Executive VP at Keep the Vote, Global Director of Threat Ops at (undisclosed), APT3319\u003c/p\u003e\u003cp\u003eA meat serf in a digital cropsharing arrangement.\u003c/p\u003e\u003cp\u003eA netizen of New Cyberia.\u003c/p\u003e\u003cp\u003ehe/him they/them\u003c/p\u003e\u003cp\u003eBoosts do not equal endorsement.\u003c/p\u003e\u003cp\u003eComments are my own, and not my employer's unless otherwise noted.\u003c/p\u003e",
       "url": "https://hackers.town/@thegibson",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/003/736/original/2c8e96c55322592e.webp",
@@ -114,9 +114,9 @@
       {
         "id": "109271434751493836",
         "type": "image",
-        "url": "https://infosec.exchange/media_proxy/109271434751493836/original",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/271/434/751/493/836/original/470207ed3d851b52.jpg",
         "remote_url": "https://hackers.town/system/media_attachments/files/109/271/375/807/918/492/original/f4d2f43a73bdf7fd.jpg",
-        "preview_url": "https://infosec.exchange/media_proxy/109271434751493836/small",
+        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/271/434/751/493/836/small/470207ed3d851b52.jpg",
         "text_url": "",
         "description": "My desk",
         "meta": {
