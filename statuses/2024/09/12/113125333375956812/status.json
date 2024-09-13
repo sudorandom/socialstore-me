@@ -1,0 +1,196 @@
+{
+  "id": "113125333375956812",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/113125333375956812/activity",
+  "url": "https://infosec.exchange/users/sudorandom/statuses/113125333375956812/activity",
+  "account": {
+    "id": "109300069582362316",
+    "username": "sudorandom",
+    "acct": "sudorandom",
+    "display_name": "Kevin McDonald",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 188,
+    "following_count": 70,
+    "statuses_count": 641,
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@sudorandom",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Languages",
+        "value": "English, Danish (beginner)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Interests",
+        "value": "programming, doing weird things with data, video games, board games",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-05-25T17:40:09.733Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": null,
+  "in_reply_to_account_id": null,
+  "reblog": {
+    "id": "113125211383818100",
+    "uri": "https://techhub.social/users/CiscoJunkie/statuses/113125211362277075",
+    "url": "https://techhub.social/@CiscoJunkie/113125211362277075",
+    "account": {
+      "id": "109468672258396284",
+      "username": "CiscoJunkie",
+      "acct": "CiscoJunkie@techhub.social",
+      "display_name": "Ryan Clough :scremcat:",
+      "locked": true,
+      "created_at": "2022-11-23T00:00:00Z",
+      "followers_count": 94,
+      "following_count": 134,
+      "statuses_count": 1990,
+      "note": "\u003cp\u003eNetwork engineer and computer tinkerer.\u003c/p\u003e\u003cp\u003eI'm agender, so if you're interested in following my non-tech journey, definitely follow that account: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://lgbtqia.space/@internet_ryan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003einternet_ryan\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
+      "url": "https://techhub.social/@CiscoJunkie",
+      "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/468/672/258/396/284/original/453226fd831b2240.jpeg",
+      "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/468/672/258/396/284/original/453226fd831b2240.jpeg",
+      "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/468/672/258/396/284/original/00019a14a67e73b3.jpg",
+      "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/468/672/258/396/284/original/00019a14a67e73b3.jpg",
+      "emojis": [
+        {
+          "shortcode": "scremcat",
+          "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/435/665/static/e66203e238b4f3aa.png",
+          "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/435/665/original/e66203e238b4f3aa.png",
+          "visible_in_picker": true
+        }
+      ],
+      "moved": null,
+      "fields": [
+        {
+          "name": "Pronouns",
+          "value": "They/Them",
+          "verified_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "name": "Linktree",
+          "value": "\u003ca href=\"https://linktr.ee/ryanmclough\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elinktr.ee/ryanmclough\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "name": "Location",
+          "value": "Bothell, WA, United States of America",
+          "verified_at": "0001-01-01T00:00:00Z"
+        },
+        {
+          "name": "GitHub",
+          "value": "\u003ca href=\"https://github.com/CiscoJunkie\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/CiscoJunkie\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "2024-09-11T23:06:29.125Z"
+        }
+      ],
+      "bot": false,
+      "discoverable": true,
+      "source": null,
+      "followed_tags": null
+    },
+    "in_reply_to_id": "113125189973114494",
+    "in_reply_to_account_id": "109300069582362316",
+    "reblog": null,
+    "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Tech has a fairly high barrier to entry that favors both those with privilege and those already in the field. (Go follow \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://glasgow.social/@sue\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esue\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e for semi-regular content relating to this. Hell, go follow her anyway.)\u003c/p\u003e\u003cp\u003eI think the only way to truly deal with that problem long-term is to make an effort to mitigate both of those things. That means making accessible content and taking opportunities to mentor those looking to break into tech.\u003c/p\u003e",
+    "created_at": "2024-09-12T15:08:57Z",
+    "edited_at": "0001-01-01T00:00:00Z",
+    "emojis": [],
+    "replies_count": 1,
+    "reblogs_count": 1,
+    "favourites_count": 1,
+    "reblogged": true,
+    "favourited": true,
+    "bookmarked": false,
+    "muted": false,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "media_attachments": [],
+    "mentions": [
+      {
+        "url": "https://infosec.exchange/@sudorandom",
+        "username": "sudorandom",
+        "acct": "sudorandom",
+        "id": "109300069582362316"
+      },
+      {
+        "url": "https://glasgow.social/@sue",
+        "username": "sue",
+        "acct": "sue@glasgow.social",
+        "id": "109275393446525796"
+      }
+    ],
+    "tags": [],
+    "card": null,
+    "poll": null,
+    "application": {
+      "id": "",
+      "redirect_uri": "",
+      "client_id": "",
+      "client_secret": ""
+    },
+    "language": "en",
+    "pinned": null,
+    "params": {
+      "application_id": "",
+      "idempotency": "",
+      "in_reply_to_id": null,
+      "media_ids": null,
+      "poll": null,
+      "sensitive": false,
+      "spoiler_text": "",
+      "text": "",
+      "visibility": ""
+    }
+  },
+  "content": "",
+  "created_at": "2024-09-12T15:39:59.608Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
