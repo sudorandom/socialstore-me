@@ -52,32 +52,19 @@
       "id": "135131",
       "username": "simonzerafa",
       "acct": "simonzerafa",
-      "display_name": "Simon Zerafa :donor: :verified:",
+      "display_name": "Simon Zerafa",
       "locked": false,
       "created_at": "2019-08-14T00:00:00Z",
-      "followers_count": 853,
-      "following_count": 1280,
-      "statuses_count": 16936,
+      "followers_count": 852,
+      "following_count": 1279,
+      "statuses_count": 16934,
       "note": "\u003cp\u003eOld school IT Technician and Cyber Janitor.\u003cbr /\u003eInterests in InfoSEC, History, Physics and SciFi.\u003c/p\u003e\u003cp\u003eThe header image is a photograph of a farm gate in a state of disrepair. Beyond the gate is a blue sky and green field. It\u0026#39;s fairly artistic and most tranquil.\u003c/p\u003e\u003cp\u003eMy avatar is a grayscale low contrast version of my portrait. You\u0026#39;re not missing anything of artistic merit.\u003c/p\u003e",
       "url": "https://infosec.exchange/@simonzerafa",
       "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/000/135/131/original/8077ee2037706dcd.jpg",
       "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/000/135/131/original/8077ee2037706dcd.jpg",
       "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/000/135/131/original/73cd3ccf7a79fb3f.jpg",
       "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/000/135/131/original/73cd3ccf7a79fb3f.jpg",
-      "emojis": [
-        {
-          "shortcode": "donor",
-          "static_url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/183/594/static/61a35b247fc91e55.png",
-          "url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/183/594/original/61a35b247fc91e55.png",
-          "visible_in_picker": true
-        },
-        {
-          "shortcode": "verified",
-          "static_url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/162/424/static/be4326fe58d3b038.png",
-          "url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/162/424/original/be4326fe58d3b038.png",
-          "visible_in_picker": true
-        }
-      ],
+      "emojis": [],
       "moved": null,
       "fields": [
         {
