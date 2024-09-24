@@ -1,7 +1,7 @@
 {
-  "id": "112536922062434399",
-  "uri": "https://techhub.social/users/CiscoJunkie/statuses/112536922026496184",
-  "url": "https://techhub.social/@CiscoJunkie/112536922026496184",
+  "id": "113187866898648193",
+  "uri": "https://techhub.social/users/CiscoJunkie/statuses/113187866882624631",
+  "url": "https://techhub.social/@CiscoJunkie/113187866882624631",
   "account": {
     "id": "109468672258396284",
     "username": "CiscoJunkie",
@@ -54,12 +54,12 @@
     "source": null,
     "followed_tags": null
   },
-  "in_reply_to_id": "112406214856028646",
+  "in_reply_to_id": "113187478491636128",
   "in_reply_to_account_id": "109300069582362316",
   "reblog": null,
-  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e When I started at my current company, I had to put \u003ca href=\"https://www.nohello.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003enohello.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e back in my IM status field.\u003c/p\u003e",
-  "created_at": "2024-05-31T17:39:14Z",
-  "edited_at": "0001-01-01T00:00:00Z",
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e A few different therapists I have worked with have emphasized the importance of \"putting on your own oxygen mask before helping others with theirs.\"\u003c/p\u003e\u003cp\u003eIf you don't truly take care of yourself, it's difficult (and sometimes impossible) to show up for the people you care about in ways that matter.\u003c/p\u003e",
+  "created_at": "2024-09-23T16:43:05Z",
+  "edited_at": "2024-09-23T16:59:14Z",
   "emojis": [],
   "replies_count": 0,
   "reblogs_count": 0,
@@ -81,20 +81,7 @@
     }
   ],
   "tags": [],
-  "card": {
-    "url": "https://www.nohello.com/",
-    "title": "No Hello",
-    "description": "Don't Just Say \"Hello\" in Chat.",
-    "image": "",
-    "type": "link",
-    "author_name": "",
-    "author_url": "",
-    "provider_name": "",
-    "provider_url": "",
-    "html": "",
-    "width": 0,
-    "height": 0
-  },
+  "card": null,
   "poll": null,
   "application": {
     "id": "",
