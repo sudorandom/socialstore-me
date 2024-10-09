@@ -6,26 +6,19 @@
     "id": "109281796624328471",
     "username": "sirber",
     "acct": "sirber@fosstodon.org",
-    "display_name": "Captain Steph 🇨🇦 :php:",
+    "display_name": "Captain Steph",
     "locked": true,
     "created_at": "2022-11-03T00:00:00Z",
     "followers_count": 424,
-    "following_count": 327,
-    "statuses_count": 4639,
+    "following_count": 328,
+    "statuses_count": 4638,
     "note": "\u003cp\u003eI'm a web developer. I'm also a dad. I enjoy programming, gaming, photography and learning. \u003c/p\u003e\u003cp\u003eBe silly. Be kind. Be weird. \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://fosstodon.org/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003ewebdev\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/devops\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003edevops\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/photography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003ephotography\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/gaming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003egaming\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/quebecois\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003equebecois\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://fosstodon.org/@sirber",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/281/796/624/328/471/original/50a4c3084a54a467.png",
     "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/281/796/624/328/471/original/50a4c3084a54a467.png",
     "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/281/796/624/328/471/original/6a7680af89cff8be.png",
     "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/281/796/624/328/471/original/6a7680af89cff8be.png",
-    "emojis": [
-      {
-        "shortcode": "php",
-        "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/103/567/static/c63bc54a3c943efb.png",
-        "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/103/567/original/c63bc54a3c943efb.png",
-        "visible_in_picker": true
-      }
-    ],
+    "emojis": [],
     "moved": null,
     "fields": [
       {
@@ -41,12 +34,12 @@
       {
         "name": "GitHub",
         "value": "\u003ca href=\"https://github.com/sirber\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2024-10-08T00:53:18.085Z"
+        "verified_at": "2024-10-08T23:45:47.43Z"
       },
       {
         "name": "Pixelfed",
         "value": "\u003ca href=\"https://pixelfed.social/sirber\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epixelfed.social/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2024-10-08T00:53:18.251Z"
+        "verified_at": "2024-10-08T23:45:47.609Z"
       }
     ],
     "bot": false,
