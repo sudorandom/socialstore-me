@@ -9,9 +9,9 @@
     "display_name": "Daniel Lundin",
     "locked": false,
     "created_at": "2017-12-21T00:00:00Z",
-    "followers_count": 164,
-    "following_count": 451,
-    "statuses_count": 2432,
+    "followers_count": 169,
+    "following_count": 460,
+    "statuses_count": 2438,
     "note": "\u003cp\u003eOpen Source, containers, scalable systems, continuous delivery and \"devops\" mostly.\u003c/p\u003e\u003cp\u003eNoise maker. Team builder. Unafraid of kernel space.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://arity.se\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003earity.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://mastodon.social/@dln",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/263/174/159/526/577/original/2b9899ed373eae0a.jpeg",
@@ -23,13 +23,13 @@
     "fields": [
       {
         "name": "Web",
-        "value": "\u003ca href=\"https://arity.se\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003earity.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2024-10-12T23:49:39.711Z"
+        "value": "\u003ca href=\"https://arity.se\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003earity.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
       },
       {
         "name": "GitHub",
         "value": "\u003ca href=\"https://github.com/dln\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/dln\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2024-10-12T23:49:39.994Z"
+        "verified_at": "2024-10-20T16:26:41.333Z"
       },
       {
         "name": "Keyoxide",
