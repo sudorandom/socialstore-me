@@ -1,7 +1,7 @@
 {
-  "id": "113119600227840090",
-  "uri": "https://lazybear.social/users/hyde/statuses/113119600176736426",
-  "url": "https://lazybear.social/@hyde/113119600176736426",
+  "id": "113348045496771617",
+  "uri": "https://lazybear.social/users/hyde/statuses/113348045435808659",
+  "url": "https://lazybear.social/@hyde/113348045435808659",
   "account": {
     "id": "152850",
     "username": "hyde",
@@ -60,11 +60,11 @@
     "source": null,
     "followed_tags": null
   },
-  "in_reply_to_id": "113119526527810506",
+  "in_reply_to_id": "113341330950376558",
   "in_reply_to_account_id": "109300069582362316",
   "reblog": null,
-  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Every time I reply with Neovim/Vim 😅\u003c/p\u003e",
-  "created_at": "2024-09-11T15:21:57Z",
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e It should probably be my Zettelkasten notes system.\u003c/p\u003e",
+  "created_at": "2024-10-21T23:38:35Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],
   "replies_count": 0,
