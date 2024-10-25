@@ -12,7 +12,7 @@
     "followers_count": 288,
     "following_count": 4,
     "statuses_count": 132,
-    "note": "\u003cp\u003eOpen source maintainer, book author and blogger.\u003c/p\u003e",
+    "note": "\u003cp\u003eOpen source maintainer.\u003c/p\u003e",
     "url": "https://c.im/@antonz",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/803/034/501/343/629/original/e948bc67d06cfc5e.jpg",
     "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/803/034/501/343/629/original/e948bc67d06cfc5e.jpg",
@@ -29,7 +29,7 @@
       {
         "name": "GitHib",
         "value": "\u003ca href=\"https://github.com/nalgeon\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/nalgeon\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2024-10-09T01:03:50.597Z"
+        "verified_at": "2024-10-25T04:56:21.903Z"
       }
     ],
     "bot": false,
