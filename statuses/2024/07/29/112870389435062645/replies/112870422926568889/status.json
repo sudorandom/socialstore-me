@@ -6,12 +6,12 @@
     "id": "152850",
     "username": "hyde",
     "acct": "hyde@lazybear.social",
-    "display_name": "👻 ~/hyde 🎃",
+    "display_name": "🖋 ~hyde",
     "locked": true,
     "created_at": "2019-11-20T00:00:00Z",
     "followers_count": 1046,
-    "following_count": 452,
-    "statuses_count": 13698,
+    "following_count": 453,
+    "statuses_count": 13703,
     "note": "\u003cp\u003e:debian: user since '96\u003c/p\u003e\u003cp\u003eI'm a Zettler. \u003c/p\u003e\u003cp\u003eI used to have this 💾 and that 📼\u003c/p\u003e\u003cp\u003eAnd, \u003ca href=\"https://lazybear.social/tags/nobridge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003enobridge\u003c/span\u003e\u003c/a\u003e 🖕\u003c/p\u003e",
     "url": "https://lazybear.social/@hyde",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/152/850/original/a94cd8e24151795b.png",
@@ -42,7 +42,7 @@
       {
         "name": "Blog 🖋",
         "value": "\u003ca href=\"https://lazybea.rs\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elazybea.rs\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2024-11-01T16:20:44.474Z"
+        "verified_at": "2024-11-04T15:38:28.554Z"
       },
       {
         "name": "Interests",
@@ -92,7 +92,7 @@
     "url": "https://github.com/ethersync/ethersync",
     "title": "GitHub - ethersync/ethersync: A system for editor-agnostic, real-time collaborative editing of local text files.",
     "description": "A system for editor-agnostic, real-time collaborative editing of local text files. - ethersync/ethersync",
-    "image": "2024/07/29/112870389435062645/replies/112870422926568889/card_image.png",
+    "image": "",
     "type": "link",
     "author_name": "",
     "author_url": "",
