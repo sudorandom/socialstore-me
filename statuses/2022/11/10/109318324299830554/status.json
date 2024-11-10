@@ -57,7 +57,7 @@
       "created_at": "2022-10-23T00:00:00Z",
       "followers_count": 1590,
       "following_count": 666,
-      "statuses_count": 1861,
+      "statuses_count": 1864,
       "note": "\u003cp\u003eAbstract algorithmic art, textile design, creative tools \u003c/p\u003e\u003cp\u003eNonbinary - they/she\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://genart.social/tags/Generative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eGenerative\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://genart.social/tags/GenerativeArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eGenerativeArt\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://genart.social/tags/GenArtClub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eGenArtClub\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://genart.social/tags/Fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eFedi22\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
       "url": "https://genart.social/@jesshewitt",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/255/913/394/861/970/original/ac1ebc09f02fbe74.jpg",
@@ -70,17 +70,7 @@
         {
           "name": "Website",
           "value": "\u003ca href=\"https://jesshewitt.art/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ejesshewitt.art/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2024-11-09T15:27:02.802Z"
-        },
-        {
-          "name": "Twitter",
-          "value": "\u003ca href=\"https://twitter.com/JessHewittArt\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etwitter.com/JessHewittArt\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "0001-01-01T00:00:00Z"
-        },
-        {
-          "name": "Instagram",
-          "value": "\u003ca href=\"https://www.instagram.com/jesshewittart/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003einstagram.com/jesshewittart/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "0001-01-01T00:00:00Z"
+          "verified_at": "2024-11-10T04:59:14.087Z"
         }
       ],
       "bot": false,
