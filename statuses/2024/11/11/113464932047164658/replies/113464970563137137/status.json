@@ -1,0 +1,89 @@
+{
+  "id": "113464970563137137",
+  "uri": "https://social.lol/users/teejay/statuses/113464970546208317",
+  "url": "https://social.lol/@teejay/113464970546208317",
+  "account": {
+    "id": "111919004762046340",
+    "username": "teejay",
+    "acct": "teejay@social.lol",
+    "display_name": "Teejay",
+    "locked": false,
+    "created_at": "2024-01-06T00:00:00Z",
+    "followers_count": 64,
+    "following_count": 115,
+    "statuses_count": 588,
+    "note": "",
+    "url": "https://social.lol/@teejay",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/111/919/004/762/046/340/original/8851d2eef7374bf2.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/111/919/004/762/046/340/original/8851d2eef7374bf2.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/111/919/004/762/046/340/original/58a47ff15cd5daa3.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/111/919/004/762/046/340/original/58a47ff15cd5daa3.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "microblog",
+        "value": "\u003ca href=\"https://teejay.blog\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eteejay.blog\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "113464932047164658",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://beep.town/@echofeedamplify\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003eechofeedamplify\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e I moved from an all Todoist/digital list to a hybrid digital and paper. “Focus” tasks live in my notebook where I’ll see them and work them. Long-term or “nice to have” tasks live in Todoist to review periodically for relevance. Anything with a due date goes in my Google calendar!\u003c/p\u003e",
+  "created_at": "2024-11-11T15:14:11Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    },
+    {
+      "url": "https://beep.town/@echofeedamplify",
+      "username": "echofeedamplify",
+      "acct": "echofeedamplify@beep.town",
+      "id": "112257242290012904"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
