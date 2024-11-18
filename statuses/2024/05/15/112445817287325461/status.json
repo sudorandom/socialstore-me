@@ -42,7 +42,7 @@
     "source": null,
     "followed_tags": null
   },
-  "in_reply_to_id": "112440097903861797",
+  "in_reply_to_id": null,
   "in_reply_to_account_id": "110950222511272818",
   "reblog": null,
   "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://hachyderm.io/@thudfactor\" class=\"u-url mention\"\u003e@\u003cspan\u003ethudfactor\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://shellsharks.social/@shellsharks\" class=\"u-url mention\"\u003e@\u003cspan\u003eshellsharks\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e As someone who uses github and cloudflare for my site, I totally agree. For me, the freedom and ownership comes from controlling my domain. I can switch to anywhere else if I want.\u003c/p\u003e\u003cp\u003eBut also where is the natural place to stop? Do we really want indieweb to be synonymous with \u0026quot;fails if it gets somewhat relatively popular\u0026quot; because everyone is running their website on an underpowered home server? You also don\u0026#39;t own the fiber optic cables that connect you to an Internet exchange point so are you TRULY indieweb if you rely on an ISP? The gatekeeping becomes pretty silly extremely quickly.\u003c/p\u003e",
