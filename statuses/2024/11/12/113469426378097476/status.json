@@ -102,7 +102,7 @@
     "url": "https://kmcd.dev/posts/fauxrpc-protovalidate/",
     "title": "FauxRPC and Protovalidate",
     "description": "FauxRPC, a tool for generating fake gRPC servers, now integrates with protovalidate, which lets you define validation rules in your Protobuf definitions. Now every request processed by FauxRPC will be automatically validated against your protovalidate rules. Not only will you get high quality data validation in your application, but now you can have the same validation before you even write your application logic! Let’s walk through how this new feature works.",
-    "image": "2024/11/12/113469426378097476/card_image.png",
+    "image": "",
     "type": "link",
     "author_name": "",
     "author_url": "",
