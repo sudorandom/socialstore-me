@@ -55,9 +55,9 @@
       "display_name": "Frederic Branczyk :verified:",
       "locked": false,
       "created_at": "2022-11-06T00:00:00Z",
-      "followers_count": 629,
+      "followers_count": 631,
       "following_count": 117,
-      "statuses_count": 312,
+      "statuses_count": 314,
       "note": "\u003cp\u003eHacking on all things \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://fosstodon.org/@parca\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003eparca\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e at Polar Signals\u003c/p\u003e",
       "url": "https://hachyderm.io/@brancz",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/296/685/388/933/921/original/273e143692720a5d.jpeg",
@@ -77,7 +77,7 @@
         {
           "name": "GitHub",
           "value": "\u003ca href=\"https://github.com/brancz\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/brancz\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2024-11-10T12:44:31.261Z"
+          "verified_at": "2024-11-20T21:10:52.98Z"
         }
       ],
       "bot": false,
