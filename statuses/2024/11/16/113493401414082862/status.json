@@ -66,7 +66,7 @@
     "url": "https://github.com/sudorandom/fauxrpc/issues/15",
     "title": "Inconsistent gRPC-Web behavior · Issue #15 · sudorandom/fauxrpc",
     "description": "Using tonic-web with any (but e.g. ElizaService) client.rs (as-is URL changes aside) against FauxRPC: Error: Status { code: Unknown, message: \" \", source: None } Even though fauxrpc run --addr=loca...",
-    "image": "2024/11/16/113493401414082862/card_image.png",
+    "image": "",
     "type": "link",
     "author_name": "DazWilkin",
     "author_url": "",
