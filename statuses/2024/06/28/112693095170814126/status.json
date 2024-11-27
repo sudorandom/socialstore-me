@@ -45,13 +45,13 @@
   "in_reply_to_id": "112686672400605864",
   "in_reply_to_account_id": "112139363910006502",
   "reblog": null,
-  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://shellsharks.social/@shellsharks\" class=\"u-url mention\"\u003e@\u003cspan\u003eshellsharks\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://mkultra.monster/@cmdr_nova\" class=\"u-url mention\"\u003e@\u003cspan\u003ecmdr_nova\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e All really good tips. A post of mine recently hit the the hackernews front page and I can attest to how random it can be. I\u0026#39;m trying not to learn the wrong lesson here but this article was framed to immediately be controversial but the tone was constructive (I hope) and mostly upbeat. At least that\u0026#39;s what I\u0026#39;m telling myself 😆 \u003c/p\u003e\u003cp\u003eAnd RE: mastodon vs. threads. For me,  I actually get more momentum on linkedin, currently. This is rather strange for me since I have been flabbergasted for most of my career at why people post things on linkedin but so far it\u0026#39;s worked more effectively than mastodon... but I probably need to put in more effort into being a more active member, like participating in more threads :3\u003c/p\u003e",
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://shellsharks.social/@shellsharks\" class=\"u-url mention\"\u003e@\u003cspan\u003eshellsharks\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e @cmdr_nova@mkultra.monster All really good tips. A post of mine recently hit the the hackernews front page and I can attest to how random it can be. I\u0026#39;m trying not to learn the wrong lesson here but this article was framed to immediately be controversial but the tone was constructive (I hope) and mostly upbeat. At least that\u0026#39;s what I\u0026#39;m telling myself 😆 \u003c/p\u003e\u003cp\u003eAnd RE: mastodon vs. threads. For me,  I actually get more momentum on linkedin, currently. This is rather strange for me since I have been flabbergasted for most of my career at why people post things on linkedin but so far it\u0026#39;s worked more effectively than mastodon... but I probably need to put in more effort into being a more active member, like participating in more threads :3\u003c/p\u003e",
   "created_at": "2024-06-28T07:36:08.013Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],
   "replies_count": 0,
   "reblogs_count": 0,
-  "favourites_count": 2,
+  "favourites_count": 1,
   "reblogged": false,
   "favourited": false,
   "bookmarked": false,
@@ -66,12 +66,6 @@
       "username": "shellsharks",
       "acct": "shellsharks@shellsharks.social",
       "id": "112139363910006502"
-    },
-    {
-      "url": "https://mkultra.monster/@cmdr_nova",
-      "username": "cmdr_nova",
-      "acct": "cmdr_nova@mkultra.monster",
-      "id": "111829209999602140"
     }
   ],
   "tags": [],
