@@ -55,9 +55,9 @@
       "display_name": "james",
       "locked": true,
       "created_at": "2022-11-29T00:00:00Z",
-      "followers_count": 3180,
+      "followers_count": 2103,
       "following_count": 1044,
-      "statuses_count": 20684,
+      "statuses_count": 20685,
       "note": "\u003cp\u003e👨🏻‍🚀 co-admin of \u003ca href=\"https://strangeobject.space\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003estrangeobject.space\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e (Shutting down 31st December 2024)\u003c/p\u003e\u003cp\u003e👨🏻‍💻 senior self-taught dev, people \u0026gt; code\u003cbr\u003e🏳️‍🌈 trans, queer, auDHD\u003c/p\u003e\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://strangeobject.space/@esther\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003eesther\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e - co-admin and creator of my header\u003c/p\u003e",
       "url": "https://strangeobject.space/@james",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/429/448/135/189/834/original/e6223646ac22a40d.jpeg",
@@ -65,7 +65,36 @@
       "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/429/448/135/189/834/original/538547f278cbaf69.png",
       "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/429/448/135/189/834/original/538547f278cbaf69.png",
       "emojis": [],
-      "moved": null,
+      "moved": {
+        "id": "113626182103416171",
+        "username": "userjames",
+        "acct": "userjames@wandering.shop",
+        "display_name": "james",
+        "locked": false,
+        "created_at": "2024-12-10T00:00:00Z",
+        "followers_count": 2927,
+        "following_count": 856,
+        "statuses_count": 17,
+        "note": "\u003cp\u003ethe guy\u003c/p\u003e",
+        "url": "https://wandering.shop/@userjames",
+        "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/626/182/103/416/171/original/f58de079b1ca5e99.jpeg",
+        "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/626/182/103/416/171/original/f58de079b1ca5e99.jpeg",
+        "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/113/626/182/103/416/171/original/8763f28fa41bb231.jpeg",
+        "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/113/626/182/103/416/171/original/8763f28fa41bb231.jpeg",
+        "emojis": [],
+        "moved": null,
+        "fields": [
+          {
+            "name": "pronouns",
+            "value": "he/him",
+            "verified_at": "0001-01-01T00:00:00Z"
+          }
+        ],
+        "bot": false,
+        "discoverable": false,
+        "source": null,
+        "followed_tags": null
+      },
       "fields": [
         {
           "name": "pronouns",
