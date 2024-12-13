@@ -11,7 +11,7 @@
     "created_at": "2022-11-07T00:00:00Z",
     "followers_count": 201,
     "following_count": 71,
-    "statuses_count": 799,
+    "statuses_count": 800,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://infosec.exchange/@sudorandom",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
@@ -55,7 +55,7 @@
       "display_name": "Chief TWiT :twit:",
       "locked": false,
       "created_at": "2019-12-31T00:00:00Z",
-      "followers_count": 29289,
+      "followers_count": 29286,
       "following_count": 1149,
       "statuses_count": 1556,
       "note": "\u003cp\u003eLeo Laporte, podcaster \u0026amp; tech pundit. Founder of the TWiT Podcast Network \u003ca href=\"https://twit.tv\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etwit.tv\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e. Admin at twit.social. Blog and contact info at \u003ca href=\"https://leo.fm/about\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eleo.fm/about\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
@@ -77,7 +77,7 @@
         {
           "name": "TWiT",
           "value": "\u003ca href=\"https://twit.tv/people/leo-laporte\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etwit.tv/people/leo-laporte\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2024-12-11T03:51:31.286Z"
+          "verified_at": "2024-12-13T15:15:17.437Z"
         },
         {
           "name": "Pixelfed",
