@@ -9,7 +9,7 @@
     "display_name": "Kevin McDonald",
     "locked": false,
     "created_at": "2022-11-07T00:00:00Z",
-    "followers_count": 201,
+    "followers_count": 202,
     "following_count": 71,
     "statuses_count": 801,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
@@ -55,7 +55,7 @@
       "display_name": "Kate Morley",
       "locked": false,
       "created_at": "2022-11-05T00:00:00Z",
-      "followers_count": 3846,
+      "followers_count": 3850,
       "following_count": 33,
       "statuses_count": 135,
       "note": "\u003cp\u003e👩🏻‍💻 Software developer (Rust, JavaScript, PHP) 🌍 Environmentalist 🌱 Vegan 🏳️‍🌈 Queer (she/they)\u003c/p\u003e",
@@ -70,12 +70,12 @@
         {
           "name": "Website",
           "value": "\u003ca href=\"https://iamkate.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eiamkate.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2024-12-13T17:33:47.243Z"
+          "verified_at": "2024-12-14T23:34:40.993Z"
         },
         {
           "name": "GitHub",
           "value": "\u003ca href=\"https://github.com/KateMorley\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/KateMorley\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2024-12-13T17:33:47.544Z"
+          "verified_at": "2024-12-14T23:34:41.309Z"
         }
       ],
       "bot": false,

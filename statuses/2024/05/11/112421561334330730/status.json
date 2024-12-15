@@ -9,7 +9,7 @@
     "display_name": "Kevin McDonald",
     "locked": false,
     "created_at": "2022-11-07T00:00:00Z",
-    "followers_count": 201,
+    "followers_count": 202,
     "following_count": 71,
     "statuses_count": 801,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
@@ -55,9 +55,9 @@
       "display_name": "Cory :prami_pride_demi:",
       "locked": false,
       "created_at": "2022-12-31T00:00:00Z",
-      "followers_count": 943,
-      "following_count": 396,
-      "statuses_count": 10670,
+      "followers_count": 34,
+      "following_count": 394,
+      "statuses_count": 10655,
       "note": "\u003cp\u003eHusband, dad, developer, music nerd.\u003c/p\u003e\u003cp\u003eEngineering, music, automation, general nerdery, \u003ca href=\"https://social.lol/tags/tattoos\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003etattoos\u003c/span\u003e\u003c/a\u003e and rescue dogs.\u003c/p\u003e\u003cp\u003eDesign engineer @ Adobe working on Spectrum CSS (opinions are my own and all that).\u003c/p\u003e\u003cp\u003ePronouns: he/him/his\u003c/p\u003e",
       "url": "https://social.lol/@cory",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/606/268/322/256/674/original/1101e80a7d00376d.jpeg",
@@ -79,9 +79,9 @@
         "display_name": "Cory Dransfeldt :demi:",
         "locked": false,
         "created_at": "2024-10-01T00:00:00Z",
-        "followers_count": 997,
-        "following_count": 392,
-        "statuses_count": 960,
+        "followers_count": 1000,
+        "following_count": 393,
+        "statuses_count": 969,
         "note": "\u003cp\u003eHusband, dad, developer, music nerd.\u003c/p\u003e\u003cp\u003eEngineering, music, automation, general nerdery, \u003ca href=\"https://follow.coryd.dev/tags/tattoos\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003etattoos\u003c/span\u003e\u003c/a\u003e and rescue dogs.\u003c/p\u003e\u003cp\u003eDesign engineer @ Adobe working on Spectrum CSS (opinions are my own and all that).\u003c/p\u003e\u003cp\u003ePronouns: he/him/his\u003c/p\u003e",
         "url": "https://follow.coryd.dev/@cory",
         "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/234/541/441/700/977/original/5a825d4d6b0bbcb4.png",
@@ -101,22 +101,22 @@
           {
             "name": "🏡",
             "value": "\u003ca href=\"https://coryd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2024-12-11T19:38:07.774Z"
+            "verified_at": "2024-12-14T16:44:56.106Z"
           },
           {
             "name": "🎧",
             "value": "\u003ca href=\"https://coryd.dev/music\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev/music\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2024-12-11T19:38:07.93Z"
+            "verified_at": "2024-12-14T16:44:56.145Z"
           },
           {
             "name": "📖",
             "value": "\u003ca href=\"https://coryd.dev/feeds\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev/feeds\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2024-12-11T19:38:08.086Z"
+            "verified_at": "2024-12-14T16:44:56.515Z"
           },
           {
             "name": "💻",
             "value": "\u003ca href=\"https://github.com/cdransf\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/cdransf\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2024-12-11T19:38:08.459Z"
+            "verified_at": "2024-12-14T16:44:56.971Z"
           }
         ],
         "bot": false,
@@ -142,8 +142,8 @@
         },
         {
           "name": "💻",
-          "value": "\u003ca href=\"https://github.com/cdransf\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/cdransf\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2024-10-01T22:34:12.219Z"
+          "value": "\u003ca href=\"https://github.com/cdransf\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/cdransf\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "0001-01-01T00:00:00Z"
         }
       ],
       "bot": false,
