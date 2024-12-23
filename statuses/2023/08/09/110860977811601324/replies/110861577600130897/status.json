@@ -9,7 +9,7 @@
     "display_name": "Anton Zhiyanov",
     "locked": false,
     "created_at": "2023-07-29T00:00:00Z",
-    "followers_count": 286,
+    "followers_count": 290,
     "following_count": 4,
     "statuses_count": 137,
     "note": "\u003cp\u003eOpen source maintainer. Interactive technical books author.\u003c/p\u003e",
@@ -29,7 +29,7 @@
       {
         "name": "GitHib",
         "value": "\u003ca href=\"https://github.com/nalgeon\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/nalgeon\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2024-12-05T22:01:35.768Z"
+        "verified_at": "2024-12-22T18:08:43.371Z"
       }
     ],
     "bot": false,
