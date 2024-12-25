@@ -87,7 +87,7 @@
     "url": "https://kmcd.dev/posts/mixing-cel-and-protobuf-for-fun/",
     "title": "Mixing CEL and Protobuf for Fun",
     "description": "Protobufs offer a structured approach to data definition, but testing gRPC services built with them can be a hurdle. By leveraging FauxRPC and CEL, you can accelerate development cycles, enhance test coverage, and ensure the reliability of your microservices.\nScaling Protobuf Testing gRPC has emerged as a powerful framework for building efficient and scalable microservices, enabling seamless communication across diverse technologies. Its language-agnostic nature, powered by Protobuf, allows services written in Go, Java, Python, or any other supported language to interact effortlessly.",
-    "image": "2024/12/17/113667606724498331/card_image.png",
+    "image": "",
     "type": "link",
     "author_name": "",
     "author_url": "",
