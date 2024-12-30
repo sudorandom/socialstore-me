@@ -9,8 +9,8 @@
     "display_name": "Daniel Lundin",
     "locked": false,
     "created_at": "2017-12-21T00:00:00Z",
-    "followers_count": 204,
-    "following_count": 483,
+    "followers_count": 206,
+    "following_count": 486,
     "statuses_count": 3166,
     "note": "\u003cp\u003eOpen Source, infrastructure, systems reliability and security mostly. But people first.\u003c/p\u003e\u003cp\u003eNoise maker. Team builder. Unafraid of kernel space.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://arity.se\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003earity.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://mastodon.social/@dln",
@@ -24,12 +24,12 @@
       {
         "name": "Web",
         "value": "\u003ca href=\"https://arity.se\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003earity.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2024-12-21T02:39:55.487Z"
+        "verified_at": "2024-12-29T16:39:29.653Z"
       },
       {
         "name": "GitHub",
         "value": "\u003ca href=\"https://github.com/dln\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/dln\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2024-12-21T02:39:55.801Z"
+        "verified_at": "2024-12-29T16:39:29.991Z"
       },
       {
         "name": "Signal",
