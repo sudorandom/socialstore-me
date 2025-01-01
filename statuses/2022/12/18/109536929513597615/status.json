@@ -9,7 +9,7 @@
     "display_name": "Kevin McDonald",
     "locked": false,
     "created_at": "2022-11-07T00:00:00Z",
-    "followers_count": 203,
+    "followers_count": 204,
     "following_count": 71,
     "statuses_count": 819,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
@@ -55,8 +55,8 @@
       "display_name": "muesli",
       "locked": false,
       "created_at": "2018-06-13T00:00:00Z",
-      "followers_count": 27848,
-      "following_count": 3615,
+      "followers_count": 27854,
+      "following_count": 3614,
       "statuses_count": 8512,
       "note": "\u003cp\u003eI build open-source software and make little gadgets.\u003c/p\u003e\u003cp\u003eFrom a time when email was cool. Hard to distinguish from a good programmer.\u003c/p\u003e",
       "url": "https://mastodon.social/@fribbledom",
@@ -75,12 +75,12 @@
         {
           "name": "GitHub",
           "value": "\u003ca href=\"https://github.com/muesli\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/muesli\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2024-12-27T22:06:18.645Z"
+          "verified_at": "2024-12-31T18:40:13.357Z"
         },
         {
           "name": "In German",
           "value": "\u003ca href=\"https://mastodon.social/@muesli\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emastodon.social/@muesli\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2024-12-27T22:06:18.764Z"
+          "verified_at": "2024-12-31T18:40:13.483Z"
         }
       ],
       "bot": false,
