@@ -73,7 +73,7 @@
     "url": "https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/",
     "title": "hello-friend-ng",
     "description": "Hello Friend NG\n\nGeneral informations \nThis theme was highly inspired by the hello-friend and hermit. A lot of kudos for their great work.\n\nTable of Contents \n\nFeatures\nHow to start\nHow to configure\nMore\n\nBuilt in shortcodes\n\nimage\n\n\nCode highlighting\nFavicon\nAudio Support\n\n\nSocial Icons\nKnown issues\nHow to edit the theme\nChangelog\nSponsoring\nLicence\n\n\nFeatures \n\nTheming: dark/light mode, depending on your system preferences or the users choice\nGreat reading experience thanks to Inter font, made by Rasmus Andersson\nNice code highlighting thanks to PrismJS\nAn easy way to modify the theme with Hugo tooling\nFully responsive\nSupport for audio in posts (thanks to @talbotp)\nBuiltin (enableable/disableable) multilanguage menu\nSupport for social icons\nSupport for sharing buttons\nSupport for Commento\nSupport for Plausible (thanks to @Joffcom)\nSupport for utterances comment system\n\nHow to start \nYou can download the theme manually by going to https://github.com/rhazdon/hugo-theme-hello-friend-ng.git and pasting it to themes/hello-friend-ng in your root directory.",
-    "image": "2025/01/02/113760693782194480/card_image.png",
+    "image": "",
     "type": "link",
     "author_name": "",
     "author_url": "",
