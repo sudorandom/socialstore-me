@@ -9,9 +9,9 @@
     "display_name": "Edbro",
     "locked": false,
     "created_at": "2022-12-20T00:00:00Z",
-    "followers_count": 91,
+    "followers_count": 106,
     "following_count": 93,
-    "statuses_count": 961,
+    "statuses_count": 964,
     "note": "\u003cp\u003eA \u003ca href=\"https://swecyb.com/tags/cybersecurity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003ecybersecurity\u003c/span\u003e\u003c/a\u003e consultant and moonlight \u003ca href=\"https://swecyb.com/tags/blogger\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eblogger\u003c/span\u003e\u003c/a\u003e. A random dude on the interwebs wishing to build a safer and more secure (digital) world.\u003c/p\u003e",
     "url": "https://swecyb.com/@edbro",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/546/225/043/799/442/original/0da6498ee78103cc.jpg",
@@ -24,7 +24,7 @@
       {
         "name": "Website",
         "value": "\u003ca href=\"https://edbro.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eedbro.net\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2024-12-30T10:52:26.276Z"
+        "verified_at": "2025-01-13T01:39:06.168Z"
       },
       {
         "name": "Linkedin",
@@ -39,7 +39,7 @@
       {
         "name": "Github",
         "value": "\u003ca href=\"https://github.com/oedbro\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/oedbro\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2024-12-30T10:52:27.032Z"
+        "verified_at": "2025-01-13T01:39:06.646Z"
       }
     ],
     "bot": false,
