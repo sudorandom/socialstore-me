@@ -11,8 +11,8 @@
     "created_at": "2017-12-21T00:00:00Z",
     "followers_count": 237,
     "following_count": 500,
-    "statuses_count": 3361,
-    "note": "\u003cp\u003eOpen Source, infrastructure, systems reliability and security mostly. But people first.\u003c/p\u003e\u003cp\u003eNoise maker. Team builder. Unafraid of kernel space.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://arity.se\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003earity.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "statuses_count": 3371,
+    "note": "\u003cp\u003eOpen Source, infrastructure, systems reliability and security mostly. But people first.\u003c/p\u003e\u003cp\u003eNoise maker. Team builder. Unafraid of kernel space.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://arity.se\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003earity.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://mastodon.social/@dln",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/263/174/159/526/577/original/2b9899ed373eae0a.jpeg",
     "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/263/174/159/526/577/original/2b9899ed373eae0a.jpeg",
@@ -23,12 +23,12 @@
     "fields": [
       {
         "name": "Web",
-        "value": "\u003ca href=\"https://arity.se\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003earity.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://arity.se\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003earity.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "2025-01-12T22:38:11.413Z"
       },
       {
         "name": "GitHub",
-        "value": "\u003ca href=\"https://github.com/dln\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/dln\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://github.com/dln\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/dln\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "2025-01-12T22:38:11.76Z"
       },
       {
@@ -50,7 +50,7 @@
   "in_reply_to_id": "112755962973336440",
   "in_reply_to_account_id": "109300069582362316",
   "reblog": null,
-  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Very nice work!\u003c/p\u003e",
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Very nice work!\u003c/p\u003e",
   "created_at": "2024-07-09T15:10:10Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],

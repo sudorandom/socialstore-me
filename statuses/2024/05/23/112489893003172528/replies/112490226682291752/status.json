@@ -23,22 +23,22 @@
     "fields": [
       {
         "name": "Web",
-        "value": "\u003ca href=\"https://badsamurai.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ebadsamurai.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://badsamurai.dev\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ebadsamurai.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "2023-09-30T02:06:31.541Z"
       },
       {
         "name": "GitHub",
-        "value": "\u003ca href=\"https://github.com/BadSamuraiDev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/BadSamuraiDev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://github.com/BadSamuraiDev\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/BadSamuraiDev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
         "name": "Verification",
-        "value": "\u003ca href=\"https://www.badsamurai.dev/mastodon-verification\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ebadsamurai.dev/mastodon-verifi\u003c/span\u003e\u003cspan class=\"invisible\"\u003ecation\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://www.badsamurai.dev/mastodon-verification\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ebadsamurai.dev/mastodon-verifi\u003c/span\u003e\u003cspan class=\"invisible\"\u003ecation\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "2023-09-30T02:06:32.548Z"
       },
       {
         "name": "Gravatar",
-        "value": "\u003ca href=\"https://gravatar.com/badsamuraidev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egravatar.com/badsamuraidev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://gravatar.com/badsamuraidev\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egravatar.com/badsamuraidev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "2024-04-16T19:03:33.441Z"
       },
       {

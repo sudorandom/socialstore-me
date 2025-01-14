@@ -12,7 +12,7 @@
     "followers_count": 204,
     "following_count": 71,
     "statuses_count": 839,
-    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://infosec.exchange/@sudorandom",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
     "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
@@ -33,7 +33,7 @@
       },
       {
         "name": "Website",
-        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "2024-05-25T17:40:09.733Z"
       }
     ],
@@ -55,9 +55,9 @@
       "display_name": "Simon Zerafa",
       "locked": false,
       "created_at": "2019-08-14T00:00:00Z",
-      "followers_count": 889,
-      "following_count": 1524,
-      "statuses_count": 19387,
+      "followers_count": 891,
+      "following_count": 1522,
+      "statuses_count": 19417,
       "note": "\u003cp\u003eOld school IT Technician and Cyber Janitor.\u003cbr /\u003eInterests in InfoSEC, History, Physics and SciFi.\u003c/p\u003e\u003cp\u003eThe header image is a photograph of a farm gate in a state of disrepair. Beyond the gate is a blue sky and green field. It\u0026#39;s fairly artistic and most tranquil.\u003c/p\u003e\u003cp\u003eMy avatar is a grayscale low contrast version of my portrait. You\u0026#39;re not missing anything of artistic merit.\u003c/p\u003e",
       "url": "https://infosec.exchange/@simonzerafa",
       "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/000/135/131/original/8077ee2037706dcd.jpg",
@@ -69,12 +69,12 @@
       "fields": [
         {
           "name": "Web",
-          "value": "\u003ca href=\"https://www.zerafa.uk/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ezerafa.uk/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "value": "\u003ca href=\"https://www.zerafa.uk/\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ezerafa.uk/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
           "verified_at": "0001-01-01T00:00:00Z"
         },
         {
           "name": "Messenger",
-          "value": "\u003ca href=\"https://www.messenger.com/t/694232188/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003emessenger.com/t/694232188/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "value": "\u003ca href=\"https://www.messenger.com/t/694232188/\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003emessenger.com/t/694232188/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
           "verified_at": "0001-01-01T00:00:00Z"
         },
         {
@@ -84,12 +84,12 @@
         },
         {
           "name": "Signal",
-          "value": "\u003ca href=\"https://signal.me/#eu/rBAyasA7yc--fVGmpFrEFNZs9snEfgHeeMxLqPz5Vp4jsqu8DN9FMYSh8X539Ld7\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003esignal.me/#eu/rBAyasA7yc--fVGm\u003c/span\u003e\u003cspan class=\"invisible\"\u003epFrEFNZs9snEfgHeeMxLqPz5Vp4jsqu8DN9FMYSh8X539Ld7\u003c/span\u003e\u003c/a\u003e",
+          "value": "\u003ca href=\"https://signal.me/#eu/rBAyasA7yc--fVGmpFrEFNZs9snEfgHeeMxLqPz5Vp4jsqu8DN9FMYSh8X539Ld7\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003esignal.me/#eu/rBAyasA7yc--fVGm\u003c/span\u003e\u003cspan class=\"invisible\"\u003epFrEFNZs9snEfgHeeMxLqPz5Vp4jsqu8DN9FMYSh8X539Ld7\u003c/span\u003e\u003c/a\u003e",
           "verified_at": "0001-01-01T00:00:00Z"
         },
         {
           "name": "Gravitar",
-          "value": "\u003ca href=\"https://gravatar.com/szerafa\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egravatar.com/szerafa\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "value": "\u003ca href=\"https://gravatar.com/szerafa\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egravatar.com/szerafa\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
           "verified_at": "0001-01-01T00:00:00Z"
         },
         {
@@ -106,7 +106,7 @@
     "in_reply_to_id": "110843277915474077",
     "in_reply_to_account_id": "161224",
     "reblog": null,
-    "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://hackers.town/@technoid_\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003etechnoid_\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://hackers.town/@Rob_T_Firefly\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003eRob_T_Firefly\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://hackers.town/@thegibson\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003eTheGibson\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003c/p\u003e\u003cp\u003e🙂🤷‍♂️\u003c/p\u003e",
+    "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://hackers.town/@technoid_\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003etechnoid_\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://hackers.town/@Rob_T_Firefly\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eRob_T_Firefly\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://hackers.town/@thegibson\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eTheGibson\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003c/p\u003e\u003cp\u003e🙂🤷‍♂️\u003c/p\u003e",
     "created_at": "2023-08-06T15:18:44.482Z",
     "edited_at": "0001-01-01T00:00:00Z",
     "emojis": [],

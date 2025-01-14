@@ -12,7 +12,7 @@
     "followers_count": 204,
     "following_count": 71,
     "statuses_count": 839,
-    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://infosec.exchange/@sudorandom",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
     "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
@@ -33,7 +33,7 @@
       },
       {
         "name": "Website",
-        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "2024-05-25T17:40:09.733Z"
       }
     ],
@@ -86,22 +86,22 @@
         "fields": [
           {
             "name": "Astro Photos",
-            "value": "\u003ca href=\"https://www.astrobin.com/users/javanpa/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003eastrobin.com/users/javanpa/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+            "value": "\u003ca href=\"https://www.astrobin.com/users/javanpa/\" rel=\"nofollow noopener\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003eastrobin.com/users/javanpa/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
             "verified_at": "0001-01-01T00:00:00Z"
           },
           {
             "name": "Twitter",
-            "value": "\u003ca href=\"https://twitter.com/bcjordo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etwitter.com/bcjordo\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+            "value": "\u003ca href=\"https://twitter.com/bcjordo\" rel=\"nofollow noopener\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etwitter.com/bcjordo\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
             "verified_at": "0001-01-01T00:00:00Z"
           },
           {
             "name": "LinkedIn",
-            "value": "\u003ca href=\"https://www.linkedin.com/in/jordankmartin/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003elinkedin.com/in/jordankmartin/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+            "value": "\u003ca href=\"https://www.linkedin.com/in/jordankmartin/\" rel=\"nofollow noopener\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003elinkedin.com/in/jordankmartin/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
             "verified_at": "0001-01-01T00:00:00Z"
           },
           {
             "name": "Travels",
-            "value": "\u003ca href=\"http://flipflopsandfreeways.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003eflipflopsandfreeways.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+            "value": "\u003ca href=\"http://flipflopsandfreeways.com/\" rel=\"nofollow noopener\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003eflipflopsandfreeways.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
             "verified_at": "0001-01-01T00:00:00Z"
           }
         ],
@@ -113,22 +113,22 @@
       "fields": [
         {
           "name": "Astro Photos",
-          "value": "\u003ca href=\"https://www.astrobin.com/users/javanpa/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003eastrobin.com/users/javanpa/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "value": "\u003ca href=\"https://www.astrobin.com/users/javanpa/\" rel=\"nofollow noopener\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003eastrobin.com/users/javanpa/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
           "verified_at": "0001-01-01T00:00:00Z"
         },
         {
           "name": "Twitter",
-          "value": "\u003ca href=\"https://twitter.com/bcjordo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etwitter.com/bcjordo\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "value": "\u003ca href=\"https://twitter.com/bcjordo\" rel=\"nofollow noopener\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etwitter.com/bcjordo\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
           "verified_at": "0001-01-01T00:00:00Z"
         },
         {
           "name": "LinkedIn",
-          "value": "\u003ca href=\"https://www.linkedin.com/in/jordankmartin/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003elinkedin.com/in/jordankmartin/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "value": "\u003ca href=\"https://www.linkedin.com/in/jordankmartin/\" rel=\"nofollow noopener\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003elinkedin.com/in/jordankmartin/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
           "verified_at": "0001-01-01T00:00:00Z"
         },
         {
           "name": "Travels",
-          "value": "\u003ca href=\"http://flipflopsandfreeways.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003eflipflopsandfreeways.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "value": "\u003ca href=\"http://flipflopsandfreeways.com\" rel=\"nofollow noopener\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003eflipflopsandfreeways.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
           "verified_at": "0001-01-01T00:00:00Z"
         }
       ],
@@ -140,7 +140,7 @@
     "in_reply_to_id": null,
     "in_reply_to_account_id": null,
     "reblog": null,
-    "content": "\u003cp\u003e\u003cspan class=\"h-card\"\u003e\u003ca href=\"https://raspberrypi.social/@Raspberry_Pi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003eRaspberry_Pi\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e I've used a Raspberry Pi 4 to control my \u003ca href=\"https://social.networkingnomad.net/tags/astrophotography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eastrophotography\u003c/span\u003e\u003c/a\u003e setup for the past 18 months or so. Your computers have enabled some photos like these:\u003c/p\u003e",
+    "content": "\u003cp\u003e\u003cspan class=\"h-card\"\u003e\u003ca href=\"https://raspberrypi.social/@Raspberry_Pi\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eRaspberry_Pi\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e I've used a Raspberry Pi 4 to control my \u003ca href=\"https://social.networkingnomad.net/tags/astrophotography\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eastrophotography\u003c/span\u003e\u003c/a\u003e setup for the past 18 months or so. Your computers have enabled some photos like these:\u003c/p\u003e",
     "created_at": "2022-11-10T15:26:35Z",
     "edited_at": "0001-01-01T00:00:00Z",
     "emojis": [],

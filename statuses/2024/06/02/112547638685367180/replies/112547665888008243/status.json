@@ -23,7 +23,7 @@
     "fields": [
       {
         "name": "microblog",
-        "value": "\u003ca href=\"https://teejay.blog\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eteejay.blog\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://teejay.blog\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eteejay.blog\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       }
     ],
@@ -35,7 +35,7 @@
   "in_reply_to_id": "112547638685367180",
   "in_reply_to_account_id": "109300069582362316",
   "reblog": null,
-  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e No. Hell no. HELL no.\u003c/p\u003e\u003cp\u003eBut I *do* check email once or twice through our portal. I'm a manager and need to make sure I'm not coming back to any critical fires. :/ But my team knows how to get in touch with me for emergencies and is pretty good about letting me have my time (and I do the same for them).\u003c/p\u003e",
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e No. Hell no. HELL no.\u003c/p\u003e\u003cp\u003eBut I *do* check email once or twice through our portal. I'm a manager and need to make sure I'm not coming back to any critical fires. :/ But my team knows how to get in touch with me for emergencies and is pretty good about letting me have my time (and I do the same for them).\u003c/p\u003e",
   "created_at": "2024-06-02T15:11:32Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],

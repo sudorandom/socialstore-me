@@ -23,7 +23,7 @@
     "fields": [
       {
         "name": "website",
-        "value": "\u003ca href=\"https://www.michaeljob.ch\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003emichaeljob.ch\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://www.michaeljob.ch\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003emichaeljob.ch\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "2024-02-12T19:25:15.968Z"
       }
     ],
@@ -35,7 +35,7 @@
   "in_reply_to_id": "111086979918369717",
   "in_reply_to_account_id": "109300069582362316",
   "reblog": null,
-  "content": "\u003cp\u003e\u003cspan class=\"h-card\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003ca href=\"https://qoto.org/tags/nuffsaid\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003enuffsaid\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003ca href=\"https://qoto.org/tags/nuffsaid\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003enuffsaid\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
   "created_at": "2023-09-18T16:51:42Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],

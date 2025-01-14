@@ -12,7 +12,7 @@
     "followers_count": 113,
     "following_count": 139,
     "statuses_count": 2430,
-    "note": "\u003cp\u003eNetwork engineer and computer tinkerer.\u003c/p\u003e\u003cp\u003eI'm agender, so if you're interested in my non-tech journey, definitely follow my non-tech-focused account: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://lgbtqia.space/@internet_ryan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003einternet_ryan\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e(Header picture is my two cats, Packet and Little Mouse, snuggling together and holding paws on my couch.)\u003c/p\u003e",
+    "note": "\u003cp\u003eNetwork engineer and computer tinkerer.\u003c/p\u003e\u003cp\u003eI'm agender, so if you're interested in my non-tech journey, definitely follow my non-tech-focused account: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://lgbtqia.space/@internet_ryan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003einternet_ryan\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e(Header picture is my two cats, Packet and Little Mouse, snuggling together and holding paws on my couch.)\u003c/p\u003e",
     "url": "https://techhub.social/@CiscoJunkie",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/468/672/258/396/284/original/6707c143518b7c05.jpg",
     "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/468/672/258/396/284/original/6707c143518b7c05.jpg",
@@ -35,7 +35,7 @@
       },
       {
         "name": "Linktree",
-        "value": "\u003ca href=\"https://linktr.ee/ryanmclough\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elinktr.ee/ryanmclough\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://linktr.ee/ryanmclough\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elinktr.ee/ryanmclough\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
@@ -45,7 +45,7 @@
       },
       {
         "name": "GitHub",
-        "value": "\u003ca href=\"https://github.com/CiscoJunkie\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/CiscoJunkie\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://github.com/CiscoJunkie\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/CiscoJunkie\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "2025-01-12T00:38:14.12Z"
       }
     ],
@@ -57,7 +57,7 @@
   "in_reply_to_id": "112462833282538472",
   "in_reply_to_account_id": "109300069582362316",
   "reblog": null,
-  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Right now, I have a 20-30 minute commute that's limited to the \"east side\" of the Seattle metro area.\u003c/p\u003e\u003cp\u003eUnfortunately, transit hub placement means taking the bus would at least double that commute time. I really wish that weren't true; I got used to our transit system when I worked in downtown Seattle, and still do everything I can to support it.\u003c/p\u003e\u003cp\u003eGiven the elevation and my general out-of-shape-ness, I would need an e-bike to make this a bike commute. Unfortunately, even the shortest path would still double my commute time.\u003c/p\u003e",
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Right now, I have a 20-30 minute commute that's limited to the \"east side\" of the Seattle metro area.\u003c/p\u003e\u003cp\u003eUnfortunately, transit hub placement means taking the bus would at least double that commute time. I really wish that weren't true; I got used to our transit system when I worked in downtown Seattle, and still do everything I can to support it.\u003c/p\u003e\u003cp\u003eGiven the elevation and my general out-of-shape-ness, I would need an e-bike to make this a bike commute. Unfortunately, even the shortest path would still double my commute time.\u003c/p\u003e",
   "created_at": "2024-05-18T16:57:23Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],

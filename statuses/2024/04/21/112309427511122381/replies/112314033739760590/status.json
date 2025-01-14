@@ -29,7 +29,7 @@
   "in_reply_to_id": "112309427511122381",
   "in_reply_to_account_id": "109300069582362316",
   "reblog": null,
-  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Turns out writing the code the way it currently is results in the compiler optimizing away one slice bound check more than when shortening the slice expression (because of the len(b[n:]) check just above).\u003c/p\u003e",
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Turns out writing the code the way it currently is results in the compiler optimizing away one slice bound check more than when shortening the slice expression (because of the len(b[n:]) check just above).\u003c/p\u003e",
   "created_at": "2024-04-22T08:55:49Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],

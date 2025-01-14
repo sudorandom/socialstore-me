@@ -9,10 +9,10 @@
     "display_name": "📷 🖋 ~hyde",
     "locked": true,
     "created_at": "2019-11-20T00:00:00Z",
-    "followers_count": 1083,
-    "following_count": 482,
-    "statuses_count": 14265,
-    "note": "\u003cp\u003e:debian: user since '96\u003c/p\u003e\u003cp\u003eI'm a Zettler. \u003c/p\u003e\u003cp\u003eI used to have this 💾 and that 📼\u003c/p\u003e\u003cp\u003eAnd, \u003ca href=\"https://lazybear.social/tags/nobridge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003enobridge\u003c/span\u003e\u003c/a\u003e 🖕\u003c/p\u003e",
+    "followers_count": 1085,
+    "following_count": 484,
+    "statuses_count": 14277,
+    "note": "\u003cp\u003e:debian: user since '96\u003c/p\u003e\u003cp\u003eI'm a Zettler. \u003c/p\u003e\u003cp\u003eI used to have this 💾 and that 📼\u003c/p\u003e\u003cp\u003eAnd, \u003ca href=\"https://lazybear.social/tags/nobridge\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003enobridge\u003c/span\u003e\u003c/a\u003e 🖕\u003c/p\u003e",
     "url": "https://lazybear.social/@hyde",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/152/850/original/a94cd8e24151795b.png",
     "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/152/850/original/a94cd8e24151795b.png",
@@ -41,8 +41,8 @@
       },
       {
         "name": "Blog 🖋",
-        "value": "\u003ca href=\"https://lazybea.rs\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elazybea.rs\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-01-13T07:00:45.447Z"
+        "value": "\u003ca href=\"https://lazybea.rs\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elazybea.rs\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-01-14T07:29:18.88Z"
       },
       {
         "name": "Interests",
@@ -51,7 +51,7 @@
       },
       {
         "name": "Join this challenge !",
-        "value": "\u003ca href=\"https://the100.pics\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ethe100.pics\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://the100.pics\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ethe100.pics\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       }
     ],
@@ -63,7 +63,7 @@
   "in_reply_to_id": "112899067971110778",
   "in_reply_to_account_id": "109300069582362316",
   "reblog": null,
-  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e i think probably the \u003ca href=\"https://lazybear.social/tags/Zettelkasten\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eZettelkasten\u003c/span\u003e\u003c/a\u003e method to improve learning\u003c/p\u003e",
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e i think probably the \u003ca href=\"https://lazybear.social/tags/Zettelkasten\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eZettelkasten\u003c/span\u003e\u003c/a\u003e method to improve learning\u003c/p\u003e",
   "created_at": "2024-08-03T17:15:24Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],

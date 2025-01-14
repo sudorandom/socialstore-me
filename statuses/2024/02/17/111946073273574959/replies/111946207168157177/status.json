@@ -11,7 +11,7 @@
     "created_at": "2022-11-05T00:00:00Z",
     "followers_count": 305,
     "following_count": 344,
-    "statuses_count": 3386,
+    "statuses_count": 3389,
     "note": "\u003cp\u003eBlack Lives Matter\u003c/p\u003e\u003cp\u003eDreamer | Speaker | Legend | SRE | MCT | Shadow Architect\u003c/p\u003e\u003cp\u003eHe/him/his/Skills\u003c/p\u003e\u003cp\u003eVB better than PowerShell\u003c/p\u003e",
     "url": "https://infosec.exchange/@sassdawe",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/290/319/566/810/057/original/321acb5c8a667181.png",
@@ -23,22 +23,22 @@
     "fields": [
       {
         "name": "GitHub",
-        "value": "\u003ca href=\"https://github.com/sassdawe\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/sassdawe\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://github.com/sassdawe\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/sassdawe\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "2024-01-08T13:29:27.104Z"
       },
       {
         "name": "Blog",
-        "value": "\u003ca href=\"https://kolislab.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekolislab.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://kolislab.com\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekolislab.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
         "name": "Sessionize",
-        "value": "\u003ca href=\"https://sessionize.com/david-sass/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003esessionize.com/david-sass/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://sessionize.com/david-sass/\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003esessionize.com/david-sass/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
         "name": "Links",
-        "value": "\u003ca href=\"https://davidsass.io\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edavidsass.io\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://davidsass.io\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edavidsass.io\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "2024-02-19T04:22:06.321Z"
       }
     ],
@@ -50,7 +50,7 @@
   "in_reply_to_id": "111946073273574959",
   "in_reply_to_account_id": "109300069582362316",
   "reblog": null,
-  "content": "\u003cp\u003eWould a VSCode extension count? \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003emarketplace.visualstudio.com/i\u003c/span\u003e\u003cspan class=\"invisible\"\u003etems?itemName=rangav.vscode-thunder-client\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "content": "\u003cp\u003eWould a VSCode extension count? \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003emarketplace.visualstudio.com/i\u003c/span\u003e\u003cspan class=\"invisible\"\u003etems?itemName=rangav.vscode-thunder-client\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
   "created_at": "2024-02-17T09:52:41.524Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],

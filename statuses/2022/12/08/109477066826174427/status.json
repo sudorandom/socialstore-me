@@ -12,7 +12,7 @@
     "followers_count": 204,
     "following_count": 71,
     "statuses_count": 839,
-    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://infosec.exchange/@sudorandom",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
     "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
@@ -33,7 +33,7 @@
       },
       {
         "name": "Website",
-        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "2024-05-25T17:40:09.733Z"
       }
     ],
@@ -58,7 +58,7 @@
       "followers_count": 630,
       "following_count": 117,
       "statuses_count": 324,
-      "note": "\u003cp\u003eHacking on all things \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://fosstodon.org/@parca\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003eparca\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e at Polar Signals\u003c/p\u003e",
+      "note": "\u003cp\u003eHacking on all things \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://fosstodon.org/@parca\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eparca\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e at Polar Signals\u003c/p\u003e",
       "url": "https://hachyderm.io/@brancz",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/296/685/388/933/921/original/273e143692720a5d.jpeg",
       "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/296/685/388/933/921/original/273e143692720a5d.jpeg",
@@ -76,7 +76,7 @@
       "fields": [
         {
           "name": "GitHub",
-          "value": "\u003ca href=\"https://github.com/brancz\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/brancz\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "value": "\u003ca href=\"https://github.com/brancz\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/brancz\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
           "verified_at": "2025-01-09T20:28:32.42Z"
         }
       ],
@@ -88,7 +88,7 @@
     "in_reply_to_id": null,
     "in_reply_to_account_id": null,
     "reblog": null,
-    "content": "\u003cp\u003eGo 1.20 RC1 was cut and my personal favorite new feature is PGO (profile guided optimizations). I couldn’t wait for the release so I wrote a blog post a few weeks ago trying it out. \u003ca href=\"https://hachyderm.io/tags/performance\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eperformance\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://hachyderm.io/tags/golang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003egolang\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://hachyderm.io/tags/profiling\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e#\u003cspan\u003eprofiling\u003c/span\u003e\u003c/a\u003e \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://www.polarsignals.com/blog/posts/2022/09/exploring-go-profile-guided-optimizations/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003epolarsignals.com/blog/posts/20\u003c/span\u003e\u003cspan class=\"invisible\"\u003e22/09/exploring-go-profile-guided-optimizations/\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "content": "\u003cp\u003eGo 1.20 RC1 was cut and my personal favorite new feature is PGO (profile guided optimizations). I couldn’t wait for the release so I wrote a blog post a few weeks ago trying it out. \u003ca href=\"https://hachyderm.io/tags/performance\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eperformance\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://hachyderm.io/tags/golang\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003egolang\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://hachyderm.io/tags/profiling\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eprofiling\u003c/span\u003e\u003c/a\u003e \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://www.polarsignals.com/blog/posts/2022/09/exploring-go-profile-guided-optimizations/\" rel=\"nofollow noopener\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003epolarsignals.com/blog/posts/20\u003c/span\u003e\u003cspan class=\"invisible\"\u003e22/09/exploring-go-profile-guided-optimizations/\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "created_at": "2022-12-08T08:01:01Z",
     "edited_at": "2022-12-08T08:02:52Z",
     "emojis": [],

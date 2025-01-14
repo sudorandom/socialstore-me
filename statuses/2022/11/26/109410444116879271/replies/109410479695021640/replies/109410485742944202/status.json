@@ -12,7 +12,7 @@
     "followers_count": 204,
     "following_count": 71,
     "statuses_count": 839,
-    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://infosec.exchange/@sudorandom",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
     "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
@@ -33,7 +33,7 @@
       },
       {
         "name": "Website",
-        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "2024-05-25T17:40:09.733Z"
       }
     ],
@@ -45,7 +45,7 @@
   "in_reply_to_id": "109410479695021640",
   "in_reply_to_account_id": "109291588048870866",
   "reblog": null,
-  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@cydave\" class=\"u-url mention\"\u003e@\u003cspan\u003ecydave\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e I was curious about the current status of this... According to \u003ca href=\"https://go.googlesource.com/proposal/+/refs/heads/master/design/43651-type-parameters.md\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ego.googlesource.com/proposal/+\u003c/span\u003e\u003cspan class=\"invisible\"\u003e/refs/heads/master/design/43651-type-parameters.md\u003c/span\u003e\u003c/a\u003e some of the math functions (like min/max) were supposed to be genericized by 1.18... but we\u0026#39;re in version 1.19 and it doesn\u0026#39;t appear to be done yet. I feel like I\u0026#39;m missing something though.\u003c/p\u003e",
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@cydave\" class=\"u-url mention\"\u003e@\u003cspan\u003ecydave\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e I was curious about the current status of this... According to \u003ca href=\"https://go.googlesource.com/proposal/+/refs/heads/master/design/43651-type-parameters.md\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ego.googlesource.com/proposal/+\u003c/span\u003e\u003cspan class=\"invisible\"\u003e/refs/heads/master/design/43651-type-parameters.md\u003c/span\u003e\u003c/a\u003e some of the math functions (like min/max) were supposed to be genericized by 1.18... but we\u0026#39;re in version 1.19 and it doesn\u0026#39;t appear to be done yet. I feel like I\u0026#39;m missing something though.\u003c/p\u003e",
   "created_at": "2022-11-26T14:05:23.181Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],

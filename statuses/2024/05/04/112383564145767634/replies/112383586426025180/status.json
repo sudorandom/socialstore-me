@@ -12,7 +12,7 @@
     "followers_count": 204,
     "following_count": 71,
     "statuses_count": 839,
-    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://infosec.exchange/@sudorandom",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
     "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
@@ -33,7 +33,7 @@
       },
       {
         "name": "Website",
-        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "2024-05-25T17:40:09.733Z"
       }
     ],
@@ -45,7 +45,7 @@
   "in_reply_to_id": "112383564145767634",
   "in_reply_to_account_id": "109300069582362316",
   "reblog": null,
-  "content": "\u003cp\u003eI have two main projects at the moment:\u003c/p\u003e\u003cp\u003eUpdating my programming/tech blog. I hope to get better at writing about technical subjects. And I need to get better at \u0026quot;putting myself out there\u0026quot;.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://sudorandom.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003esudorandom.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eI recently created a protoc plugin which generates OpenAPI files for people using ConnectRPC. It was useful for me and I\u0026#39;ve been happy at how useful it has been for others.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://github.com/sudorandom/protoc-gen-connect-openapi\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003egithub.com/sudorandom/protoc-g\u003c/span\u003e\u003cspan class=\"invisible\"\u003een-connect-openapi\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "content": "\u003cp\u003eI have two main projects at the moment:\u003c/p\u003e\u003cp\u003eUpdating my programming/tech blog. I hope to get better at writing about technical subjects. And I need to get better at \u0026quot;putting myself out there\u0026quot;.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://sudorandom.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003esudorandom.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eI recently created a protoc plugin which generates OpenAPI files for people using ConnectRPC. It was useful for me and I\u0026#39;ve been happy at how useful it has been for others.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://github.com/sudorandom/protoc-gen-connect-openapi\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003egithub.com/sudorandom/protoc-g\u003c/span\u003e\u003cspan class=\"invisible\"\u003een-connect-openapi\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
   "created_at": "2024-05-04T15:43:59.36Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],

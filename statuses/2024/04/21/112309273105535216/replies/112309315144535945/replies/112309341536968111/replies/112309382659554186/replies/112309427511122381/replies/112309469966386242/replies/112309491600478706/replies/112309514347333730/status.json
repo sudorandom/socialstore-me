@@ -29,7 +29,7 @@
   "in_reply_to_id": "112309491600478706",
   "in_reply_to_account_id": "109300069582362316",
   "reblog": null,
-  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Cool. \u003c/p\u003e\u003cp\u003eI spent some time in protowire recently as well. The main insight to me was that the “weird signatures” (why accept and return the byte slices everywhere?) is necessary to keep arguments in registers and avoid heap allocation during marshaling :)\u003c/p\u003e",
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Cool. \u003c/p\u003e\u003cp\u003eI spent some time in protowire recently as well. The main insight to me was that the “weird signatures” (why accept and return the byte slices everywhere?) is necessary to keep arguments in registers and avoid heap allocation during marshaling :)\u003c/p\u003e",
   "created_at": "2024-04-21T13:46:28Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],
