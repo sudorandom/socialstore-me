@@ -11,8 +11,8 @@
     "created_at": "2023-07-29T00:00:00Z",
     "followers_count": 291,
     "following_count": 4,
-    "statuses_count": 140,
-    "note": "\u003cp\u003eOpen source maintainer. Interactive technical books author.\u003c/p\u003e",
+    "statuses_count": 141,
+    "note": "\u003cp\u003eOpen source maintainer. Writing interactive technical books at \u003ca href=\"https://antonz.org\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eantonz.org\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://c.im/@antonz",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/803/034/501/343/629/original/e948bc67d06cfc5e.jpg",
     "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/803/034/501/343/629/original/e948bc67d06cfc5e.jpg",
@@ -29,7 +29,7 @@
       {
         "name": "GitHib",
         "value": "\u003ca href=\"https://github.com/nalgeon\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/nalgeon\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-01-05T08:06:14.522Z"
+        "verified_at": "2025-01-13T16:33:30.708Z"
       }
     ],
     "bot": false,
