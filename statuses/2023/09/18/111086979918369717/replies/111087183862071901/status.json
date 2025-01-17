@@ -8,23 +8,52 @@
     "acct": "budiman@qoto.org",
     "display_name": "Michael Job",
     "locked": false,
-    "created_at": "2022-11-07T00:00:00Z",
-    "followers_count": 102,
-    "following_count": 238,
-    "statuses_count": 1364,
+    "created_at": "2022-04-26T00:00:00Z",
+    "followers_count": 94,
+    "following_count": 227,
+    "statuses_count": 1344,
     "note": "\u003cp\u003esoftware guy with optometry past - he/him\u003c/p\u003e",
     "url": "https://qoto.org/@budiman",
-    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/300/927/020/185/563/original/d058f5e2d629258f.png",
-    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/300/927/020/185/563/original/d058f5e2d629258f.png",
-    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/300/927/020/185/563/original/b21a20f0dec48c6e.jpg",
-    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/300/927/020/185/563/original/b21a20f0dec48c6e.jpg",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/300/927/020/185/563/original/8e8324966d4cb3cc.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/300/927/020/185/563/original/8e8324966d4cb3cc.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/300/927/020/185/563/original/8a6375804fee6006.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/300/927/020/185/563/original/8a6375804fee6006.jpg",
     "emojis": [],
-    "moved": null,
+    "moved": {
+      "id": "111977819369617504",
+      "username": "michaeljob",
+      "acct": "michaeljob@mas.to",
+      "display_name": "michaeljob",
+      "locked": false,
+      "created_at": "2024-02-22T00:00:00Z",
+      "followers_count": 111,
+      "following_count": 271,
+      "statuses_count": 1154,
+      "note": "\u003cp\u003esoftware guy with optometry past - he/him\u003c/p\u003e",
+      "url": "https://mas.to/@michaeljob",
+      "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/111/977/819/369/617/504/original/5b5234b6acc345f3.png",
+      "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/111/977/819/369/617/504/original/5b5234b6acc345f3.png",
+      "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/111/977/819/369/617/504/original/cf74335d3dcae995.jpg",
+      "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/111/977/819/369/617/504/original/cf74335d3dcae995.jpg",
+      "emojis": [],
+      "moved": null,
+      "fields": [
+        {
+          "name": "web",
+          "value": "\u003ca href=\"https://www.michaeljob.ch\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003emichaeljob.ch\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "2025-01-17T11:16:11.001Z"
+        }
+      ],
+      "bot": false,
+      "discoverable": false,
+      "source": null,
+      "followed_tags": null
+    },
     "fields": [
       {
         "name": "website",
-        "value": "\u003ca href=\"https://www.michaeljob.ch\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003emichaeljob.ch\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2024-02-12T19:25:15.968Z"
+        "value": "\u003ca href=\"https://www.michaeljob.ch\" rel=\"nofollow noopener\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003emichaeljob.ch\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
       }
     ],
     "bot": false,
