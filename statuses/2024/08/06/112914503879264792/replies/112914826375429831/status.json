@@ -9,7 +9,7 @@
     "display_name": "Captain Steph",
     "locked": true,
     "created_at": "2022-11-03T00:00:00Z",
-    "followers_count": 450,
+    "followers_count": 447,
     "following_count": 345,
     "statuses_count": 3393,
     "note": "\u003cp\u003eI'm a web developer. I'm also a dad. I enjoy programming, gaming, photography and learning. \u003c/p\u003e\u003cp\u003eBe silly. Be kind. Be weird. \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://fosstodon.org/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ewebdev\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/devops\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003edevops\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/photography\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ephotography\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/gaming\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003egaming\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/quebecois\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003equebecois\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
@@ -34,7 +34,7 @@
       {
         "name": "GitHub",
         "value": "\u003ca href=\"https://github.com/sirber\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-01-19T17:00:34.926Z"
+        "verified_at": "2025-01-27T06:50:55.858Z"
       },
       {
         "name": "Pixelfed",
