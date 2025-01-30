@@ -79,9 +79,9 @@
         "display_name": "Cory Dransfeldt :demi:",
         "locked": false,
         "created_at": "2024-10-01T00:00:00Z",
-        "followers_count": 1055,
+        "followers_count": 1060,
         "following_count": 403,
-        "statuses_count": 1657,
+        "statuses_count": 1685,
         "note": "\u003cp\u003eHusband, dad, developer, music nerd.\u003c/p\u003e\u003cp\u003eEngineering, music, automation, general nerdery, \u003ca href=\"https://follow.coryd.dev/tags/tattoos\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003etattoos\u003c/span\u003e\u003c/a\u003e and rescue dogs.\u003c/p\u003e\u003cp\u003eDesign engineer @ Adobe working on Spectrum CSS (opinions are my own and all that).\u003c/p\u003e\u003cp\u003ePronouns: he/him/his\u003c/p\u003e",
         "url": "https://follow.coryd.dev/@cory",
         "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/234/541/441/700/977/original/5a825d4d6b0bbcb4.png",
@@ -101,22 +101,22 @@
           {
             "name": "🏡",
             "value": "\u003ca href=\"https://coryd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2025-01-28T20:16:36.489Z"
+            "verified_at": "2025-01-29T18:29:44.973Z"
           },
           {
             "name": "🎧",
             "value": "\u003ca href=\"https://coryd.dev/music\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev/music\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2025-01-28T20:16:36.83Z"
+            "verified_at": "2025-01-29T18:29:45.293Z"
           },
           {
             "name": "📖",
             "value": "\u003ca href=\"https://coryd.dev/feeds\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev/feeds\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2025-01-28T20:16:37.155Z"
+            "verified_at": "2025-01-29T18:29:45.598Z"
           },
           {
             "name": "💻",
             "value": "\u003ca href=\"https://github.com/cdransf\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/cdransf\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2025-01-28T20:16:37.519Z"
+            "verified_at": "2025-01-29T18:29:45.985Z"
           }
         ],
         "bot": false,
