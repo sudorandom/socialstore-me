@@ -6,12 +6,12 @@
     "id": "109281796624328471",
     "username": "sirber",
     "acct": "sirber@fosstodon.org",
-    "display_name": "Captain Steph",
+    "display_name": "Captain Steph 🇨🇦",
     "locked": true,
     "created_at": "2022-11-03T00:00:00Z",
-    "followers_count": 447,
-    "following_count": 345,
-    "statuses_count": 3412,
+    "followers_count": 446,
+    "following_count": 346,
+    "statuses_count": 3425,
     "note": "\u003cp\u003eI'm a web developer. I'm also a dad. I enjoy programming, gaming, photography and learning. \u003c/p\u003e\u003cp\u003eBe silly. Be kind. Be weird. \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://fosstodon.org/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ewebdev\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/devops\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003edevops\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/photography\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ephotography\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/gaming\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003egaming\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/quebecois\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003equebecois\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://fosstodon.org/@sirber",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/281/796/624/328/471/original/50a4c3084a54a467.png",
@@ -34,7 +34,7 @@
       {
         "name": "GitHub",
         "value": "\u003ca href=\"https://github.com/sirber\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-01-27T06:50:55.858Z"
+        "verified_at": "2025-02-02T01:03:12.337Z"
       },
       {
         "name": "Pixelfed",
