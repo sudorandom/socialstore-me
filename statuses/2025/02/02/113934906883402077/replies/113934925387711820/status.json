@@ -1,0 +1,98 @@
+{
+  "id": "113934925387711820",
+  "uri": "https://fosstodon.org/users/jfincher/statuses/113934925365855018",
+  "url": "https://fosstodon.org/@jfincher/113934925365855018",
+  "account": {
+    "id": "109298368728315082",
+    "username": "jfincher",
+    "acct": "jfincher@fosstodon.org",
+    "display_name": "Jon",
+    "locked": false,
+    "created_at": "2019-03-01T00:00:00Z",
+    "followers_count": 44,
+    "following_count": 98,
+    "statuses_count": 180,
+    "note": "\u003cp\u003eTeacher/Mentor at CodingNomads\u003cbr\u003eWriter, runner, model builder, reader, mini painter.\u003cbr\u003eDisplaced City Mouse.\u003cbr\u003eData driven humanist. Ally. \u003cbr\u003eHe/Him. \u003c/p\u003e\u003cp\u003eiconoclast@bookrastinating.com on BookWyrm\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://fosstodon.org/tags/linux\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003elinux\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/endeavouros\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eendeavouros\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003epython\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/teaching\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eteaching\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/obsidian\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eobsidian\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/miniaturepainting\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eminiaturepainting\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/minipainting\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eminipainting\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/modeling\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003emodeling\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/Writer\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eWriter\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/teacher\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eteacher\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/mentor\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ementor\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://fosstodon.org/@jfincher",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/298/368/728/315/082/original/9b158152e447cb23.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/298/368/728/315/082/original/9b158152e447cb23.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/298/368/728/315/082/original/ed405c887578c53d.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/298/368/728/315/082/original/ed405c887578c53d.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://cogitocoders.com/about-cogito-coders/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ecogitocoders.com/about-cogito-\u003c/span\u003e\u003cspan class=\"invisible\"\u003ecoders/\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-01-22T20:38:52.908Z"
+      },
+      {
+        "name": "CodingNomads Boot Camp",
+        "value": "\u003ca href=\"https://codingnomads.co\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecodingnomads.co\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Real Python",
+        "value": "\u003ca href=\"https://realpython.com\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003erealpython.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Lemmy",
+        "value": "\u003ca href=\"https://midwest.social/u/displaced_city_mouse\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003emidwest.social/u/displaced_cit\u003c/span\u003e\u003cspan class=\"invisible\"\u003ey_mouse\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "113934906883402077",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Like most of the artistic endeavours I take on, finishing them is always a challenge. I've got several ideas for short stories started, with the plot mapped and ideas for the ending -- now all I need to do is execute on them.\u003c/p\u003e",
+  "created_at": "2025-02-02T15:09:53Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
