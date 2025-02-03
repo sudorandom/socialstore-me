@@ -10,8 +10,8 @@
     "locked": false,
     "created_at": "2019-03-01T00:00:00Z",
     "followers_count": 44,
-    "following_count": 98,
-    "statuses_count": 180,
+    "following_count": 100,
+    "statuses_count": 181,
     "note": "\u003cp\u003eTeacher/Mentor at CodingNomads\u003cbr\u003eWriter, runner, model builder, reader, mini painter.\u003cbr\u003eDisplaced City Mouse.\u003cbr\u003eData driven humanist. Ally. \u003cbr\u003eHe/Him. \u003c/p\u003e\u003cp\u003eiconoclast@bookrastinating.com on BookWyrm\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://fosstodon.org/tags/linux\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003elinux\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/endeavouros\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eendeavouros\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003epython\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/teaching\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eteaching\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/obsidian\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eobsidian\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/miniaturepainting\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eminiaturepainting\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/minipainting\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eminipainting\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/modeling\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003emodeling\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/Writer\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eWriter\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/teacher\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eteacher\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/mentor\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ementor\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://fosstodon.org/@jfincher",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/298/368/728/315/082/original/9b158152e447cb23.jpg",
@@ -24,7 +24,7 @@
       {
         "name": "Website",
         "value": "\u003ca href=\"https://cogitocoders.com/about-cogito-coders/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ecogitocoders.com/about-cogito-\u003c/span\u003e\u003cspan class=\"invisible\"\u003ecoders/\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-01-22T20:38:52.908Z"
+        "verified_at": "2025-02-03T03:34:32.042Z"
       },
       {
         "name": "CodingNomads Boot Camp",
@@ -32,8 +32,8 @@
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
-        "name": "Real Python",
-        "value": "\u003ca href=\"https://realpython.com\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003erealpython.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "name": "PixelFed",
+        "value": "\u003ca href=\"https://metapixl.com/displacedcitymouse\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003emetapixl.com/displacedcitymous\u003c/span\u003e\u003cspan class=\"invisible\"\u003ee\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
