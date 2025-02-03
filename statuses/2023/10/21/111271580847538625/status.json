@@ -103,8 +103,8 @@
           "verified_at": "0001-01-01T00:00:00Z"
         },
         {
-          "name": "Label",
-          "value": "Content",
+          "name": "solar rotations per planetary rotation",
+          "value": "0.00273785078",
           "verified_at": "0001-01-01T00:00:00Z"
         }
       ],
