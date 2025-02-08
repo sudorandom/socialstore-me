@@ -9,9 +9,9 @@
     "display_name": "Jeff Triplett",
     "locked": false,
     "created_at": "2017-04-03T00:00:00Z",
-    "followers_count": 2003,
-    "following_count": 782,
-    "statuses_count": 11008,
+    "followers_count": 2001,
+    "following_count": 784,
+    "statuses_count": 11020,
     "note": "\u003cp\u003e🌋 @defnado cofounder, 🏝 @djangocon organizer, 🏎 @revsys consultant, 🐍 \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://mastodon.social/@Thepsf\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eThepsf\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e former director, vice-chair, and treasurer, 🦄 @djangoproject member, 🏀, ✨, 💪, 🏃‍♂️, 🤖, Oh Mai.\u003c/p\u003e\u003cp\u003eIf you are into \u003ca href=\"https://mastodon.social/tags/django\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003edjango\u003c/span\u003e\u003c/a\u003e and \u003ca href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003epython\u003c/span\u003e\u003c/a\u003e content, please follow \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://mastodon.social/@djangonews\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003edjangonews\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
     "url": "https://mastodon.social/@webology",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/000/019/514/original/1fdaf5468679053e.jpg",
@@ -29,12 +29,12 @@
       {
         "name": "Blog",
         "value": "\u003ca href=\"https://jefftriplett.com\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ejefftriplett.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-01-31T21:10:55.915Z"
+        "verified_at": "2025-02-07T20:27:58.431Z"
       },
       {
         "name": "Code",
         "value": "\u003ca href=\"https://github.com/jefftriplett\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/jefftriplett\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-01-31T21:10:56.484Z"
+        "verified_at": "2025-02-07T20:27:58.779Z"
       },
       {
         "name": "Developer/Partner",

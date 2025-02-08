@@ -55,8 +55,8 @@
       "display_name": "Bastian Allgeier",
       "locked": false,
       "created_at": "2016-11-01T00:00:00Z",
-      "followers_count": 4131,
-      "following_count": 850,
+      "followers_count": 4140,
+      "following_count": 851,
       "statuses_count": 4043,
       "note": "\u003cp\u003eDesigner \u0026amp; developer. Creator of Kirby CMS\u003c/p\u003e",
       "url": "https://mastodon.social/@bastianallgeier",
@@ -70,7 +70,7 @@
         {
           "name": "Website",
           "value": "\u003ca href=\"https://bastianallgeier.com\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ebastianallgeier.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-01-31T00:00:36.766Z"
+          "verified_at": "2025-02-07T16:40:39.661Z"
         },
         {
           "name": "Project",
@@ -80,7 +80,7 @@
         {
           "name": "Github",
           "value": "\u003ca href=\"https://github.com/bastianallgeier\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/bastianallgeier\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-01-31T00:00:37.72Z"
+          "verified_at": "2025-02-07T16:40:40.755Z"
         }
       ],
       "bot": false,
