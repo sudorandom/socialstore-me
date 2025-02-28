@@ -55,8 +55,8 @@
       "display_name": "Dmitry Tantsur",
       "locked": false,
       "created_at": "2022-11-04T00:00:00Z",
-      "followers_count": 238,
-      "following_count": 156,
+      "followers_count": 241,
+      "following_count": 159,
       "statuses_count": 3817,
       "note": "\u003cp\u003eWorking on Ironic for OpenShift and sometimes OpenStack, maintaining openstack/osauth rust crates. FOSS, hiking, camping, bouldering and music.\u003c/p\u003e\u003cp\u003eAn owl from Düsseldorf. Toots in EN, DE, RU. He/him.\u003c/p\u003e",
       "url": "https://mastodon.online/@creepy_owlet",
@@ -75,7 +75,7 @@
         {
           "name": "GitHub",
           "value": "\u003ca href=\"https://github.com/dtantsur\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/dtantsur\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-02-19T00:52:29.165Z"
+          "verified_at": "2025-02-27T20:53:16.018Z"
         },
         {
           "name": "Main project",
