@@ -79,13 +79,13 @@
         "display_name": "Cory Dransfeldt :demi:",
         "locked": false,
         "created_at": "2024-10-01T00:00:00Z",
-        "followers_count": 1087,
+        "followers_count": 1088,
         "following_count": 409,
-        "statuses_count": 2127,
+        "statuses_count": 2132,
         "note": "\u003cp\u003eHusband, dad, developer, music nerd.\u003c/p\u003e\u003cp\u003eEngineering, music, automation, general nerdery, \u003ca href=\"https://follow.coryd.dev/tags/tattoos\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003etattoos\u003c/span\u003e\u003c/a\u003e and rescue dogs.\u003c/p\u003e\u003cp\u003eDesign engineer @ Adobe working on Spectrum CSS (opinions are my own and all that).\u003c/p\u003e\u003cp\u003ePronouns: he/him/his\u003c/p\u003e",
         "url": "https://follow.coryd.dev/@cory",
-        "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/234/541/441/700/977/original/5a825d4d6b0bbcb4.png",
-        "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/234/541/441/700/977/original/5a825d4d6b0bbcb4.png",
+        "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/234/541/441/700/977/original/780454663dd61ab2.png",
+        "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/234/541/441/700/977/original/780454663dd61ab2.png",
         "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/113/234/541/441/700/977/original/c449e4a7e5a11d83.png",
         "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/113/234/541/441/700/977/original/c449e4a7e5a11d83.png",
         "emojis": [
@@ -101,22 +101,22 @@
           {
             "name": "🏡",
             "value": "\u003ca href=\"https://www.coryd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2025-02-28T04:55:37.882Z"
+            "verified_at": "2025-03-02T23:15:05.11Z"
           },
           {
             "name": "🎧",
             "value": "\u003ca href=\"https://www.coryd.dev/music\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev/music\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2025-02-28T04:55:38.032Z"
+            "verified_at": "2025-03-02T23:15:05.146Z"
           },
           {
             "name": "📖",
             "value": "\u003ca href=\"https://www.coryd.dev/feeds\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev/feeds\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2025-02-28T04:55:38.195Z"
+            "verified_at": "2025-03-02T23:15:05.175Z"
           },
           {
             "name": "💻",
             "value": "\u003ca href=\"https://github.com/cdransf\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/cdransf\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2025-02-28T04:55:38.497Z"
+            "verified_at": "2025-03-02T23:15:05.432Z"
           }
         ],
         "bot": false,
