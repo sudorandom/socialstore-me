@@ -23,30 +23,37 @@
       "id": "113934608884867221",
       "username": "s1r83r",
       "acct": "s1r83r@pataterie.ca",
-      "display_name": "Steph 🇨🇦 🇺🇦",
+      "display_name": "Steph :quebec: 🇨🇦",
       "locked": false,
       "created_at": "2025-02-02T00:00:00Z",
-      "followers_count": 472,
-      "following_count": 382,
-      "statuses_count": 1540,
+      "followers_count": 473,
+      "following_count": 386,
+      "statuses_count": 1599,
       "note": "\u003cp\u003eDéveloppeur Web, Papa, Jeux Vidéos, Photographie! Et humour louche.\u003c/p\u003e\u003cp\u003eQuébécois Français / English\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://pataterie.ca/tags/tech\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003etech\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/quebec\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003equebec\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/photography\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ephotography\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ewebdev\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/meme\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ememe\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003efedi22\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/JavaScript\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eJavaScript\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/TypeScript\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eTypeScript\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/php\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ephp\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/asperger\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003easperger\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
       "url": "https://pataterie.ca/@s1r83r",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/934/608/884/867/221/original/3bc2cafa7df86cbd.png",
       "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/934/608/884/867/221/original/3bc2cafa7df86cbd.png",
       "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/113/934/608/884/867/221/original/dbd41a53be48c275.png",
       "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/113/934/608/884/867/221/original/dbd41a53be48c275.png",
-      "emojis": [],
+      "emojis": [
+        {
+          "shortcode": "quebec",
+          "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/550/977/static/a9b71fad8c094fbf.png",
+          "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/550/977/original/a9b71fad8c094fbf.png",
+          "visible_in_picker": true
+        }
+      ],
       "moved": null,
       "fields": [
         {
           "name": "Pixelfed",
           "value": "\u003ca href=\"https://pixelfed.social/sirber\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epixelfed.social/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-03-10T01:47:32.927Z"
+          "verified_at": "2025-03-10T19:50:05.994Z"
         },
         {
           "name": "GitHub",
           "value": "\u003ca href=\"https://github.com/sirber\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-03-10T01:47:33.212Z"
+          "verified_at": "2025-03-10T19:50:06.036Z"
         }
       ],
       "bot": false,
