@@ -26,10 +26,10 @@
       "display_name": "Steph :quebec: 🇨🇦",
       "locked": false,
       "created_at": "2025-02-02T00:00:00Z",
-      "followers_count": 473,
-      "following_count": 386,
-      "statuses_count": 1649,
-      "note": "\u003cp\u003eDéveloppeur Web, Papa, Jeux Vidéos, Photographie! Et humour louche.\u003c/p\u003e\u003cp\u003eQuébécois Français / English\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://pataterie.ca/tags/tech\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003etech\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/quebec\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003equebec\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/photography\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ephotography\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ewebdev\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/meme\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ememe\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003efedi22\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/JavaScript\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eJavaScript\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/TypeScript\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eTypeScript\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/php\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ephp\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/asperger\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003easperger\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+      "followers_count": 474,
+      "following_count": 382,
+      "statuses_count": 1665,
+      "note": "\u003cp\u003eDéveloppeur Web, Papa, Jeux Vidéos, Photographie! \u003cbr\u003eEt humour louche.\u003c/p\u003e\u003cp\u003eQuébécois Français / English\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://pataterie.ca/tags/tech\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003etech\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/quebec\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003equebec\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/photography\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ephotography\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ewebdev\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/meme\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ememe\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003efedi22\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/JavaScript\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eJavaScript\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/TypeScript\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eTypeScript\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/php\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ephp\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/asperger\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003easperger\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
       "url": "https://pataterie.ca/@s1r83r",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/934/608/884/867/221/original/3bc2cafa7df86cbd.png",
       "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/934/608/884/867/221/original/3bc2cafa7df86cbd.png",
@@ -48,12 +48,12 @@
         {
           "name": "Pixelfed",
           "value": "\u003ca href=\"https://pixelfed.social/sirber\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epixelfed.social/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-03-10T19:50:05.994Z"
+          "verified_at": "2025-03-12T13:08:42.329Z"
         },
         {
           "name": "GitHub",
           "value": "\u003ca href=\"https://github.com/sirber\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-03-10T19:50:06.036Z"
+          "verified_at": "2025-03-12T13:08:42.625Z"
         }
       ],
       "bot": false,
