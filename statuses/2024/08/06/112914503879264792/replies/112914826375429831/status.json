@@ -7,11 +7,11 @@
     "username": "sirber",
     "acct": "sirber@fosstodon.org",
     "display_name": "Captain Steph 🇨🇦",
-    "locked": true,
+    "locked": false,
     "created_at": "2022-11-03T00:00:00Z",
-    "followers_count": 440,
-    "following_count": 347,
-    "statuses_count": 3421,
+    "followers_count": 505,
+    "following_count": 410,
+    "statuses_count": 3442,
     "note": "\u003cp\u003eI'm a web developer. I'm also a dad. I enjoy programming, gaming, photography and learning. \u003c/p\u003e\u003cp\u003eBe silly. Be kind. Be weird. \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://fosstodon.org/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ewebdev\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/devops\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003edevops\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/photography\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ephotography\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/gaming\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003egaming\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/quebecois\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003equebecois\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://fosstodon.org/@sirber",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/281/796/624/328/471/original/50a4c3084a54a467.png",
@@ -19,72 +19,26 @@
     "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/281/796/624/328/471/original/6a7680af89cff8be.png",
     "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/281/796/624/328/471/original/6a7680af89cff8be.png",
     "emojis": [],
-    "moved": {
-      "id": "113934608884867221",
-      "username": "s1r83r",
-      "acct": "s1r83r@pataterie.ca",
-      "display_name": "Steph :quebec: 🇨🇦",
-      "locked": false,
-      "created_at": "2025-02-02T00:00:00Z",
-      "followers_count": 475,
-      "following_count": 382,
-      "statuses_count": 1759,
-      "note": "\u003cp\u003eDéveloppeur Web, Papa, Jeux Vidéos, Photographie! \u003cbr\u003eEt humour louche.\u003c/p\u003e\u003cp\u003eQuébécois Français / English\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://pataterie.ca/tags/tech\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003etech\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/quebec\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003equebec\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/photography\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ephotography\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ewebdev\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/meme\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ememe\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003efedi22\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/JavaScript\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eJavaScript\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/TypeScript\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eTypeScript\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/php\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ephp\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pataterie.ca/tags/asperger\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003easperger\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
-      "url": "https://pataterie.ca/@s1r83r",
-      "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/934/608/884/867/221/original/3bc2cafa7df86cbd.png",
-      "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/934/608/884/867/221/original/3bc2cafa7df86cbd.png",
-      "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/113/934/608/884/867/221/original/dbd41a53be48c275.png",
-      "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/113/934/608/884/867/221/original/dbd41a53be48c275.png",
-      "emojis": [
-        {
-          "shortcode": "quebec",
-          "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/550/977/static/a9b71fad8c094fbf.png",
-          "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/550/977/original/a9b71fad8c094fbf.png",
-          "visible_in_picker": true
-        }
-      ],
-      "moved": null,
-      "fields": [
-        {
-          "name": "Pixelfed",
-          "value": "\u003ca href=\"https://pixelfed.social/sirber\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epixelfed.social/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-03-12T13:08:42.329Z"
-        },
-        {
-          "name": "GitHub",
-          "value": "\u003ca href=\"https://github.com/sirber\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-03-12T13:08:42.625Z"
-        }
-      ],
-      "bot": false,
-      "discoverable": true,
-      "source": null,
-      "followed_tags": null
-    },
+    "moved": null,
     "fields": [
       {
-        "name": "Location",
-        "value": "Québec, Canada",
-        "verified_at": "0001-01-01T00:00:00Z"
-      },
-      {
-        "name": "BlueSky",
-        "value": "\u003ca href=\"https://bsky.app/profile/s1r83r.bsky.social\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ebsky.app/profile/s1r83r.bsky.s\u003c/span\u003e\u003cspan class=\"invisible\"\u003eocial\u003c/span\u003e\u003c/a\u003e",
+        "name": "Languages",
+        "value": "js, ts, php",
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
         "name": "GitHub",
         "value": "\u003ca href=\"https://github.com/sirber\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-02-02T13:54:56.677Z"
+        "verified_at": "2025-03-13T23:51:24.661Z"
       },
       {
         "name": "Pixelfed",
-        "value": "\u003ca href=\"https://pixelfed.social/sirber\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epixelfed.social/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "0001-01-01T00:00:00Z"
+        "value": "\u003ca href=\"https://pixelfed.social/sirber\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epixelfed.social/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-03-13T23:51:24.82Z"
       }
     ],
     "bot": false,
-    "discoverable": true,
+    "discoverable": false,
     "source": null,
     "followed_tags": null
   },
