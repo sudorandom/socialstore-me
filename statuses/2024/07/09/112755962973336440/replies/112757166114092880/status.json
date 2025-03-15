@@ -11,7 +11,7 @@
     "created_at": "2017-12-21T00:00:00Z",
     "followers_count": 364,
     "following_count": 557,
-    "statuses_count": 5242,
+    "statuses_count": 5267,
     "note": "\u003cp\u003eSystems stuff, Security, Infrastructure, Open Source, and reliability mostly. But people first. Kindness is strength.\u003c/p\u003e\u003cp\u003eNoise maker. Team builder. Unafraid of kernel space.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://patagia.se\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epatagia.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://mastodon.social/@dln",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/263/174/159/526/577/original/b7bc70932bcffd8d.jpg",
@@ -22,14 +22,14 @@
     "moved": null,
     "fields": [
       {
-        "name": "Web",
-        "value": "\u003ca href=\"https://patagia.se\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epatagia.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "0001-01-01T00:00:00Z"
+        "name": "Work",
+        "value": "\u003ca href=\"https://patagia.se\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epatagia.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-03-14T15:00:39.102Z"
       },
       {
-        "name": "GitHub",
-        "value": "\u003ca href=\"https://github.com/dln\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/dln\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-03-14T14:30:30.361Z"
+        "name": "My Website",
+        "value": "\u003ca href=\"https://arity.se\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003earity.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-03-14T15:00:39.182Z"
       },
       {
         "name": "Signal",
