@@ -55,9 +55,9 @@
       "display_name": "matdevdug",
       "locked": false,
       "created_at": "2022-10-29T00:00:00Z",
-      "followers_count": 1054,
-      "following_count": 423,
-      "statuses_count": 980,
+      "followers_count": 1055,
+      "following_count": 422,
+      "statuses_count": 982,
       "note": "\u003cp\u003eSecurity/Devops engineer. Moved from Chicago to Denmark. I’m an expert on nothing but I’m trying.\u003c/p\u003e",
       "url": "https://c.im/@matdevdug",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/315/082/071/853/305/original/fc4b79d2cdfb1369.jpeg",
@@ -70,7 +70,7 @@
         {
           "name": "Blog",
           "value": "\u003ca href=\"https://matduggan.com\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ematduggan.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-03-11T09:03:40.373Z"
+          "verified_at": "2025-03-16T00:54:45.179Z"
         }
       ],
       "bot": false,
