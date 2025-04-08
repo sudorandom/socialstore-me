@@ -10,8 +10,8 @@
     "locked": false,
     "created_at": "2022-11-04T00:00:00Z",
     "followers_count": 465,
-    "following_count": 120,
-    "statuses_count": 6018,
+    "following_count": 121,
+    "statuses_count": 6024,
     "note": "\u003cp\u003eBrit who moved to Denmark in 2019. I seem not to be too bad at photography. Also a fan of real ale.\u003c/p\u003e\u003cp\u003eJeg taler også dansk men jeg ved ikke endnu, om jeg kommer til at toote på dansk på denne konto.\u003c/p\u003e\u003cp\u003eI do software stuff to pay the rent.\u003c/p\u003e",
     "url": "https://tech.lgbt/@rvedotrc",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/293/488/540/779/971/original/aed43c2ee054444d.jpg",
@@ -38,12 +38,17 @@
       },
       {
         "name": "Pronouns",
-        "value": "\u003ca href=\"https://pronoun.is/she\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epronoun.is/she\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "value": "she/her/hers",
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
         "name": "Handle in many places",
         "value": "rvedotrc",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Politics",
+        "value": "\u003ca href=\"https://tech.lgbt/@rvedotrc_politics\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etech.lgbt/@rvedotrc_politics\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       }
     ],
