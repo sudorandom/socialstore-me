@@ -26,9 +26,9 @@
       "display_name": "Stéphane",
       "locked": true,
       "created_at": "2025-04-04T00:00:00Z",
-      "followers_count": 494,
-      "following_count": 407,
-      "statuses_count": 366,
+      "followers_count": 498,
+      "following_count": 410,
+      "statuses_count": 374,
       "note": "\u003cp\u003eI'm a web developer. I'm also a dad. I enjoy programming, gaming, photography and learning. \u003c/p\u003e\u003cp\u003eBe silly. Be kind. Be weird. \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://jasette.facil.services/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ewebdev\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://jasette.facil.services/tags/devops\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003edevops\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://jasette.facil.services/tags/photography\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ephotography\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://jasette.facil.services/tags/gaming\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003egaming\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://jasette.facil.services/tags/quebecois\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003equebecois\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
       "url": "https://jasette.facil.services/@sirber",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/114/281/976/151/197/591/original/56a60c8188ecee88.jpeg",
@@ -46,12 +46,17 @@
         {
           "name": "GitHub",
           "value": "\u003ca href=\"https://github.com/sirber\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-04-10T09:55:48.13Z"
+          "verified_at": "2025-04-11T12:21:23.591Z"
         },
         {
           "name": "PixelFed",
           "value": "\u003ca href=\"https://pixelfed.social/sirber\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epixelfed.social/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-04-10T09:55:48.277Z"
+          "verified_at": "2025-04-11T12:21:23.765Z"
+        },
+        {
+          "name": "Bluesky",
+          "value": "\u003ca href=\"https://bsky.app/profile/s1r83r.bsky.social\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ebsky.app/profile/s1r83r.bsky.s\u003c/span\u003e\u003cspan class=\"invisible\"\u003eocial\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "0001-01-01T00:00:00Z"
         }
       ],
       "bot": false,
