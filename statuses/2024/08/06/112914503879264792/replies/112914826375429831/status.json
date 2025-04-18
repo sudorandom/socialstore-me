@@ -6,78 +6,29 @@
     "id": "109281796624328471",
     "username": "sirber",
     "acct": "sirber@fosstodon.org",
-    "display_name": "Captain Steph",
-    "locked": true,
+    "display_name": "Stéphane",
+    "locked": false,
     "created_at": "2022-11-03T00:00:00Z",
-    "followers_count": 46,
-    "following_count": 428,
-    "statuses_count": 4508,
+    "followers_count": 173,
+    "following_count": 437,
+    "statuses_count": 4524,
     "note": "\u003cp\u003eI'm a web developer. I'm also a dad. I enjoy programming, gaming, photography and learning. \u003c/p\u003e\u003cp\u003eBe silly. Be kind. Be weird. \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://fosstodon.org/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ewebdev\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/devops\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003edevops\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/photography\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ephotography\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/gaming\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003egaming\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fosstodon.org/tags/quebecois\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003equebecois\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://fosstodon.org/@sirber",
-    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/281/796/624/328/471/original/50a4c3084a54a467.png",
-    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/281/796/624/328/471/original/50a4c3084a54a467.png",
-    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/281/796/624/328/471/original/34f08b4d0765f5d8.jpeg",
-    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/281/796/624/328/471/original/34f08b4d0765f5d8.jpeg",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/281/796/624/328/471/original/420cf4b6d9cd83f9.jpeg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/281/796/624/328/471/original/420cf4b6d9cd83f9.jpeg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/281/796/624/328/471/original/0e8553eca74d46f7.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/281/796/624/328/471/original/0e8553eca74d46f7.jpg",
     "emojis": [],
-    "moved": {
-      "id": "114281976151197591",
-      "username": "sirber",
-      "acct": "sirber@jasette.facil.services",
-      "display_name": "Stéphane",
-      "locked": true,
-      "created_at": "2025-04-04T00:00:00Z",
-      "followers_count": 497,
-      "following_count": 409,
-      "statuses_count": 443,
-      "note": "\u003cp\u003eI'm a web developer. I'm also a dad. I enjoy programming, gaming, photography and learning. \u003c/p\u003e\u003cp\u003eBe silly. Be kind. Be weird. \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://jasette.facil.services/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ewebdev\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://jasette.facil.services/tags/devops\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003edevops\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://jasette.facil.services/tags/photography\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ephotography\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://jasette.facil.services/tags/gaming\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003egaming\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://jasette.facil.services/tags/quebecois\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003equebecois\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
-      "url": "https://jasette.facil.services/@sirber",
-      "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/114/281/976/151/197/591/original/56a60c8188ecee88.jpeg",
-      "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/114/281/976/151/197/591/original/56a60c8188ecee88.jpeg",
-      "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/114/281/976/151/197/591/original/7a97b8f97f2028b0.webp",
-      "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/114/281/976/151/197/591/original/7a97b8f97f2028b0.webp",
-      "emojis": [],
-      "moved": null,
-      "fields": [
-        {
-          "name": "Languages",
-          "value": "fr, en, php, ts, js",
-          "verified_at": "0001-01-01T00:00:00Z"
-        },
-        {
-          "name": "GitHub",
-          "value": "\u003ca href=\"https://github.com/sirber\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-04-16T16:33:23.967Z"
-        },
-        {
-          "name": "Bluesky",
-          "value": "\u003ca href=\"https://bsky.app/profile/s1r83r.bsky.social\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ebsky.app/profile/s1r83r.bsky.s\u003c/span\u003e\u003cspan class=\"invisible\"\u003eocial\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "0001-01-01T00:00:00Z"
-        }
-      ],
-      "bot": false,
-      "discoverable": true,
-      "source": null,
-      "followed_tags": null
-    },
+    "moved": null,
     "fields": [
-      {
-        "name": "Languages",
-        "value": "js, ts, php",
-        "verified_at": "0001-01-01T00:00:00Z"
-      },
       {
         "name": "GitHub",
         "value": "\u003ca href=\"https://github.com/sirber\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
-      },
-      {
-        "name": "Pixelfed",
-        "value": "\u003ca href=\"https://pixelfed.social/sirber\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epixelfed.social/sirber\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "0001-01-01T00:00:00Z"
       }
     ],
     "bot": false,
-    "discoverable": false,
+    "discoverable": true,
     "source": null,
     "followed_tags": null
   },
