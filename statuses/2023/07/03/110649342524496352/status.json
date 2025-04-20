@@ -9,7 +9,7 @@
     "display_name": "Kevin McDonald",
     "locked": false,
     "created_at": "2022-11-07T00:00:00Z",
-    "followers_count": 210,
+    "followers_count": 211,
     "following_count": 73,
     "statuses_count": 887,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
@@ -55,9 +55,9 @@
       "display_name": "Dmitry Tantsur",
       "locked": false,
       "created_at": "2022-11-04T00:00:00Z",
-      "followers_count": 253,
-      "following_count": 163,
-      "statuses_count": 4125,
+      "followers_count": 256,
+      "following_count": 164,
+      "statuses_count": 4127,
       "note": "\u003cp\u003eWorking on Ironic for OpenShift and sometimes OpenStack, maintaining openstack/osauth rust crates. FOSS, hiking, camping, bouldering and music.\u003c/p\u003e\u003cp\u003eAn owl from Düsseldorf. Toots in EN, DE, RU. He/him.\u003c/p\u003e",
       "url": "https://mastodon.online/@creepy_owlet",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/286/185/748/204/425/original/209a7a79d1f84ada.png",
@@ -75,15 +75,15 @@
         {
           "name": "GitHub",
           "value": "\u003ca href=\"https://github.com/dtantsur\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/dtantsur\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-04-15T09:44:38.402Z"
+          "verified_at": "2025-04-19T17:27:12.758Z"
         },
         {
-          "name": "Main project",
-          "value": "\u003ca href=\"https://ironicbaremetal.org\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eironicbaremetal.org\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "name": "Pixelfed",
+          "value": "\u003ca href=\"https://pixelfed.de/creepy_owlet\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epixelfed.de/creepy_owlet\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
           "verified_at": "0001-01-01T00:00:00Z"
         },
         {
-          "name": "Second project",
+          "name": "Main project",
           "value": "\u003ca href=\"https://metal3.io\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emetal3.io\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
           "verified_at": "0001-01-01T00:00:00Z"
         }

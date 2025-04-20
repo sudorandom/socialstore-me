@@ -9,7 +9,7 @@
     "display_name": "Kevin McDonald",
     "locked": false,
     "created_at": "2022-11-07T00:00:00Z",
-    "followers_count": 210,
+    "followers_count": 211,
     "following_count": 73,
     "statuses_count": 887,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
@@ -55,9 +55,9 @@
       "display_name": "Neil Brown",
       "locked": false,
       "created_at": "2018-02-21T00:00:00Z",
-      "followers_count": 7868,
-      "following_count": 649,
-      "statuses_count": 3111,
+      "followers_count": 7875,
+      "following_count": 652,
+      "statuses_count": 9940,
       "note": "\u003cp\u003eEnglish Internet, telecoms, and tech lawyer (\u003ca href=\"https://decoded.legal\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edecoded.legal\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e).\u003c/p\u003e\u003cp\u003eLinux / FOSS, legal stuff, and puns. Terrible puns.\u003c/p\u003e\u003cp\u003eHe/him. Cishet, lucky husband.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://mastodon.neilzone.co.uk/tags/NoBot\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eNoBot\u003c/span\u003e\u003c/a\u003e / \u003ca href=\"https://mastodon.neilzone.co.uk/tags/NoSearch\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eNoSearch\u003c/span\u003e\u003c/a\u003e / \u003ca href=\"https://mastodon.neilzone.co.uk/tags/NoIndex\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eNoIndex\u003c/span\u003e\u003c/a\u003e / \u003ca href=\"https://mastodon.neilzone.co.uk/tags/NoNoNoNoNoNoNoNoTheresNoLimit\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eNoNoNoNoNoNoNoNoTheresNoLimit\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
       "url": "https://mastodon.neilzone.co.uk/@neil",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/167/729/original/547b9266eb59dffa.jpg",
@@ -70,7 +70,7 @@
         {
           "name": "My business",
           "value": "\u003ca href=\"https://decoded.legal/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edecoded.legal/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-04-18T17:01:17.447Z"
+          "verified_at": "2025-04-19T20:27:02.343Z"
         },
         {
           "name": "Business onion",
@@ -80,7 +80,7 @@
         {
           "name": "Personal (mostly tech stuff)",
           "value": "\u003ca href=\"https://neilzone.co.uk\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eneilzone.co.uk\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-04-18T17:01:17.626Z"
+          "verified_at": "2025-04-19T20:27:02.499Z"
         },
         {
           "name": "Personal onion",
@@ -90,7 +90,7 @@
         {
           "name": "Online Safety Act",
           "value": "\u003ca href=\"https://onlinesafetyact.co.uk\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eonlinesafetyact.co.uk\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-04-18T17:01:17.719Z"
+          "verified_at": "2025-04-19T20:27:02.663Z"
         },
         {
           "name": "Online Safety Act onion",
