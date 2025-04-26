@@ -42,16 +42,16 @@
     "source": null,
     "followed_tags": null
   },
-  "in_reply_to_id": "112914826375429831",
-  "in_reply_to_account_id": "109281796624328471",
+  "in_reply_to_id": null,
+  "in_reply_to_account_id": null,
   "reblog": null,
-  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://fosstodon.org/@sirber\" class=\"u-url mention\"\u003e@\u003cspan\u003esirber\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e That is, indeed, one argument against HTTP/3.\u003c/p\u003e\u003cp\u003eAlthough you were making a joke, the 30MB of garbage javascript could be downloaded faster using HTTP/3 in environments with relatively high packet loss since head-of-line blocking is no longer a factor when loading resources on a single connection.\u003c/p\u003e\u003cp\u003eHowever, there are certainly better use-cases than just loading websites. Having smoother failover for live streaming and audio/video conferencing are the use-cases that benefit the most from HTTP/3 and QUIC.\u003c/p\u003e",
+  "content": "\u003cp\u003e@sirber@fosstodon.org That is, indeed, one argument against HTTP/3.\u003c/p\u003e\u003cp\u003eAlthough you were making a joke, the 30MB of garbage javascript could be downloaded faster using HTTP/3 in environments with relatively high packet loss since head-of-line blocking is no longer a factor when loading resources on a single connection.\u003c/p\u003e\u003cp\u003eHowever, there are certainly better use-cases than just loading websites. Having smoother failover for live streaming and audio/video conferencing are the use-cases that benefit the most from HTTP/3 and QUIC.\u003c/p\u003e",
   "created_at": "2024-08-06T11:35:40.328Z",
   "edited_at": "0001-01-01T00:00:00Z",
   "emojis": [],
   "replies_count": 0,
   "reblogs_count": 0,
-  "favourites_count": 1,
+  "favourites_count": 0,
   "reblogged": false,
   "favourited": false,
   "bookmarked": false,
@@ -60,14 +60,7 @@
   "spoiler_text": "",
   "visibility": "unlisted",
   "media_attachments": [],
-  "mentions": [
-    {
-      "url": "https://fosstodon.org/@sirber",
-      "username": "sirber",
-      "acct": "sirber@fosstodon.org",
-      "id": "109281796624328471"
-    }
-  ],
+  "mentions": [],
   "tags": [],
   "card": null,
   "poll": null,
