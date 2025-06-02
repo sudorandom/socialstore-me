@@ -9,7 +9,7 @@
     "display_name": "Edbro",
     "locked": false,
     "created_at": "2022-12-20T00:00:00Z",
-    "followers_count": 134,
+    "followers_count": 133,
     "following_count": 98,
     "statuses_count": 1058,
     "note": "\u003cp\u003eA \u003ca href=\"https://swecyb.com/tags/cybersecurity\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ecybersecurity\u003c/span\u003e\u003c/a\u003e consultant and moonlight \u003ca href=\"https://swecyb.com/tags/blogger\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eblogger\u003c/span\u003e\u003c/a\u003e. A random dude on the interwebs wishing to build a safer and more secure (digital) world. Talking about things on my mind, as an individual in this strange world.\u003c/p\u003e",
@@ -24,7 +24,7 @@
       {
         "name": "Website",
         "value": "\u003ca href=\"https://edbro.net\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eedbro.net\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-05-23T13:07:44.982Z"
+        "verified_at": "2025-06-01T16:05:55.767Z"
       },
       {
         "name": "Linkedin",
@@ -39,7 +39,7 @@
       {
         "name": "Github",
         "value": "\u003ca href=\"https://github.com/oedbro\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/oedbro\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-05-23T13:07:45.794Z"
+        "verified_at": "2025-06-01T16:05:56.608Z"
       }
     ],
     "bot": false,
