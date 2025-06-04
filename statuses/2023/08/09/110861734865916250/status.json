@@ -11,7 +11,7 @@
     "created_at": "2022-11-07T00:00:00Z",
     "followers_count": 214,
     "following_count": 73,
-    "statuses_count": 904,
+    "statuses_count": 906,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://infosec.exchange/@sudorandom",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
@@ -55,10 +55,10 @@
       "display_name": "MikroTik",
       "locked": false,
       "created_at": "2023-05-17T00:00:00Z",
-      "followers_count": 1837,
-      "following_count": 20,
-      "statuses_count": 358,
-      "note": "\u003cp\u003eThe official all-in-one MikroTik account. \u003ca href=\"https://mikrotik.social/tags/BuyFromEU\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eBuyFromEU\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mikrotik.social/tags/Latvia\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eLatvia\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+      "followers_count": 1847,
+      "following_count": 22,
+      "statuses_count": 371,
+      "note": "\u003cp\u003eThe official all-in-one MikroTik account. \u003ca href=\"https://mikrotik.social/tags/BuyFromEU\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eBuyFromEU\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mikrotik.social/tags/Latvia\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eLatvia\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mikrotik.social/tags/MikroTik\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eMikroTik\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
       "url": "https://mikrotik.social/@mikrotik",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/383/351/958/233/153/original/573ce0004415b8ae.png",
       "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/383/351/958/233/153/original/573ce0004415b8ae.png",
@@ -70,7 +70,12 @@
         {
           "name": "Web",
           "value": "\u003ca href=\"https://mikrotik.com\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emikrotik.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-06-01T17:20:56.658Z"
+          "verified_at": "2025-06-04T06:30:37.409Z"
+        },
+        {
+          "name": "PeerTube",
+          "value": "\u003ca href=\"https://tiktube.com\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etiktube.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "0001-01-01T00:00:00Z"
         },
         {
           "name": "YouTube",
