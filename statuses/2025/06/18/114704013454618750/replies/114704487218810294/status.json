@@ -1,0 +1,98 @@
+{
+  "id": "114704487218810294",
+  "uri": "https://chaos.social/users/pr14minus/statuses/114704487194834509",
+  "url": "https://chaos.social/@pr14minus/114704487194834509",
+  "account": {
+    "id": "109820821060800273",
+    "username": "pr14minus",
+    "acct": "pr14minus@chaos.social",
+    "display_name": "Moeveninsel",
+    "locked": false,
+    "created_at": "2022-09-27T00:00:00Z",
+    "followers_count": 33,
+    "following_count": 34,
+    "statuses_count": 6638,
+    "note": "\u003cp\u003e(Über mich) Ist nichts zu sagen. \u003c/p\u003e\u003cp\u003eAllein meinen Humor findet ihr ob seines Schatten im Kohlenkeller.\u003c/p\u003e\u003cp\u003eTrööts haben mit normal (Über-)Falle vier Metaebenen. Meistens.\u003c/p\u003e\u003cp\u003eLest nichts mit Inhaltswarnung.\u003c/p\u003e\u003cp\u003eIst tippen Glückssache?\u003c/p\u003e\u003cp\u003ePicknickt am Wegesrand.\u003c/p\u003e\u003cp\u003eNo PN beyond the wall of work, else Gnupg, Telegram, Signal (sometimes).\u003c/p\u003e",
+    "url": "https://chaos.social/@pr14minus",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/820/821/060/800/273/original/5c3ef789a77a5e2c.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/820/821/060/800/273/original/5c3ef789a77a5e2c.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/820/821/060/800/273/original/75a2cb199dbdc769.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/820/821/060/800/273/original/75a2cb199dbdc769.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Betrollung",
+        "value": "Betrolle Trolle",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Englisch",
+        "value": "Well, should do the Trick.",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Tippfehler",
+        "value": "Bleiben so sie den Inhalt  nicht verzerren.  Ansonsten liegt da  kein Fehler.",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Sicherheitshinweis",
+        "value": "BTW: Dies ist Mastodon, komplett keine Sicherheit noch Privatsphäre, ich führe hier nicht mein privates Tagebuch allenfalls eine betriebliche Arbeitsresultatmappe ...",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cbr\u003eTake a wheel and dial a ten.\u003c/p\u003e",
+  "created_at": "2025-06-18T12:59:34Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

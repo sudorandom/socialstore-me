@@ -1,0 +1,83 @@
+{
+  "id": "114704340825397397",
+  "uri": "https://mastodon.social/users/Eetschrijver/statuses/114704340797389027",
+  "url": "https://mastodon.social/@Eetschrijver/114704340797389027",
+  "account": {
+    "id": "109262047699897625",
+    "username": "Eetschrijver",
+    "acct": "Eetschrijver@mastodon.social",
+    "display_name": "GJ Groothedde 🇪🇺",
+    "locked": false,
+    "created_at": "2016-11-02T00:00:00Z",
+    "followers_count": 2236,
+    "following_count": 1036,
+    "statuses_count": 92945,
+    "note": "\u003cp\u003eEuropéen en Limousin. Auteur 'Weg van de supermarkt' en 'het Antidieetboek'. Schrijft en vertaalt, vaak in opdracht. Gemeenteraadslid in Pittoresk Eetschrijversdorpje (F). Heet voluit Gerrit Jan (negen letters, één spatie, geen streepje). Volgt wanneer leuke interactie ontstaat. Opgeheven vingertjes mogen in een dijk of in een ander donker gat. \u003cbr\u003eI am a food writer and translator living my best life in France. I post mainly in Dutch, respond in English, French and more. Trump enablers = block.\u003c/p\u003e",
+    "url": "https://mastodon.social/@Eetschrijver",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/262/047/699/897/625/original/668cddbd49bde603.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/262/047/699/897/625/original/668cddbd49bde603.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/262/047/699/897/625/original/2eb5556796b46a23.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/262/047/699/897/625/original/2eb5556796b46a23.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://eetschrijver.nl\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eeetschrijver.nl\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704217684167031",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Indeed. 😎\u003c/p\u003e",
+  "created_at": "2025-06-18T12:22:20Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "114704591336578771",
+  "uri": "https://masto.ai/users/narpoleptic/statuses/114704591314999144",
+  "url": "https://masto.ai/@narpoleptic/114704591314999144",
+  "account": {
+    "id": "109422592120711663",
+    "username": "narpoleptic",
+    "acct": "narpoleptic@masto.ai",
+    "display_name": "narpoleptic",
+    "locked": true,
+    "created_at": "2022-11-19T00:00:00Z",
+    "followers_count": 35,
+    "following_count": 173,
+    "statuses_count": 784,
+    "note": "\u003cp\u003eNaaarp? (He/him)\u003cbr\u003eProfile pic art by Sarah Andersen, header art by Senna Diaz\u003c/p\u003e",
+    "url": "https://masto.ai/@narpoleptic",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/422/592/120/711/663/original/19a8a507e053e379.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/422/592/120/711/663/original/19a8a507e053e379.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/422/592/120/711/663/original/2d677b1d13302af9.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/422/592/120/711/663/original/2d677b1d13302af9.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704318350770943",
+  "in_reply_to_account_id": "111777625505160064",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://toot.pikopublish.ing/@u0421793\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eu0421793\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://toot.community/@MyWoolyMastadon\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eMyWoolyMastadon\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Ian, you appear to be assuming that UK-local context is applicable worldwide. For this conversation at least, it is not \u003c/p\u003e\u003cp\u003eMa Bell = the Bell Telephony family of service providers that used to exist in the USA.\u003cbr\u003eCapt Crunch refers to a promotion that the cereal ran where customers could get a free whistle that allegedly emitted a 2600Hz tone that could be used to get free phone service. This all happened 4 or 5 decades ago. See also \u003ca href=\"https://en.m.wikipedia.org/wiki/2600_hertz\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003een.m.wikipedia.org/wiki/2600_h\u003c/span\u003e\u003cspan class=\"invisible\"\u003eertz\u003c/span\u003e\u003c/a\u003e.\u003c/p\u003e",
+  "created_at": "2025-06-18T13:26:03Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "unlisted",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://toot.pikopublish.ing/@u0421793",
+      "username": "u0421793",
+      "acct": "u0421793@pikopublish.ing",
+      "id": "111777625505160064"
+    },
+    {
+      "url": "https://toot.community/@MyWoolyMastadon",
+      "username": "MyWoolyMastadon",
+      "acct": "MyWoolyMastadon@toot.community",
+      "id": "110613845451943637"
+    },
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": {
+    "url": "https://en.m.wikipedia.org/wiki/2600_hertz",
+    "title": "2600 hertz - Wikipedia",
+    "description": "",
+    "image": "",
+    "type": "link",
+    "author_name": "",
+    "author_url": "",
+    "provider_name": "",
+    "provider_url": "",
+    "html": "",
+    "width": 0,
+    "height": 0
+  },
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

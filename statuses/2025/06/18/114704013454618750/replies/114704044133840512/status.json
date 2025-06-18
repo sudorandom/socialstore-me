@@ -1,0 +1,98 @@
+{
+  "id": "114704044133840512",
+  "uri": "https://social.coop/users/cstanhope/statuses/114704044003473886",
+  "url": "https://social.coop/@cstanhope/114704044003473886",
+  "account": {
+    "id": "18274",
+    "username": "cstanhope",
+    "acct": "cstanhope@social.coop",
+    "display_name": "Your friendly 'net denizen",
+    "locked": true,
+    "created_at": "2017-09-05T00:00:00Z",
+    "followers_count": 751,
+    "following_count": 724,
+    "statuses_count": 663,
+    "note": "\u003cp\u003eInterests: programming languages, open platforms, art, craft, diy, and justice. \u003c/p\u003e\u003cp\u003eI've recently set my posts to be deleted after a month.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://social.coop/tags/nobot\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003enobot\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://social.coop/@cstanhope",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/000/018/274/original/7f33faff1585e1ec.jpeg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/000/018/274/original/7f33faff1585e1ec.jpeg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/000/018/274/original/aafd5ca67ce09408.jpeg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/000/018/274/original/aafd5ca67ce09408.jpeg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Home Page",
+        "value": "\u003ca href=\"http://charles.stanho.pe\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003echarles.stanho.pe\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Reading",
+        "value": "...",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Prounouns",
+        "value": "he/him or they/them",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "On hiatus",
+        "value": "I'll be back... probably.",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e I only managed it once by whistling through my teeth, but don't seem to have much control that way. 😆\u003c/p\u003e",
+  "created_at": "2025-06-18T11:06:52Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "private",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

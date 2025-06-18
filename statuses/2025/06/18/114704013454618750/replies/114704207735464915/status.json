@@ -1,0 +1,88 @@
+{
+  "id": "114704207735464915",
+  "uri": "https://mastodon.social/users/SordidAmok/statuses/114704207691474474",
+  "url": "https://mastodon.social/@SordidAmok/114704207691474474",
+  "account": {
+    "id": "112385428219631633",
+    "username": "SordidAmok",
+    "acct": "SordidAmok@mastodon.social",
+    "display_name": "Sordid Amok!",
+    "locked": false,
+    "created_at": "2024-04-30T00:00:00Z",
+    "followers_count": 380,
+    "following_count": 496,
+    "statuses_count": 11395,
+    "note": "\u003cp\u003eWeird little free improv combo from the Shenandoah Valley, Virginia, USA.\u003c/p\u003e",
+    "url": "https://mastodon.social/@SordidAmok",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/112/385/428/219/631/633/original/846bed7e201cb561.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/112/385/428/219/631/633/original/846bed7e201cb561.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/112/385/428/219/631/633/original/b016e0f7160fa5f9.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/112/385/428/219/631/633/original/b016e0f7160fa5f9.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Our pronouns are any/all.",
+        "value": "",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "https://sordidamok.bandcamp.com/",
+        "value": "",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e A friend of mine who ran a tiny record label, and set up tours for bands, had a device that would make the sound. Good ol' days.\u003c/p\u003e",
+  "created_at": "2025-06-18T11:48:29Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

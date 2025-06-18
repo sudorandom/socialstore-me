@@ -1,0 +1,108 @@
+{
+  "id": "114704621603909452",
+  "uri": "https://toot.community/users/MyWoolyMastadon/statuses/114704621525951255",
+  "url": "https://toot.community/@MyWoolyMastadon/114704621525951255",
+  "account": {
+    "id": "110613845451943637",
+    "username": "MyWoolyMastadon",
+    "acct": "MyWoolyMastadon@toot.community",
+    "display_name": "D. B. Stuck",
+    "locked": false,
+    "created_at": "2023-06-26T00:00:00Z",
+    "followers_count": 619,
+    "following_count": 1833,
+    "statuses_count": 7405,
+    "note": "\u003cp\u003eI'm just a guy trying to get a rug that pulls the whole room together. :: We're all trapped on this crazy world together and sometimes you have to laugh at the people acting like crabs in a bucket.\u003c/p\u003e\u003cp\u003eBio Pic Alt Txt: A shamelessly stolen piece of graphic art showing The Dude from the movie The Big Lebowski. He's got his long hair and beard which makes him look religious and he has a saintly halo around him. He's sporting his signature sweater and v-neck shirt and is wearing sunglasses.\u003c/p\u003e",
+    "url": "https://toot.community/@MyWoolyMastadon",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/613/845/451/943/637/original/386bfb5adf5bfd3c.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/613/845/451/943/637/original/386bfb5adf5bfd3c.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/110/613/845/451/943/637/original/b25dbbd09c69718b.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/110/613/845/451/943/637/original/b25dbbd09c69718b.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Gender",
+        "value": "Cis Male",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704591336578771",
+  "in_reply_to_account_id": "109422592120711663",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://masto.ai/@narpoleptic\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003enarpoleptic\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://toot.pikopublish.ing/@u0421793\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eu0421793\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003c/p\u003e\u003cp\u003eWhat's truly weird is that Jobs \u0026amp; Wozniak dabbled in phone freaking and made money selling a device that mobsters used to circumvent federal agents.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://www.chaintech.network/blog/a-journey-from-1955-to-1980-the-intriguing-world-of-phone-phreaks/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003echaintech.network/blog/a-journ\u003c/span\u003e\u003cspan class=\"invisible\"\u003eey-from-1955-to-1980-the-intriguing-world-of-phone-phreaks/\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "created_at": "2025-06-18T13:33:44Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "unlisted",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://masto.ai/@narpoleptic",
+      "username": "narpoleptic",
+      "acct": "narpoleptic@masto.ai",
+      "id": "109422592120711663"
+    },
+    {
+      "url": "https://toot.pikopublish.ing/@u0421793",
+      "username": "u0421793",
+      "acct": "u0421793@pikopublish.ing",
+      "id": "111777625505160064"
+    },
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": {
+    "url": "https://www.chaintech.network/blog/a-journey-from-1955-to-1980-the-intriguing-world-of-phone-phreaks/",
+    "title": "The Shocking Tale of Phone Phreaks: 1955-1980 Odyssey",
+    "description": "Who were Phone Phreaks? And how did they change the course of history of cybersecurity? Uncover this fascinating tale in our insightful blog.",
+    "image": "2025/06/18/114704092324184414/replies/114704113151716298/replies/114704188632902745/replies/114704206952892232/replies/114704230032638549/replies/114704309218876397/replies/114704318350770943/replies/114704591336578771/replies/114704621603909452/card_image.png",
+    "type": "link",
+    "author_name": "",
+    "author_url": "",
+    "provider_name": "Chaintech",
+    "provider_url": "",
+    "html": "",
+    "width": 868,
+    "height": 523
+  },
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

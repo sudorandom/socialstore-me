@@ -1,0 +1,122 @@
+{
+  "id": "114704429346732501",
+  "uri": "https://mastodon.social/users/randulo/statuses/114704429265617927",
+  "url": "https://mastodon.social/@randulo/114704429265617927",
+  "account": {
+    "id": "4919",
+    "username": "randulo",
+    "acct": "randulo@mastodon.social",
+    "display_name": "Randulo.com",
+    "locked": false,
+    "created_at": "2017-04-12T00:00:00Z",
+    "followers_count": 1429,
+    "following_count": 3548,
+    "statuses_count": 119,
+    "note": "\u003cp\u003e8 years on Mastodon!\u003cbr\u003eGet it all, FREE, books and music: \u003ca href=\"https://archive.org/details/@randulo\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003earchive.org/details/@randulo\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr\u003eStreaming profiles: \u003ca href=\"https://ffm.bio/randulo\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003effm.bio/randulo\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e \u003c/p\u003e\u003cp\u003eAmerican-born,  I was a build-it-in-the-basement with vacuum tubes and transistors geek. Spoke fluent solder. Older, became touring musician, composer, \u0026amp; Bluesbreaker \u0026amp; entrepreneur. Dual national now, living in France.\u003c/p\u003e\u003cp\u003eWriting: \u003ca href=\"https://medium.com/@randulo\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emedium.com/@randulo\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://mastodon.social/tags/OriginalMusic\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eOriginalMusic\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.social/tags/food\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003efood\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.social/tags/cooking\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ecooking\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.social/tags/tech\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003etech\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.social/tags/social\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003esocial\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.social/tags/guitar\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eguitar\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.social/tags/saxophone\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003esaxophone\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://mastodon.social/@randulo",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/004/919/original/9beea3720db4ac74.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/004/919/original/9beea3720db4ac74.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/000/004/919/original/ddcea572f5afab96.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/000/004/919/original/ddcea572f5afab96.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Spotify",
+        "value": "\u003ca href=\"https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003eopen.spotify.com/artist/76Mc94\u003c/span\u003e\u003cspan class=\"invisible\"\u003eTXj6u7ruadFVyJXq\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Apple Music",
+        "value": "\u003ca href=\"https://music.apple.com/us/artist/randy-resnick/280632975\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003emusic.apple.com/us/artist/rand\u003c/span\u003e\u003cspan class=\"invisible\"\u003ey-resnick/280632975\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Music \u0026 book downloads",
+        "value": "\u003ca href=\"https://archive.org/details/@randulo\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003earchive.org/details/@randulo\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Wikipedia",
+        "value": "\u003ca href=\"https://en.wikipedia.org/wiki/Randy_Resnick\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003een.wikipedia.org/wiki/Randy_Re\u003c/span\u003e\u003cspan class=\"invisible\"\u003esnick\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Two hands fingers each in mouth\u003c/p\u003e",
+  "created_at": "2025-06-18T12:44:50Z",
+  "edited_at": "2025-06-18T12:46:09Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [
+    {
+      "id": "114704429325892475",
+      "type": "image",
+      "url": "2025/06/18/114704013454618750/replies/114704429346732501/media_attachment_114704429325892475.png",
+      "remote_url": "https://files.mastodon.social/media_attachments/files/114/704/426/551/294/144/original/591a2633715c406b.png",
+      "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/114/704/429/325/892/475/small/0832660b0da97c2b.png",
+      "text_url": "",
+      "description": "2600 DETECTED! TRUNK SEIZED.",
+      "meta": {
+        "original": {
+          "width": 518,
+          "height": 296,
+          "size": "518x296",
+          "aspect": 1.75
+        },
+        "small": {
+          "width": 518,
+          "height": 296,
+          "size": "518x296",
+          "aspect": 1.75
+        }
+      }
+    }
+  ],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "114704272755896111",
+  "uri": "https://mastodon.social/users/ottaross/statuses/114704272718149893",
+  "url": "https://mastodon.social/@ottaross/114704272718149893",
+  "account": {
+    "id": "69261",
+    "username": "ottaross",
+    "acct": "ottaross@mastodon.social",
+    "display_name": "Ross of Ottawa",
+    "locked": false,
+    "created_at": "2018-08-24T00:00:00Z",
+    "followers_count": 2177,
+    "following_count": 496,
+    "statuses_count": 24951,
+    "note": "\u003cp\u003eAn Ottawa-based Ross who is inspired by people who have interests and pursue them.\u003c/p\u003e\u003cp\u003ePhysics degreed, engineering careered.  Enthusiastic about makerism, science, food, culture and art/design. Inordinately fond of breadmaking and chair design.\u003c/p\u003e\u003cp\u003eTrivialities, ephemera and daily activities. \u003cbr\u003e\u003ca href=\"https://mastodon.social/tags/Ottawa\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eOttawa\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.social/tags/Canada\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eCanada\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://mastodon.social/tags/maker\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003emaker\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eProfile ALT text: Avatar is a white ceramic coffee mug like you might find in a diner.  The banner is the famous Earthrise image where the Earth is just appearing over the moon.\u003c/p\u003e",
+    "url": "https://mastodon.social/@ottaross",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/069/261/original/7d73be43ff035d45.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/069/261/original/7d73be43ff035d45.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/000/069/261/original/48d9029eec36a259.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/000/069/261/original/48d9029eec36a259.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "CW:",
+        "value": "Food pics are frequent",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Pronouns:",
+        "value": "he/him",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "3D Des \u0026 Printing:",
+        "value": "\u003ca href=\"https://www.printables.com/@OttaRoss_583822\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003eprintables.com/@OttaRoss_583822\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Other nouns",
+        "value": "bread, chairs, mugs",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e could only whistle to 2400ish.  \u003c/p\u003e\u003cp\u003eI recall discovering 'phreaking' by accident in about 1980 - I had built an audio oscillator and was talking to my brother who'd left home to go to college.  I played it over the phone to him - and it made weird clicks back and went to dial tone. lol\u003c/p\u003e",
+  "created_at": "2025-06-18T12:05:01Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "unlisted",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

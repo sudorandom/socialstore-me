@@ -1,0 +1,98 @@
+{
+  "id": "114704427041176645",
+  "uri": "https://hespere.de/users/hllizi/statuses/114704426998327281",
+  "url": "https://hespere.de/@hllizi/114704426998327281",
+  "account": {
+    "id": "108279898560139500",
+    "username": "hllizi",
+    "acct": "hllizi@hespere.de",
+    "display_name": "Dieu",
+    "locked": false,
+    "created_at": "2022-05-05T00:00:00Z",
+    "followers_count": 481,
+    "following_count": 1088,
+    "statuses_count": 37617,
+    "note": "\u003cp\u003eHeißen wie Gott in Frankreich \u003ca href=\"https://hespere.de/tags/tfr\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003etfr\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\"in the struggle which we have before us to rid the earth of this terrible monster, we must have all the knowledge and all the help which we can get\" \u003cbr\u003e- Mina Harker\u003c/p\u003e",
+    "url": "https://hespere.de/@hllizi",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/108/279/898/560/139/500/original/f623861cebdbadcc.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/108/279/898/560/139/500/original/f623861cebdbadcc.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/108/279/898/560/139/500/original/499a04971f35f884.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/108/279/898/560/139/500/original/499a04971f35f884.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "PGP",
+        "value": "\u003ca href=\"https://codeberg.org/hllizi/keys/raw/branch/main/pgp%20-%2003ED%20DF13%20D531%20FEF6%205E2B%20%205041%20A6ED%206C85%2031CC%20B131\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ecodeberg.org/hllizi/keys/raw/b\u003c/span\u003e\u003cspan class=\"invisible\"\u003eranch/main/pgp%20-%2003ED%20DF13%20D531%20FEF6%205E2B%20%205041%20A6ED%206C85%2031CC%20B131\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Pronouns",
+        "value": "er/sein/der - he/his",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Privileges",
+        "value": "cis, hetero, white, male",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Blog",
+        "value": "\u003ca href=\"https://blog.hespere.de\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eblog.hespere.de\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704387782758625",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e 🤭\u003c/p\u003e",
+  "created_at": "2025-06-18T12:44:16Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

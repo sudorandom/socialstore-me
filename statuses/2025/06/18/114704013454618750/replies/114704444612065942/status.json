@@ -1,0 +1,83 @@
+{
+  "id": "114704444612065942",
+  "uri": "https://mastodon.social/users/snowfall/statuses/114704444579686616",
+  "url": "https://mastodon.social/@snowfall/114704444579686616",
+  "account": {
+    "id": "109599709162682704",
+    "username": "snowfall",
+    "acct": "snowfall@mastodon.social",
+    "display_name": "A Guy Named Ed.",
+    "locked": false,
+    "created_at": "2022-10-21T00:00:00Z",
+    "followers_count": 79,
+    "following_count": 234,
+    "statuses_count": 353,
+    "note": "\u003cp\u003eOnline \u003ca href=\"https://mastodon.social/tags/Privacy\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ePrivacy\u003c/span\u003e\u003c/a\u003e begins in your offline life. I am interested in preserving personal privacy when possible, clawing it back, balancing privacy with reality, continuous learning and changing my mind. Remaining private, but being a realist about it all. My posts are around security/privacy, offline and online, covering the basics, amplifying the pro-privacy voices, agitators, threats, ethical hackers, experts and resisters.\u003c/p\u003e",
+    "url": "https://mastodon.social/@snowfall",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/599/709/162/682/704/original/93b3524702a381ac.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/599/709/162/682/704/original/93b3524702a381ac.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/599/709/162/682/704/original/604359c45e7fafcd.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/599/709/162/682/704/original/604359c45e7fafcd.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Privacy",
+        "value": "\u003ca href=\"https://eff.org\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eeff.org\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Joy Bubbles could do this\u003c/p\u003e",
+  "created_at": "2025-06-18T12:48:44Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

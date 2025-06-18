@@ -1,0 +1,83 @@
+{
+  "id": "114704674347070446",
+  "uri": "https://urusai.social/users/nazokiyoubinbou/statuses/114704674326405526",
+  "url": "https://urusai.social/@nazokiyoubinbou/114704674326405526",
+  "account": {
+    "id": "112731462184391150",
+    "username": "nazokiyoubinbou",
+    "acct": "nazokiyoubinbou@urusai.social",
+    "display_name": "Nazo",
+    "locked": true,
+    "created_at": "2024-07-05T00:00:00Z",
+    "followers_count": 2,
+    "following_count": 60,
+    "statuses_count": 1506,
+    "note": "\u003cp\u003eBig fan of \u003ca href=\"https://urusai.social/tags/Utaite\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eUtaite\u003c/span\u003e\u003c/a\u003e (particularly doing covers of \u003ca href=\"https://urusai.social/tags/Vocaloid\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eVocaloid\u003c/span\u003e\u003c/a\u003e music,) games, and technology.  Unfortunately I've been falling out of anime these days (harder and harder to get into things for me) and don't watch much anymore.  I'm also a very slight bit of an audiophile (but limited budgets make it hard to be much of one.)\u003c/p\u003e\u003cp\u003ePlease do not autofollow just because you saw a post of mine show up somewhere or something.\u003c/p\u003e",
+    "url": "https://urusai.social/@nazokiyoubinbou",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/112/731/462/184/391/150/original/398bfda83715811c.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/112/731/462/184/391/150/original/398bfda83715811c.png",
+    "header": "https://infosec.exchange/headers/original/missing.png",
+    "header_static": "https://infosec.exchange/headers/original/missing.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Autofollow?",
+        "value": "Autoreject.",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e I remember watching those old movies where they'd use a phone and play a recording into it.  (I think I recall Wargames in particular did this?)\u003c/p\u003e\u003cp\u003eSeems like it could be pretty darned convenient to be able to do this, rofl.\u003c/p\u003e",
+  "created_at": "2025-06-18T13:47:10Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

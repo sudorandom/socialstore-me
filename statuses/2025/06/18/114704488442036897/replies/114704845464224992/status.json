@@ -1,0 +1,98 @@
+{
+  "id": "114704845464224992",
+  "uri": "https://pdx.social/users/a/statuses/114704844764772508",
+  "url": "https://pdx.social/@a/114704844764772508",
+  "account": {
+    "id": "67533",
+    "username": "a",
+    "acct": "a@pdx.social",
+    "display_name": "Anthony Sorace",
+    "locked": false,
+    "created_at": "2018-09-04T00:00:00Z",
+    "followers_count": 547,
+    "following_count": 238,
+    "statuses_count": 8211,
+    "note": "\u003cp\u003eI do systems architecture (and sometimes implementation) when not playing with food or getting lost in the woods. Looking to use my powers for good. He/him.\u003cbr\u003eMauna Loa 333.60.\u003cbr\u003e🗽\u003c/p\u003e",
+    "url": "https://pdx.social/@a",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/067/533/original/57b09b281b0cd8ca.jpeg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/067/533/original/57b09b281b0cd8ca.jpeg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/000/067/533/original/b1a56419aa1454e0.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/000/067/533/original/b1a56419aa1454e0.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Location",
+        "value": "Columbia County, Oregon, US",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Homepage",
+        "value": "\u003ca href=\"http://a.9srv.net\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ea.9srv.net\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Keyoxide",
+        "value": "aspe:keyoxide.org:W5BY52DXD5TJBBBBVU6WWQXE7Y",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "finger",
+        "value": "a@9srv.net",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704488442036897",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Ooo! I’m not there yet, but the British version feels close… I’m getting 2100-2200 or so. Goals!\u003c/p\u003e",
+  "created_at": "2025-06-18T14:30:30Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "114704309017327145",
+  "uri": "https://mstdn.social/users/lpbkdotnet/statuses/114704308982027767",
+  "url": "https://mstdn.social/@lpbkdotnet/114704308982027767",
+  "account": {
+    "id": "109309954124883235",
+    "username": "lpbkdotnet",
+    "acct": "lpbkdotnet@mstdn.social",
+    "display_name": "lpbkdotnet",
+    "locked": false,
+    "created_at": "2022-10-28T00:00:00Z",
+    "followers_count": 273,
+    "following_count": 69,
+    "statuses_count": 1624,
+    "note": "\u003cp\u003eOld phones and exchanges from the UK, occasionally excited about amateur radio.\u2029YouTube videos from my phone exchange shed etc… when I remember!\u003c/p\u003e\u003cp\u003eAKA \"That mad fool who took a strowger telephone exchange camping at emfcamp 2024\"\u003c/p\u003e\u003cp\u003eI use finger for blogging, to read it run this at a command prompt:\u003c/p\u003e\u003cp\u003efinger lpbk@finger.lpbk.net\u003c/p\u003e\u003cp\u003eCall my stupid phone toys on 0117 9111228 (UK)\u003c/p\u003e",
+    "url": "https://mstdn.social/@lpbkdotnet",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/309/954/124/883/235/original/d76c933f7fd227b0.jpeg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/309/954/124/883/235/original/d76c933f7fd227b0.jpeg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/309/954/124/883/235/original/35db5cce69adaf6b.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/309/954/124/883/235/original/35db5cce69adaf6b.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"http://lpbk.net\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003elpbk.net\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Youtube",
+        "value": "\u003ca href=\"https://youtube.com/lpbkdotnet\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eyoutube.com/lpbkdotnet\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Callsign",
+        "value": "M0OLP",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704064929517509",
+  "in_reply_to_account_id": "111777625505160064",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://toot.pikopublish.ing/@u0421793\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eu0421793\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e 2600Hz signalling was mostly in use in the USA.\u003c/p\u003e\u003cp\u003eIn the U.K. trunk lines between exchanges often used 2280Hz signalling to route the call.\u003c/p\u003e\u003cp\u003eYou would often hear a chirp at the start or end of a long distance call\u003c/p\u003e\u003cp\u003eEg you can hear the chirp at the beginning of this Noel Edmund’s phone prank:\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://m.youtube.com/watch?v=5ptcKL_T1xw\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003em.youtube.com/watch?v=5ptcKL_T\u003c/span\u003e\u003cspan class=\"invisible\"\u003e1xw\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eYou may be able to hear another at the end, I didn’t get that far!\u003c/p\u003e\u003cp\u003eMore info than you ever wanted about uk telephone signalling here:\u003cbr\u003e\u003ca href=\"https://www.britishtelephones.com/pwover1.htm\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ebritishtelephones.com/pwover1.\u003c/span\u003e\u003cspan class=\"invisible\"\u003ehtm\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "created_at": "2025-06-18T12:14:15Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 1,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://toot.pikopublish.ing/@u0421793",
+      "username": "u0421793",
+      "acct": "u0421793@pikopublish.ing",
+      "id": "111777625505160064"
+    },
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": {
+    "url": "https://m.youtube.com/watch?v=5ptcKL_T1xw",
+    "title": "- YouTube",
+    "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+    "image": "",
+    "type": "link",
+    "author_name": "",
+    "author_url": "",
+    "provider_name": "",
+    "provider_url": "",
+    "html": "",
+    "width": 0,
+    "height": 0
+  },
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
