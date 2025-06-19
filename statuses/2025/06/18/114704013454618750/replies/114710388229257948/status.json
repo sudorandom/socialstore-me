@@ -1,0 +1,90 @@
+{
+  "id": "114710388229257948",
+  "uri": "https://fluffs.au/users/critter_in_flux/statuses/114710388180916580",
+  "url": "https://fluffs.au/@critter_in_flux/114710388180916580",
+  "account": {
+    "id": "110995685999248464",
+    "username": "critter_in_flux",
+    "acct": "critter_in_flux@fluffs.au",
+    "display_name": "Critter (he/him)",
+    "locked": true,
+    "created_at": "2023-09-02T00:00:00Z",
+    "followers_count": 125,
+    "following_count": 323,
+    "statuses_count": 447,
+    "note": "\u003cp\u003eQueer (bear) | Furry (raccoon, wolf, others) Early 40s Grey Muzzle :flag_bear: 🏳️‍🌈 \u003c/p\u003e\u003cp\u003e🇦🇺 | Melbourne - Bunurong Country\u003c/p\u003e\u003cp\u003eDeveloper by day but interested in more things than I have hours in the day to learn and do. Lately reconnecting to lost passions after major burnout.\u003c/p\u003e\u003cp\u003eSuper left views ⚒️.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://fluffs.au/tags/artist\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eartist\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fluffs.au/tags/developer\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003edeveloper\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fluffs.au/tags/maker\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003emaker\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fluffs.au/tags/adhd\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eadhd\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fluffs.au/tags/autistic\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eautistic\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://fluffs.au/tags/neurodivergent\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eneurodivergent\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eI'm into chubby hairy older dudes. In a relationship.\u003c/p\u003e\u003cp\u003ePosts may be lewd. Minors please don't follow me :over18:\u003c/p\u003e",
+    "url": "https://fluffs.au/@critter_in_flux",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/995/685/999/248/464/original/bb2218174f6ab272.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/995/685/999/248/464/original/bb2218174f6ab272.png",
+    "header": "https://infosec.exchange/headers/original/missing.png",
+    "header_static": "https://infosec.exchange/headers/original/missing.png",
+    "emojis": [
+      {
+        "shortcode": "flag_bear",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/314/642/static/182a61874a26f95d.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/314/642/original/182a61874a26f95d.gif",
+        "visible_in_picker": true
+      },
+      {
+        "shortcode": "over18",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/204/100/static/2d7e3a0563dd9450.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/204/100/original/2d7e3a0563dd9450.png",
+        "visible_in_picker": true
+      }
+    ],
+    "moved": null,
+    "fields": [],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e oh wow this is so cool. I remember reading about this stuff and would have loved to been able to try it at the time.\u003c/p\u003e\u003cp\u003eWill definitely have a play of this when I'm not in bed with partner asleep, don't want to be suddenly whistling lmao\u003c/p\u003e",
+  "created_at": "2025-06-19T14:00:16Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "unlisted",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

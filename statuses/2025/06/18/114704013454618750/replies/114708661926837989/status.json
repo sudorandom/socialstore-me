@@ -1,0 +1,108 @@
+{
+  "id": "114708661926837989",
+  "uri": "https://social.treehouse.systems/users/astraleureka/statuses/114708661904421469",
+  "url": "https://social.treehouse.systems/@astraleureka/114708661904421469",
+  "account": {
+    "id": "108439999006745180",
+    "username": "astraleureka",
+    "acct": "astraleureka@treehouse.systems",
+    "display_name": "the vessel of morganna",
+    "locked": false,
+    "created_at": "2022-04-07T00:00:00Z",
+    "followers_count": 336,
+    "following_count": 395,
+    "statuses_count": 5203,
+    "note": "\u003cp\u003ewelcome to my profile, where everything is made up and the toots don't matter\u003c/p\u003e",
+    "url": "https://social.treehouse.systems/@astraleureka",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/108/439/999/006/745/180/original/408a6393ef1dad9c.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/108/439/999/006/745/180/original/408a6393ef1dad9c.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/108/439/999/006/745/180/original/26e363dd99b36998.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/108/439/999/006/745/180/original/26e363dd99b36998.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "pronouns",
+        "value": "they/them",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "location",
+        "value": "unceded duwamish lands",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "hacking",
+        "value": "very yes",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "http/website",
+        "value": "\u003ca href=\"https://astr.al\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eastr.al\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "http/zvis",
+        "value": "\u003ca href=\"https://zv.is\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ezv.is\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "smtp",
+        "value": "eureka@astr.al",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e can't get much past 1800Hz :(\u003c/p\u003e",
+  "created_at": "2025-06-19T06:41:15Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

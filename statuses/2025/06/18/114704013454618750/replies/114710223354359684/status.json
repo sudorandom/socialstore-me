@@ -1,0 +1,83 @@
+{
+  "id": "114710223354359684",
+  "uri": "https://unbound.social/users/Qbitzerre/statuses/114710223321850813",
+  "url": "https://unbound.social/@Qbitzerre/114710223321850813",
+  "account": {
+    "id": "109270611251344222",
+    "username": "Qbitzerre",
+    "acct": "Qbitzerre@unbound.social",
+    "display_name": "2¢",
+    "locked": false,
+    "created_at": "2022-11-01T00:00:00Z",
+    "followers_count": 267,
+    "following_count": 740,
+    "statuses_count": 9640,
+    "note": "\u003cp\u003eThis is not a resume and I'm not applying for a job. Follow me if you want, I don't care.\u003c/p\u003e\u003cp\u003eIf I annoyed you, just block me, silently.\u003c/p\u003e",
+    "url": "https://unbound.social/@Qbitzerre",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/270/611/251/344/222/original/2ae8890d89d824df.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/270/611/251/344/222/original/2ae8890d89d824df.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/270/611/251/344/222/original/737f014cc07720ed.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/270/611/251/344/222/original/737f014cc07720ed.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Location",
+        "value": "New Jersey, US",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e In high school, circa 1974 I used an  IBM 2770 RJE station served by an IBM 360/50 via dialup POTS 2400 baud modem.  It was especially difficult to reliably initiate connections. I somehow discovered that whistling into the telephone handset prior to connecting the modem dramatically increased the chance of success.\u003c/p\u003e",
+  "created_at": "2025-06-19T13:18:20Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "unlisted",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
