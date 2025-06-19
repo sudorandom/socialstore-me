@@ -1,0 +1,88 @@
+{
+  "id": "114706463833727808",
+  "uri": "https://bitbang.social/users/bitnacht/statuses/114706463797976436",
+  "url": "https://bitbang.social/@bitnacht/114706463797976436",
+  "account": {
+    "id": "111747843805272517",
+    "username": "bitnacht",
+    "acct": "bitnacht@bitbang.social",
+    "display_name": "BITNACHT",
+    "locked": false,
+    "created_at": "2023-12-28T00:00:00Z",
+    "followers_count": 28,
+    "following_count": 68,
+    "statuses_count": 698,
+    "note": "\u003cp\u003eComputer enthusiast since 1985. Living in rural northern Germany between Göttingen and Hannover. Drawing, making music  and coding are my hobbies and I am a professional software dev, too.\u003c/p\u003e",
+    "url": "https://bitbang.social/@bitnacht",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/111/747/843/805/272/517/original/b9916739c97ae260.jpeg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/111/747/843/805/272/517/original/b9916739c97ae260.jpeg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/111/747/843/805/272/517/original/c0ea2d3d561ec8ae.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/111/747/843/805/272/517/original/c0ea2d3d561ec8ae.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"http://bitnacht.de\" rel=\"nofollow noopener\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ebitnacht.de\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Pronouns",
+        "value": "he/him (actually - call me anything)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e It is easy if you have the right equipment: \u003ca href=\"https://www.secpoint.com/captain-crunch-2600-whistle.html\" rel=\"nofollow noopener\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003esecpoint.com/captain-crunch-26\u003c/span\u003e\u003cspan class=\"invisible\"\u003e00-whistle.html\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "created_at": "2025-06-18T21:22:15Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

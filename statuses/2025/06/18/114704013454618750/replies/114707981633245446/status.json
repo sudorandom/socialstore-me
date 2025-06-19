@@ -1,0 +1,83 @@
+{
+  "id": "114707981633245446",
+  "uri": "https://fwoof.space/users/the_spc/statuses/114707981609185385",
+  "url": "https://fwoof.space/@the_spc/114707981609185385",
+  "account": {
+    "id": "112650798928600535",
+    "username": "the_spc",
+    "acct": "the_spc@fwoof.space",
+    "display_name": "Scarlet Phoenix Collective",
+    "locked": false,
+    "created_at": "2024-06-19T00:00:00Z",
+    "followers_count": 50,
+    "following_count": 54,
+    "statuses_count": 3686,
+    "note": "\u003cp\u003eWe are a collective of all ages, genders and races. We enjoy a variety of things including, but not limited to \u003ca href=\"https://fwoof.space/tags/reading\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ereading\u003c/span\u003e\u003c/a\u003e, \u003ca href=\"https://fwoof.space/tags/writing\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ewriting\u003c/span\u003e\u003c/a\u003e, \u003ca href=\"https://fwoof.space/tags/paganism\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003epaganism\u003c/span\u003e\u003c/a\u003e, especially the \u003ca href=\"https://fwoof.space/tags/welsh\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ewelsh\u003c/span\u003e\u003c/a\u003e and \u003ca href=\"https://fwoof.space/tags/celtic\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eceltic\u003c/span\u003e\u003c/a\u003e varieties, \u003ca href=\"https://fwoof.space/tags/weaponsmithing\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eweaponsmithing\u003c/span\u003e\u003c/a\u003e,\u003ca href=\"https://fwoof.space/tags/gaming\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003egaming\u003c/span\u003e\u003c/a\u003e, \u003ca href=\"https://fwoof.space/tags/technology\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003etechnology\u003c/span\u003e\u003c/a\u003e and \u003ca href=\"https://fwoof.space/tags/music\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003emusic\u003c/span\u003e\u003c/a\u003e. As we are a totally blind body, \u003ca href=\"https://fwoof.space/tags/accessibility\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eaccessibility\u003c/span\u003e\u003c/a\u003e is also a large interest of ours, and \u003ca href=\"https://fwoof.space/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eAI\u003c/span\u003e\u003c/a\u003e is becoming a larger one as well.\u003cbr\u003eWe are not too picky on who follows us so long as you treat each individual with dignity and respect and talk to us as separate individuals. Enjoy your stay. :)\u003c/p\u003e",
+    "url": "https://fwoof.space/@the_spc",
+    "avatar": "https://infosec.exchange/avatars/original/missing.png",
+    "avatar_static": "https://infosec.exchange/avatars/original/missing.png",
+    "header": "https://infosec.exchange/headers/original/missing.png",
+    "header_static": "https://infosec.exchange/headers/original/missing.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "pronouns",
+        "value": "they/Them",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e I  wouldn't be able to. I can't wistle anything to save my life. LOL\u003c/p\u003e",
+  "created_at": "2025-06-19T03:48:15Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

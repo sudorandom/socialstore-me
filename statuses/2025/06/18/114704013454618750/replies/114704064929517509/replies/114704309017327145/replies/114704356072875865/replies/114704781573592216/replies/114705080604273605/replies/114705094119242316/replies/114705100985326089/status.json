@@ -1,0 +1,105 @@
+{
+  "id": "114705100985326089",
+  "uri": "https://social.tchncs.de/users/vfrmedia/statuses/114705100945320344",
+  "url": "https://social.tchncs.de/@vfrmedia/114705100945320344",
+  "account": {
+    "id": "2204",
+    "username": "vfrmedia",
+    "acct": "vfrmedia@social.tchncs.de",
+    "display_name": "Alex@rtnVFRmedia Suffolk UK",
+    "locked": false,
+    "created_at": "2017-04-04T00:00:00Z",
+    "followers_count": 2855,
+    "following_count": 2601,
+    "statuses_count": 180199,
+    "note": "\u003cp\u003eOld roaming Tom Cat (zwerfkater) but still young at heart. Toots EN, (NL,FR,DE). \u003ca href=\"https://social.tchncs.de/tags/DevOpa\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eDevOpa\u003c/span\u003e\u003c/a\u003e - interested more in retro tech / culture / aesthetics than new stuff. Also transport and public infrastructure in general (with a UK/European focus)\u003c/p\u003e\u003cp\u003eWelcome to the secret goose shed!\u003c/p\u003e\u003cp\u003eAvatar is a tabby point Siamese cat - header picture is a Stentor FM radio transmitter designed in the Netherlands; popular with small pirate radio broadcasters in late 1980s\u003c/p\u003e",
+    "url": "https://social.tchncs.de/@vfrmedia",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/002/204/original/3bd30af080572ab1.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/002/204/original/3bd30af080572ab1.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/000/002/204/original/b8fd51659905d899.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/000/002/204/original/b8fd51659905d899.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "pronouns EN : NL",
+        "value": "he/him : hij/hem",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "pronouns DE : FR",
+        "value": "er/ihm  : il/lui",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "alt:",
+        "value": "\u003ca href=\"https://cyberpunk.lol/@vfrmedia\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecyberpunk.lol/@vfrmedia\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114705094119242316",
+  "in_reply_to_account_id": "109309954124883235",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://mstdn.social/@lpbkdotnet\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003elpbkdotnet\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://toot.pikopublish.ing/@u0421793\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eu0421793\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003eI read Atkinson in the 1980s (had to get it from the library) but only knew about it as I'd been tipped off by engineers at the BBC Receiving Station in Crowsley Park who told me and my friends how the telephone network worked (the BBC and BT operated closely together in that area as BBC Monitoring had HF receivers that could be remotely controlled over the telephone network like todays SDRs)\u003c/p\u003e",
+  "created_at": "2025-06-18T15:35:39Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://mstdn.social/@lpbkdotnet",
+      "username": "lpbkdotnet",
+      "acct": "lpbkdotnet@mstdn.social",
+      "id": "109309954124883235"
+    },
+    {
+      "url": "https://toot.pikopublish.ing/@u0421793",
+      "username": "u0421793",
+      "acct": "u0421793@pikopublish.ing",
+      "id": "111777625505160064"
+    },
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

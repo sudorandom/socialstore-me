@@ -1,0 +1,93 @@
+{
+  "id": "114707130081903939",
+  "uri": "https://oldbytes.space/users/jgeorge/statuses/114707130053231350",
+  "url": "https://oldbytes.space/@jgeorge/114707130053231350",
+  "account": {
+    "id": "109481273193635706",
+    "username": "jgeorge",
+    "acct": "jgeorge@oldbytes.space",
+    "display_name": "jgeorge",
+    "locked": false,
+    "created_at": "2022-12-08T00:00:00Z",
+    "followers_count": 271,
+    "following_count": 158,
+    "statuses_count": 1683,
+    "note": "\u003cp\u003eThings I nerd out about, in no particular order:\u003cbr\u003e- Pinball Machines / Arcade cabinets\u003cbr\u003e- Vintage Computers (mostly lBM)\u003cbr\u003e- Electronics, MCUs, Small Blinky Things\u003cbr\u003e- Laser Cutting, 3D Printing, Dye Sublimation, and general DIY/“Maker” stuff\u003cbr\u003e- Letterpress (I own an antique letterpress that I restored)\u003cbr\u003e- Spacey and Sciency stuff\u003cbr\u003e- Internet of Things things\u003cbr\u003e- Occasional low-grade weebness (sorry in advance)\u003c/p\u003e",
+    "url": "https://oldbytes.space/@jgeorge",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/481/273/193/635/706/original/6d607cbcd260232f.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/481/273/193/635/706/original/6d607cbcd260232f.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/481/273/193/635/706/original/a62ea62c42c6a5b5.jpeg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/481/273/193/635/706/original/a62ea62c42c6a5b5.jpeg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Current Labor of Love:",
+        "value": "\u003ca href=\"https://www.gofundme.com/f/ibm-system-38-computer-rescue-and-restoration\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003egofundme.com/f/ibm-system-38-c\u003c/span\u003e\u003cspan class=\"invisible\"\u003eomputer-rescue-and-restoration\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Previous Labor of Love:",
+        "value": "\u003ca href=\"https://www.gofundme.com/f/ibm-system-34-computer-rescue-and-rehabilitation\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003egofundme.com/f/ibm-system-34-c\u003c/span\u003e\u003cspan class=\"invisible\"\u003eomputer-rescue-and-rehabilitation\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Eventually, a blog:",
+        "value": "\u003ca href=\"http://crusty.computer/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ecrusty.computer/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Cool! Now i can test my Captain Crunch whistle!\u003c/p\u003e",
+  "created_at": "2025-06-19T00:11:41Z",
+  "edited_at": "2025-06-19T00:30:41Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

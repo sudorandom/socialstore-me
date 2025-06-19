@@ -1,0 +1,105 @@
+{
+  "id": "114705094119242316",
+  "uri": "https://mstdn.social/users/lpbkdotnet/statuses/114705094087173742",
+  "url": "https://mstdn.social/@lpbkdotnet/114705094087173742",
+  "account": {
+    "id": "109309954124883235",
+    "username": "lpbkdotnet",
+    "acct": "lpbkdotnet@mstdn.social",
+    "display_name": "lpbkdotnet",
+    "locked": false,
+    "created_at": "2022-10-28T00:00:00Z",
+    "followers_count": 273,
+    "following_count": 69,
+    "statuses_count": 1627,
+    "note": "\u003cp\u003eOld phones and exchanges from the UK, occasionally excited about amateur radio.\u2029YouTube videos from my phone exchange shed etc… when I remember!\u003c/p\u003e\u003cp\u003eAKA \"That mad fool who took a strowger telephone exchange camping at emfcamp 2024\"\u003c/p\u003e\u003cp\u003eI use finger for blogging, to read it run this at a command prompt:\u003c/p\u003e\u003cp\u003efinger lpbk@finger.lpbk.net\u003c/p\u003e\u003cp\u003eCall my stupid phone toys on 0117 9111228 (UK)\u003c/p\u003e",
+    "url": "https://mstdn.social/@lpbkdotnet",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/309/954/124/883/235/original/d76c933f7fd227b0.jpeg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/309/954/124/883/235/original/d76c933f7fd227b0.jpeg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/309/954/124/883/235/original/35db5cce69adaf6b.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/309/954/124/883/235/original/35db5cce69adaf6b.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"http://lpbk.net\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003elpbk.net\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Youtube",
+        "value": "\u003ca href=\"https://youtube.com/lpbkdotnet\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eyoutube.com/lpbkdotnet\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Callsign",
+        "value": "M0OLP",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114705080604273605",
+  "in_reply_to_account_id": "2204",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.tchncs.de/@vfrmedia\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003evfrmedia\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://toot.pikopublish.ing/@u0421793\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eu0421793\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e The key difference between the UK and the USA wasn't so much technical as it was sociatal.\u003c/p\u003e\u003cp\u003eUS phreaking became very counter-culture, \"stick it to the man, free long distance for everyone!\" with celebrities buying blue boxes.\u003c/p\u003e\u003cp\u003eIn the UK, it was far more \"interested geeks poking at it for fun to see what it did\" with a sense of fair play.\u003c/p\u003e\u003cp\u003eWell, except for those phone engineers inside the system who were abusing their position... but that's a whole other story!\u003c/p\u003e",
+  "created_at": "2025-06-18T15:33:55Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://social.tchncs.de/@vfrmedia",
+      "username": "vfrmedia",
+      "acct": "vfrmedia@social.tchncs.de",
+      "id": "2204"
+    },
+    {
+      "url": "https://toot.pikopublish.ing/@u0421793",
+      "username": "u0421793",
+      "acct": "u0421793@pikopublish.ing",
+      "id": "111777625505160064"
+    },
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

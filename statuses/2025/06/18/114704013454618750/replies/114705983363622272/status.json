@@ -1,0 +1,93 @@
+{
+  "id": "114705983363622272",
+  "uri": "https://sometimes.social/users/jordan/statuses/114705979947805901",
+  "url": "https://sometimes.social/@jordan/114705979947805901",
+  "account": {
+    "id": "108244370495612587",
+    "username": "jordan",
+    "acct": "jordan@sometimes.social",
+    "display_name": "jordan",
+    "locked": false,
+    "created_at": "2022-04-29T00:00:00Z",
+    "followers_count": 694,
+    "following_count": 615,
+    "statuses_count": 15793,
+    "note": "\u003cp\u003eSubversive suburban \u003ca href=\"https://sometimes.social/tags/Chicago\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eChicago\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://sometimes.social/tags/dad\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003edad\u003c/span\u003e\u003c/a\u003e, computer cleric, and jaded tech industry trench-digger. \u003c/p\u003e\u003cp\u003eAnyone is free to follow, if I don't like you I'll just block you. Gnerally not a hugger; no flirting please.\u003c/p\u003e\u003cp\u003eI use lots of profanity, which I do not CW. Sometimes I talk about marijuana, which I usually CW. I almost never post lewd stuff; if I do I will always CW.\u003c/p\u003e\u003cp\u003eMINORS: Please don't talk like I do here, or do the things I talk about doing when I was a minor. Don't do drugs.\u003c/p\u003e\u003cp\u003eWARNING: I am neither serious nor professional on this account.\u003c/p\u003e",
+    "url": "https://sometimes.social/@jordan",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/108/244/370/495/612/587/original/67991a988e1af48c.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/108/244/370/495/612/587/original/67991a988e1af48c.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/108/244/370/495/612/587/original/e8ffa338f46dd2c2.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/108/244/370/495/612/587/original/e8ffa338f46dd2c2.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Blog",
+        "value": "\u003ca href=\"https://jordemort.dev\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ejordemort.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Pronouns",
+        "value": "they/them or he/him",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "BlueSky remix",
+        "value": "\u003ca href=\"https://bsky.app/profile/jordan.sometimes.social.ap.brid.gy\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ebsky.app/profile/jordan.someti\u003c/span\u003e\u003cspan class=\"invisible\"\u003emes.social.ap.brid.gy\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Best I can do is 1550\u003c/p\u003e",
+  "created_at": "2025-06-18T19:19:12Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

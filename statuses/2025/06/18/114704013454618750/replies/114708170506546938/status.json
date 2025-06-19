@@ -1,0 +1,100 @@
+{
+  "id": "114708170506546938",
+  "uri": "https://mstdn.games/users/GrayGooGirl/statuses/114708170431724934",
+  "url": "https://mstdn.games/@GrayGooGirl/114708170431724934",
+  "account": {
+    "id": "110327963961193553",
+    "username": "GrayGooGirl",
+    "acct": "GrayGooGirl@mstdn.games",
+    "display_name": "GrayGooGlitch :v_lesbian:",
+    "locked": false,
+    "created_at": "2023-05-07T00:00:00Z",
+    "followers_count": 759,
+    "following_count": 155,
+    "statuses_count": 2289,
+    "note": "\u003cp\u003eThey/She, Trans, Gray Ace Lesbian in a relationship, Retro Games Speedrunner/Rando-runner, Pro-LGBTQ+ Advocate, Intersectional Feminist\u003c/p\u003e\u003cp\u003eFrame Fatales Community Mod\u003cbr\u003eAGDQ25 Runner x2\u003cbr\u003eFrost / Flame Fatales 23 Runner\u003cbr\u003eFrost / Flame Fatales 24 Runner\u003cbr\u003eWinter / PUWP 23 Runner\u003cbr\u003eFireside / PUWP 24 Runner\u003cbr\u003eLASS 23/24 Runner\u003cbr\u003eSpeedrun Ragnarok 2023 Runner\u003cbr\u003eGDQ Hotfix Runner (x9)\u003c/p\u003e\u003cp\u003eTwitch Schedule:\u003cbr\u003eMonday 7PM EST\u003cbr\u003eWednesday 7PM EST\u003cbr\u003eSunday 10AM EST\u003c/p\u003e",
+    "url": "https://mstdn.games/@GrayGooGirl",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/327/963/961/193/553/original/20be15d3fc394377.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/327/963/961/193/553/original/20be15d3fc394377.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/110/327/963/961/193/553/original/9e2206eefcfd0160.jpeg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/110/327/963/961/193/553/original/9e2206eefcfd0160.jpeg",
+    "emojis": [
+      {
+        "shortcode": "v_lesbian",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/224/375/static/02cac5dd9ff6ab72.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/224/375/original/02cac5dd9ff6ab72.png",
+        "visible_in_picker": true
+      }
+    ],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Pronouns",
+        "value": "They/She",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Twitch",
+        "value": "\u003ca href=\"https://graygooglitch.run\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egraygooglitch.run\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Domain",
+        "value": "\u003ca href=\"https://graygooglitch.com\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egraygooglitch.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003cbr\u003eHighest I could consistently get is 2200 \u0026gt;\u0026lt;\u003c/p\u003e",
+  "created_at": "2025-06-19T04:36:16Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

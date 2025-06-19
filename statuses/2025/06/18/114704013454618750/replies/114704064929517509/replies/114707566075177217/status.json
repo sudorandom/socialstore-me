@@ -1,0 +1,117 @@
+{
+  "id": "114707566075177217",
+  "uri": "https://mstdn.social/users/_L1vY_/statuses/114707566005850982",
+  "url": "https://mstdn.social/@_L1vY_/114707566005850982",
+  "account": {
+    "id": "109248927477497250",
+    "username": "_L1vY_",
+    "acct": "_L1vY_@mstdn.social",
+    "display_name": "Mother Bones",
+    "locked": false,
+    "created_at": "2022-04-26T00:00:00Z",
+    "followers_count": 5763,
+    "following_count": 7499,
+    "statuses_count": 12897,
+    "note": "\u003cp\u003eUn-Tied States of America. Online for news, social justice, and too much politics. Once upon a time I was online for science, psych, tech, cooking, critters, and creative stuff.\u003cbr\u003eI boost a LOT-turn off my boosts if you hate that. No terfs, ACAB, no white supremacy, no antisemitism, no Islamaphobia. *Posts disappear in 1 week!*\u003cbr\u003e\u003ca href=\"https://linktr.ee/_l1vy_\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elinktr.ee/_l1vy_\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://justmytoots.com/@_L1vY_@mstdn.social\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ejustmytoots.com/@_L1vY_@mstdn.\u003c/span\u003e\u003cspan class=\"invisible\"\u003esocial\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://mstdn.social/@_L1vY_",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/248/927/477/497/250/original/974af7029f1c44f1.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/248/927/477/497/250/original/974af7029f1c44f1.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/248/927/477/497/250/original/86b2dc144aede686.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/248/927/477/497/250/original/86b2dc144aede686.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Content",
+        "value": "SJW X PoopToot",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Job",
+        "value": "Rogue Psychologist",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Relationship",
+        "value": "\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://mastodon.social/@geistweg\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003egeistweg@mastodon.social\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Status",
+        "value": "Chronically Fatigued",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704064929517509",
+  "in_reply_to_account_id": "111777625505160064",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://toot.pikopublish.ing/@u0421793\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eu0421793\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003c/p\u003e\u003cp\u003eOH it was real! And the thing with the toy whistle in a cereal box...\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://military-history.fandom.com/wiki/John_Draper\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003emilitary-history.fandom.com/wi\u003c/span\u003e\u003cspan class=\"invisible\"\u003eki/John_Draper\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "created_at": "2025-06-19T02:02:33Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "unlisted",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://toot.pikopublish.ing/@u0421793",
+      "username": "u0421793",
+      "acct": "u0421793@pikopublish.ing",
+      "id": "111777625505160064"
+    },
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": {
+    "url": "https://military-history.fandom.com/wiki/John_Draper",
+    "title": "John Draper",
+    "description": "John Thomas Draper (born March 11, 1943), also known as Captain Crunch, Crunch or Crunchman (after the Cap'n Crunch breakfast cereal mascot), is an American computer programmer and legendary former phone phreak. He is a widely known figure within the computer programming world and the hacker and security community and generally lives a nomadic lifestyle.[1] Following the emergence of the Me Too movement in 2017, allegations against him dating back decades surfaced in media reports and in...",
+    "image": "2025/06/18/114704013454618750/replies/114704064929517509/replies/114707566075177217/card_image.png",
+    "type": "link",
+    "author_name": "",
+    "author_url": "",
+    "provider_name": "Military Wiki",
+    "provider_url": "",
+    "html": "",
+    "width": 600,
+    "height": 600
+  },
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "114707849943675149",
+  "uri": "https://chaosfem.tw/users/freya/statuses/114707849879076623",
+  "url": "https://chaosfem.tw/@freya/114707849879076623",
+  "account": {
+    "id": "113812408080512333",
+    "username": "freya",
+    "acct": "freya@chaosfem.tw",
+    "display_name": "Freya (it/its)𒀭𒈹𒍠𒊩",
+    "locked": false,
+    "created_at": "2025-01-11T00:00:00Z",
+    "followers_count": 909,
+    "following_count": 1110,
+    "statuses_count": 6141,
+    "note": "\u003cp\u003etranssane T4t transbian catgirl. sesata settara. Sleepy. Perpetually sleepy. Radiantly menacing, creature of Kaleidoscope. Always up to be flirted with or petted. Will bite if you ask  nicely. Also on Solaris most of the time (10 u11 SPARC, Illumos X64). body is 25, we're too sleepy to have an age.  Mage specialising in hypnosis, audio, and generalised fuckery. Ask us about Kaleidoscope. The winding fractal curls into the transcendental. The goddess is waking up. Infinity is leaking in. \u003cbr\u003e\u003ca href=\"https://ko-fi.com/12of47\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eko-fi.com/12of47\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://chaosfem.tw/@freya",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/812/408/080/512/333/original/a2aa953ff0da5068.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/812/408/080/512/333/original/a2aa953ff0da5068.jpg",
+    "header": "https://infosec.exchange/headers/original/missing.png",
+    "header_static": "https://infosec.exchange/headers/original/missing.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Location",
+        "value": "Seattle in heart, NZ in body",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Pronouns",
+        "value": "it/its|she/her",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Lesbian?",
+        "value": "Definitely",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "yours?",
+        "value": "ask nicely, cutie",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e heh, this one could sadly never do that. it needs to find its bluebox though\u003c/p\u003e",
+  "created_at": "2025-06-19T03:14:45Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

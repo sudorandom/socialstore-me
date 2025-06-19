@@ -1,0 +1,106 @@
+{
+  "id": "114704926732219339",
+  "uri": "https://mastodon.online/users/MartyFouts/statuses/114704926681311472",
+  "url": "https://mastodon.online/@MartyFouts/114704926681311472",
+  "account": {
+    "id": "109377587601503907",
+    "username": "MartyFouts",
+    "acct": "MartyFouts@mastodon.online",
+    "display_name": "Marty Fouts",
+    "locked": false,
+    "created_at": "2022-10-31T00:00:00Z",
+    "followers_count": 128,
+    "following_count": 102,
+    "statuses_count": 1512,
+    "note": "\u003cp\u003eRetired software developer.\u003cbr\u003eExploring VCV rack\u003c/p\u003e",
+    "url": "https://mastodon.online/@MartyFouts",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/377/587/601/503/907/original/430e9d87865b2f33.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/377/587/601/503/907/original/430e9d87865b2f33.jpg",
+    "header": "https://infosec.exchange/headers/original/missing.png",
+    "header_static": "https://infosec.exchange/headers/original/missing.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Verification",
+        "value": "\u003ca href=\"https://fogey.com\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003efogey.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-06-17T23:04:36.243Z"
+      },
+      {
+        "name": "Prounouns",
+        "value": "He/him",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704760239731752",
+  "in_reply_to_account_id": "111777625505160064",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://toot.pikopublish.ing/@u0421793\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eu0421793\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://toot.community/@MyWoolyMastadon\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eMyWoolyMastadon\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://masto.ai/@narpoleptic\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003enarpoleptic\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Part of the problem is that your understanding of how the phone system works appears to be limited to the user interface but does not seem to include how the system works internally. \u003c/p\u003e\u003cp\u003eNon US systems also automated long distance routing using tones for in band signals. The frequency wasn’t 2600hz, but it would work the same way.\u003cbr\u003eEven in the 60s.\u003c/p\u003e",
+  "created_at": "2025-06-18T14:51:20Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 2,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "unlisted",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://toot.pikopublish.ing/@u0421793",
+      "username": "u0421793",
+      "acct": "u0421793@pikopublish.ing",
+      "id": "111777625505160064"
+    },
+    {
+      "url": "https://toot.community/@MyWoolyMastadon",
+      "username": "MyWoolyMastadon",
+      "acct": "MyWoolyMastadon@toot.community",
+      "id": "110613845451943637"
+    },
+    {
+      "url": "https://masto.ai/@narpoleptic",
+      "username": "narpoleptic",
+      "acct": "narpoleptic@masto.ai",
+      "id": "109422592120711663"
+    },
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

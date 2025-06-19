@@ -1,0 +1,83 @@
+{
+  "id": "114706024067696069",
+  "uri": "https://deacon.social/users/ossobuffo/statuses/114706024009269766",
+  "url": "https://deacon.social/@ossobuffo/114706024009269766",
+  "account": {
+    "id": "110965682604579117",
+    "username": "ossobuffo",
+    "acct": "ossobuffo@deacon.social",
+    "display_name": "Daniel Johnson",
+    "locked": false,
+    "created_at": "2023-08-27T00:00:00Z",
+    "followers_count": 129,
+    "following_count": 135,
+    "statuses_count": 999,
+    "note": "\u003cp\u003eOrthodox Christian deacon. Husband, dad, cat dad. \u003ca href=\"https://deacon.social/tags/Gardening\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eGardening\u003c/span\u003e\u003c/a\u003e, \u003ca href=\"https://deacon.social/tags/hiking\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ehiking\u003c/span\u003e\u003c/a\u003e, \u003ca href=\"https://deacon.social/tags/cooking\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ecooking\u003c/span\u003e\u003c/a\u003e, \u003ca href=\"https://deacon.social/tags/cocktails\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ecocktails\u003c/span\u003e\u003c/a\u003e. Central \u003ca href=\"https://deacon.social/tags/NorthCarolina\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eNorthCarolina\u003c/span\u003e\u003c/a\u003e, USA. Occasionally a choral music arranger/composer. English/Spanish bilingual.\u003c/p\u003e\u003cp\u003eIf religion offends your sensibilities, may I politely suggest you not follow this profile.\u003c/p\u003e",
+    "url": "https://deacon.social/@ossobuffo",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/965/682/604/579/117/original/32a09b204fc5b33c.jpeg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/965/682/604/579/117/original/32a09b204fc5b33c.jpeg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/110/965/682/604/579/117/original/08df1c5de5c3dd4a.jpeg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/110/965/682/604/579/117/original/08df1c5de5c3dd4a.jpeg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://danieljohnson.name/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edanieljohnson.name/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-06-19T00:37:07.012Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e If I'm reading things right, 2600 Hz is a tiny bit more than two whole steps higher than the highest note a flute can perform; but it's easy to play on a piccolo.\u003c/p\u003e",
+  "created_at": "2025-06-18T19:30:24Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

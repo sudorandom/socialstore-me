@@ -1,0 +1,98 @@
+{
+  "id": "114707465432537138",
+  "uri": "https://social.arunmozhi.in/notes/a969yrsi7f",
+  "url": "https://social.arunmozhi.in/notes/a969yrsi7f",
+  "account": {
+    "id": "109329342409286354",
+    "username": "tecoholic",
+    "acct": "tecoholic@social.arunmozhi.in",
+    "display_name": "Arunmozhi",
+    "locked": false,
+    "created_at": "2022-11-12T00:00:00Z",
+    "followers_count": 233,
+    "following_count": 368,
+    "statuses_count": 5250,
+    "note": "\u003cp\u003eCodes for a living. Reads for fun. Writes to think. Runs for health.\u003c/p\u003e",
+    "url": "https://social.arunmozhi.in/@tecoholic",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/329/342/409/286/354/original/2eff6b26a7b7672c.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/329/342/409/286/354/original/2eff6b26a7b7672c.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/329/342/409/286/354/original/90a349ebf1f9d1f8.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/329/342/409/286/354/original/90a349ebf1f9d1f8.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://arunmozhi.in/\" rel=\"nofollow noopener\" target=\"_blank\"\u003ehttps://arunmozhi.in/\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Previously",
+        "value": "@tecoholic@mastodon.social",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Github",
+        "value": "\u003ca href=\"https://github.com/tecoholic\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/tecoholic\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-06-15T02:23:09.949Z"
+      },
+      {
+        "name": "Langauges",
+        "value": "தமிழ், English",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@sudorandom@infosec.exchange\u003c/a\u003e super cool. Whistling didn’t hit the right frequency. I managed to get it by sucking in the air 😂😂\u003c/p\u003e",
+  "created_at": "2025-06-19T01:36:57.906Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

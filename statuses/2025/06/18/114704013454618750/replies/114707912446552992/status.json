@@ -1,0 +1,105 @@
+{
+  "id": "114707912446552992",
+  "uri": "https://mastodon.murkworks.net/users/moira/statuses/114707912404497988",
+  "url": "https://mastodon.murkworks.net/@moira/114707912404497988",
+  "account": {
+    "id": "109295876702307164",
+    "username": "moira",
+    "acct": "moira@mastodon.murkworks.net",
+    "display_name": "Solarbird :flag_cascadia:",
+    "locked": false,
+    "created_at": "2022-11-06T00:00:00Z",
+    "followers_count": 1870,
+    "following_count": 950,
+    "statuses_count": 76533,
+    "note": "\u003cp\u003eBluesky users! Read: \u003ca href=\"http://mastodon.murkworks.net/@moira/113647708264029959\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003emastodon.murkworks.net/@moira/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e113647708264029959\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eShe/her ex-software dev writing words for money, fun, or survival. I write short here, but long on my blog. I also make bike maps, printables, and radio noise (KK7ZLU).\u003c/p\u003e\u003cp\u003eRepublicans have tried to kill me \u0026amp; mine off my whole life, so if you hate \"Dems\" or \"libs\" more than actual fash? DNI+GFY.\u003c/p\u003e\u003cp\u003eWant to support me or my Mastodon instance? \u003ca href=\"http://patreon.com/solarbird\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003epatreon.com/solarbird\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://justmytoots.com/@moira@mastodon.murkworks.net\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ejustmytoots.com/@moira@mastodo\u003c/span\u003e\u003cspan class=\"invisible\"\u003en.murkworks.net\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://mastodon.murkworks.net/@moira",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/295/876/702/307/164/original/40d0dc27526de0c0.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/295/876/702/307/164/original/40d0dc27526de0c0.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/295/876/702/307/164/original/b6e7dc7601775ac9.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/295/876/702/307/164/original/b6e7dc7601775ac9.jpg",
+    "emojis": [
+      {
+        "shortcode": "flag_cascadia",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/189/517/static/94b4c3bb025a8e64.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/189/517/original/94b4c3bb025a8e64.png",
+        "visible_in_picker": true
+      }
+    ],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Stories:",
+        "value": "\u003ca href=\"https://archiveofourown.org/works/16287893/chapters/38092361\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003earchiveofourown.org/works/1628\u003c/span\u003e\u003cspan class=\"invisible\"\u003e7893/chapters/38092361\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Printable things:",
+        "value": "\u003ca href=\"https://www.thingiverse.com/solarbird/designs\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ethingiverse.com/solarbird/desi\u003c/span\u003e\u003cspan class=\"invisible\"\u003egns\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Github:",
+        "value": "\u003ca href=\"https://github.com/solarbirdy\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/solarbirdy\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-06-17T02:29:10.003Z"
+      },
+      {
+        "name": "Federated Blog:",
+        "value": "\u003ca href=\"https://solarbird.net/blog\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003esolarbird.net/blog\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114704013454618750",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e I used to be able to whistle a 300/1200 baud break tone ^_^\u003c/p\u003e",
+  "created_at": "2025-06-19T03:30:39Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
