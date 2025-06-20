@@ -9,7 +9,7 @@
     "display_name": "Kevin McDonald",
     "locked": false,
     "created_at": "2022-11-07T00:00:00Z",
-    "followers_count": 232,
+    "followers_count": 233,
     "following_count": 78,
     "statuses_count": 947,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
@@ -42,7 +42,7 @@
     "source": null,
     "followed_tags": null
   },
-  "in_reply_to_id": "112231207243341132",
+  "in_reply_to_id": null,
   "in_reply_to_account_id": "109356164979070787",
   "reblog": null,
   "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://mastodon.social/@ShaunBurch\" class=\"u-url mention\"\u003e@\u003cspan\u003eShaunBurch\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e if it was intentional it worked on me so hard!\u003c/p\u003e",
