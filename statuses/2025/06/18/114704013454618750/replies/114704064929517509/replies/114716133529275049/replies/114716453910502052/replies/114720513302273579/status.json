@@ -1,0 +1,106 @@
+{
+  "id": "114720513302273579",
+  "uri": "https://masto.ai/users/DoctorDNS/statuses/114720513247534158",
+  "url": "https://masto.ai/@DoctorDNS/114720513247534158",
+  "account": {
+    "id": "109308624996137296",
+    "username": "DoctorDNS",
+    "acct": "DoctorDNS@masto.ai",
+    "display_name": "Thomas Lee ✅ :patreon:",
+    "locked": false,
+    "created_at": "2022-11-08T00:00:00Z",
+    "followers_count": 987,
+    "following_count": 732,
+    "statuses_count": 4028,
+    "note": "\u003cp\u003eThomas Lee \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://masto.ai/@DoctorDNS\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eDoctorDNS\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003cbr\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://masto.ai/@DoctorDNS\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eDoctorDNS\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e on Twitter\u003c/p\u003e\u003cp\u003eRetired IT Pro - started in IT in1968. \u003ca href=\"https://masto.ai/tags/OS\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eOS\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://masto.ai/tags/developer\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003edeveloper\u003c/span\u003e\u003c/a\u003e turned \u003ca href=\"https://masto.ai/tags/consultant\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003econsultant\u003c/span\u003e\u003c/a\u003e turned \u003ca href=\"https://masto.ai/tags/trainer\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003etrainer\u003c/span\u003e\u003c/a\u003e. Discovered \u003ca href=\"https://masto.ai/tags/PowerShell\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ePowerShell\u003c/span\u003e\u003c/a\u003e and never looked back. 17 times \u003ca href=\"https://masto.ai/tags/mvp\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003emvp\u003c/span\u003e\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eWritten several books on both \u003ca href=\"https://masto.ai/tags/TCP\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eTCP\u003c/span\u003e\u003c/a\u003e/IP and \u003cbr\u003e\u003ca href=\"https://masto.ai/tags/PowerShell\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ePowerShell\u003c/span\u003e\u003c/a\u003e.\u003cbr\u003eI spend time in a number of support boards.\u003cbr\u003eLove the \u003ca href=\"https://masto.ai/tags/GratefulDead\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eGratefulDead\u003c/span\u003e\u003c/a\u003e and \u003ca href=\"https://masto.ai/tags/JerryGarcia\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eJerryGarcia\u003c/span\u003e\u003c/a\u003e live shows.\u003cbr\u003eI live in an old cottage in the \u003ca href=\"https://masto.ai/tags/English\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eEnglish\u003c/span\u003e\u003c/a\u003e countryside. \u003cbr\u003eMoving to \u003ca href=\"https://masto.ai/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003emastodon\u003c/span\u003e\u003c/a\u003e.\u003c/p\u003e",
+    "url": "https://masto.ai/@DoctorDNS",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/308/624/996/137/296/original/31226af4b28501c8.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/308/624/996/137/296/original/31226af4b28501c8.jpg",
+    "header": "https://infosec.exchange/headers/original/missing.png",
+    "header_static": "https://infosec.exchange/headers/original/missing.png",
+    "emojis": [
+      {
+        "shortcode": "patreon",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/169/563/static/7f336ec5b5542241.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/169/563/original/7f336ec5b5542241.png",
+        "visible_in_picker": true
+      }
+    ],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Twitter Handle",
+        "value": "\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://masto.ai/@DoctorDNS\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eDoctorDNS\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Blog",
+        "value": "\u003ca href=\"https://tfl09.blogspot.com\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etfl09.blogspot.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-06-19T14:34:03.564Z"
+      },
+      {
+        "name": "GitHub",
+        "value": "\u003ca href=\"https://doctordns.github.io\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edoctordns.github.io\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-06-19T14:34:03.63Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114716453910502052",
+  "in_reply_to_account_id": "111777625505160064",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://toot.pikopublish.ing/@u0421793\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eu0421793\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e BellTell was the US Bell Telephone company that at one time ran most\u003cbr\u003eOf of the US telephone system. It was a monopoly and later broken up.  New York (the one in the US in case you did not know that either) hosted the 1961 Worlds Fair. That's where they introduced the touch tone phone. It and the phone phreakers were an Ametican thing mostly. Do a bit of research?\u003c/p\u003e",
+  "created_at": "2025-06-21T08:55:12Z",
+  "edited_at": "2025-06-21T09:02:43Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "unlisted",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://toot.pikopublish.ing/@u0421793",
+      "username": "u0421793",
+      "acct": "u0421793@pikopublish.ing",
+      "id": "111777625505160064"
+    },
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
