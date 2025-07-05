@@ -55,7 +55,7 @@
       "display_name": "muesli",
       "locked": false,
       "created_at": "2018-06-13T00:00:00Z",
-      "followers_count": 27948,
+      "followers_count": 27949,
       "following_count": 3574,
       "statuses_count": 8648,
       "note": "\u003cp\u003eI build open-source software and make little gadgets.\u003c/p\u003e\u003cp\u003eFrom a time when email was cool. Hard to distinguish from a good programmer.\u003c/p\u003e",
@@ -109,9 +109,9 @@
       {
         "id": "109536018564890153",
         "type": "image",
-        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/536/018/564/890/153/original/217c54151633a301.png",
+        "url": "https://infosec.exchange/media_proxy/109536018564890153/original",
         "remote_url": "https://files.mastodon.social/media_attachments/files/109/536/009/596/444/851/original/bef764720df64ce9.png",
-        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/536/018/564/890/153/small/217c54151633a301.png",
+        "preview_url": "https://infosec.exchange/media_proxy/109536018564890153/small",
         "text_url": "",
         "description": "",
         "meta": {
@@ -132,9 +132,9 @@
       {
         "id": "109536018632596176",
         "type": "image",
-        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/536/018/632/596/176/original/5608a2f92c34def1.png",
+        "url": "https://infosec.exchange/media_proxy/109536018632596176/original",
         "remote_url": "https://files.mastodon.social/media_attachments/files/109/536/016/514/159/186/original/c67fafa8fb1523e3.png",
-        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/536/018/632/596/176/small/5608a2f92c34def1.png",
+        "preview_url": "https://infosec.exchange/media_proxy/109536018632596176/small",
         "text_url": "",
         "description": "",
         "meta": {
