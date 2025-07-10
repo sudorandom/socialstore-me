@@ -55,7 +55,7 @@
       "display_name": "shellsharks",
       "locked": false,
       "created_at": "2025-01-10T00:00:00Z",
-      "followers_count": 466,
+      "followers_count": 468,
       "following_count": 732,
       "statuses_count": 833,
       "note": "\u003cp\u003eInfosec researcher | Indieweb enthusiast | Find me @ \u003ca href=\"https://shellsharks.com\" rel=\"nofollow noopener\" target=\"_blank\"\u003ehttps://shellsharks.com\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eTesting out a single-user GoToSocial instance.\u003c/p\u003e",
@@ -70,7 +70,7 @@
         {
           "name": "Find me",
           "value": "\u003ca href=\"https://shellsharks.com\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eshellsharks.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-07-01T08:19:40.917Z"
+          "verified_at": "2025-07-09T15:18:18.945Z"
         }
       ],
       "bot": false,
