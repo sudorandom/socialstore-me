@@ -1,0 +1,112 @@
+{
+  "id": "114902034427974996",
+  "uri": "https://hachyderm.io/users/markd/statuses/114902034406510135",
+  "url": "https://hachyderm.io/@markd/114902034406510135",
+  "account": {
+    "id": "109309950539258296",
+    "username": "markd",
+    "acct": "markd@hachyderm.io",
+    "display_name": "MarkD",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 101,
+    "following_count": 359,
+    "statuses_count": 2217,
+    "note": "\u003cp\u003eMostly a light-hearted joker. For fun and profit I code high-performance Internet thingies - mostly in go.\u003c/p\u003e",
+    "url": "https://hachyderm.io/@markd",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/309/950/539/258/296/original/66865d4847708c05.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/309/950/539/258/296/original/66865d4847708c05.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/309/950/539/258/296/original/7da530c7eebdd651.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/309/950/539/258/296/original/7da530c7eebdd651.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "github",
+        "value": "\u003ca href=\"https://github.com/markdingo\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/markdingo\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-07-23T12:55:16.815Z"
+      },
+      {
+        "name": "UUCP",
+        "value": "...!sun!sunaus!markd",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114901807012417929",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e I must admit I struggle to understand the benefits of errgroup. Seems overly complicated for what it does.\u003c/p\u003e\u003cp\u003eIf you just want a multierror, why not use a sync.Waitgroup and have all your goroutines append their error to a mutex protected array? After waitGroup.Wait() your array is your multierror.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://play.golang.com/p/d5RpL_H4RCF\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eplay.golang.com/p/d5RpL_H4RCF\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://hachyderm.io/tags/golang\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003egolang\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://hachyderm.io/tags/go\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ego\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "created_at": "2025-07-23T10:18:25Z",
+  "edited_at": "2025-07-23T10:19:24Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [
+    {
+      "name": "go",
+      "url": "https://infosec.exchange/tags/go",
+      "history": null
+    },
+    {
+      "name": "golang",
+      "url": "https://infosec.exchange/tags/golang",
+      "history": null
+    }
+  ],
+  "card": {
+    "url": "https://play.golang.com/p/d5RpL_H4RCF",
+    "title": "The Go Playground",
+    "description": "",
+    "image": "",
+    "type": "link",
+    "author_name": "",
+    "author_url": "",
+    "provider_name": "",
+    "provider_url": "",
+    "html": "",
+    "width": 0,
+    "height": 0
+  },
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

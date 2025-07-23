@@ -1,0 +1,99 @@
+{
+  "id": "114902269933501404",
+  "uri": "https://hachyderm.io/users/markd/statuses/114902269900645191",
+  "url": "https://hachyderm.io/@markd/114902269900645191",
+  "account": {
+    "id": "109309950539258296",
+    "username": "markd",
+    "acct": "markd@hachyderm.io",
+    "display_name": "MarkD",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 101,
+    "following_count": 359,
+    "statuses_count": 2217,
+    "note": "\u003cp\u003eMostly a light-hearted joker. For fun and profit I code high-performance Internet thingies - mostly in go.\u003c/p\u003e",
+    "url": "https://hachyderm.io/@markd",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/309/950/539/258/296/original/66865d4847708c05.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/309/950/539/258/296/original/66865d4847708c05.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/309/950/539/258/296/original/7da530c7eebdd651.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/309/950/539/258/296/original/7da530c7eebdd651.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "github",
+        "value": "\u003ca href=\"https://github.com/markdingo\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/markdingo\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-07-23T12:55:16.815Z"
+      },
+      {
+        "name": "UUCP",
+        "value": "...!sun!sunaus!markd",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "114902210257093042",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e It's all very well that Errgroup constrains concurrency, but it leaves you with the problem of what to do if TryGo() returns false.\u003c/p\u003e\u003cp\u003eThis seems like a nasty edge-case where you have to resort to your own queuing or pooling or mutex management. This seems like its the raison d'état of  Errgroup yet it punts the problem back to you at the most crucial of times.\u003c/p\u003e\u003cp\u003eI'm not a big fan of punting edge cases back to the consumer as that's worse complexity for them than exposing concurrency for them to deal with as a matter of course.\u003c/p\u003e\u003cp\u003eI agree that carrying around a context is pretty useful.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://hachyderm.io/tags/go\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ego\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://hachyderm.io/tags/golang\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003egolang\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "created_at": "2025-07-23T11:18:19Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 1,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [
+    {
+      "name": "go",
+      "url": "https://infosec.exchange/tags/go",
+      "history": null
+    },
+    {
+      "name": "golang",
+      "url": "https://infosec.exchange/tags/golang",
+      "history": null
+    }
+  ],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
