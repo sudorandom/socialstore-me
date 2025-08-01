@@ -11,13 +11,13 @@
     "created_at": "2022-09-27T00:00:00Z",
     "followers_count": 34,
     "following_count": 34,
-    "statuses_count": 7156,
+    "statuses_count": 7188,
     "note": "\u003cp\u003e(Über mich) Ist nichts zu sagen. \u003c/p\u003e\u003cp\u003eAllein meinen Humor findet ihr ob seines Schatten im Kohlenkeller.\u003c/p\u003e\u003cp\u003eTrööts haben mit normal (Über-)Falle vier Metaebenen. Meistens.\u003c/p\u003e\u003cp\u003eLest nichts mit Inhaltswarnung.\u003c/p\u003e\u003cp\u003eIst tippen Glückssache?\u003c/p\u003e\u003cp\u003ePicknickt am Wegesrand.\u003c/p\u003e\u003cp\u003eNo PN beyond the wall of work, else Gnupg, Telegram, Signal (sometimes).\u003c/p\u003e",
     "url": "https://chaos.social/@pr14minus",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/820/821/060/800/273/original/5c3ef789a77a5e2c.png",
     "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/820/821/060/800/273/original/5c3ef789a77a5e2c.png",
-    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/820/821/060/800/273/original/75a2cb199dbdc769.png",
-    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/820/821/060/800/273/original/75a2cb199dbdc769.png",
+    "header": "https://infosec.exchange/headers/original/missing.png",
+    "header_static": "https://infosec.exchange/headers/original/missing.png",
     "emojis": [],
     "moved": null,
     "fields": [
@@ -38,7 +38,7 @@
       },
       {
         "name": "Sicherheitshinweis",
-        "value": "BTW: Dies ist Mastodon, komplett keine Sicherheit noch Privatsphäre, ich führe hier nicht mein privates Tagebuch allenfalls eine betriebliche Arbeitsresultatmappe ...",
+        "value": "Es sind Torricelli und Kelvin. cgs mag die Möve nicht. BTW: Dies ist Mastodon, komplett keine Sicherheit noch Privatsphäre, ich führe hier nicht mein privates Tagebuch allenfalls eine betriebliche Arbeitsresultatmappe ...",
         "verified_at": "0001-01-01T00:00:00Z"
       }
     ],
