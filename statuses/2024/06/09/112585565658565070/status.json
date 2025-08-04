@@ -55,9 +55,9 @@
       "display_name": "Olu",
       "locked": false,
       "created_at": "2023-06-27T00:00:00Z",
-      "followers_count": 1581,
-      "following_count": 1115,
-      "statuses_count": 746,
+      "followers_count": 1586,
+      "following_count": 1120,
+      "statuses_count": 747,
       "note": "\u003cp\u003etech ethics nerd. creator. solarpunk. anarchist. feminist. prison abolitionist. queer. aesthete. reader. maximalist. writer. foodie. technopagan. disabled. mad. always learning. black. extremely online. lover of lists. javascripter. weightlifter-in-training. amateur sewist. cute. smart.\u003c/p\u003e",
       "url": "https://social.gfsc.studio/@oluOnline",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/616/421/212/140/901/original/1c95e677cf2e7e47.jpg",
@@ -70,7 +70,7 @@
         {
           "name": "my website",
           "value": "\u003ca href=\"https://olu.online/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eolu.online/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-07-27T15:01:08.638Z"
+          "verified_at": "2025-08-04T02:37:41.246Z"
         },
         {
           "name": "pronouns",
@@ -80,7 +80,7 @@
         {
           "name": "github",
           "value": "\u003ca href=\"https://github.com/oluoluoxenfree\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/oluoluoxenfree\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-07-27T15:01:08.996Z"
+          "verified_at": "2025-08-04T02:37:41.596Z"
         }
       ],
       "bot": false,
