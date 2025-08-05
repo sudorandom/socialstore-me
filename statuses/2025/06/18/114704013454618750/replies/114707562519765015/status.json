@@ -9,9 +9,9 @@
     "display_name": "Asta [AMP]",
     "locked": false,
     "created_at": "2023-12-19T00:00:00Z",
-    "followers_count": 1125,
+    "followers_count": 1132,
     "following_count": 374,
-    "statuses_count": 16339,
+    "statuses_count": 16238,
     "note": "\u003cp\u003e\u003cspan\u003eGaaaaaaay transfemme STEM kid; scientist by training, burned out?/former? PhD candidate in chemistry. Molecular dynamics, Photography, supercomputing, you tell me.  Anti-capitalist.\u003cbr\u003e\u003cbr\u003ePronouns: she/her\u003cbr\u003e\u003c/span\u003e\u003ca href=\"https://fire.asta.lgbt/tags/photography\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#photography\u003c/a\u003e \u003ca href=\"https://fire.asta.lgbt/tags/supercomputing\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#supercomputing\u003c/a\u003e\u003c/p\u003e",
     "url": "https://fire.asta.lgbt/@aud",
     "avatar": "https://infosec.exchange/avatars/original/missing.png",
@@ -23,32 +23,32 @@
     "fields": [
       {
         "name": "Pronouns",
-        "value": "she/her/they/them",
+        "value": "\u003cp\u003eshe/her/they/them\u003c/p\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
         "name": "Wordpress",
-        "value": "\u003ca href=\"https://astatide.lgbt/\" rel=\"nofollow noopener\" target=\"_blank\"\u003ehttps://astatide.lgbt/\u003c/a\u003e",
+        "value": "\u003cp\u003e\u003ca href=\"https://astatide.lgbt\" rel=\"nofollow noopener\" target=\"_blank\"\u003ehttps://astatide.lgbt\u003c/a\u003e\u003c/p\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
         "name": "Tumblr",
-        "value": "\u003ca href=\"https://astabetrayer.tumblr.com/\" rel=\"nofollow noopener\" target=\"_blank\"\u003ehttps://astabetrayer.tumblr.com/\u003c/a\u003e",
+        "value": "\u003cp\u003e\u003ca href=\"https://astabetrayer.tumblr.com/\" rel=\"nofollow noopener\" target=\"_blank\"\u003ehttps://astabetrayer.tumblr.com/\u003c/a\u003e\u003c/p\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
         "name": "GitHub",
-        "value": "can get wrecked",
+        "value": "\u003cp\u003ecan get wrecked\u003c/p\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
         "name": "Drag Name One",
-        "value": "Sir Anthony Slopkins",
+        "value": "\u003cp\u003eSir Anthony Slopkins\u003c/p\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
         "name": "Drag Name Two",
-        "value": "Duke Swellington",
+        "value": "\u003cp\u003eDuke Swellington\u003c/p\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       }
     ],
