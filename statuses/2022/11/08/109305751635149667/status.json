@@ -86,8 +86,8 @@
         "fields": [
           {
             "name": "Blog",
-            "value": "\u003ca href=\"https://dr2chase.wordpress.com/about\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edr2chase.wordpress.com/about\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "0001-01-01T00:00:00Z"
+            "value": "\u003ca href=\"https://dr2chase.wordpress.com/about\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edr2chase.wordpress.com/about\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+            "verified_at": "2025-08-09T05:47:37.923Z"
           },
           {
             "name": "Youtube channel",
@@ -101,8 +101,8 @@
           },
           {
             "name": "Github (mostly Go, mostly work-related)",
-            "value": "\u003ca href=\"https://github.com/dr2chase\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/dr2chase\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "0001-01-01T00:00:00Z"
+            "value": "\u003ca href=\"https://github.com/dr2chase\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/dr2chase\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+            "verified_at": "2025-08-09T05:47:38.92Z"
           }
         ],
         "bot": false,
