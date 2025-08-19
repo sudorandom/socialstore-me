@@ -55,9 +55,9 @@
       "display_name": "Bastian Allgeier",
       "locked": false,
       "created_at": "2016-11-01T00:00:00Z",
-      "followers_count": 4213,
-      "following_count": 858,
-      "statuses_count": 4197,
+      "followers_count": 4215,
+      "following_count": 859,
+      "statuses_count": 4199,
       "note": "\u003cp\u003eDesigner \u0026amp; developer. Creator of Kirby CMS\u003c/p\u003e",
       "url": "https://mastodon.social/@bastianallgeier",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/028/081/original/5a55ec33fdd7761a.jpg",
@@ -70,7 +70,7 @@
         {
           "name": "Website",
           "value": "\u003ca href=\"https://bastianallgeier.com\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ebastianallgeier.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-08-11T11:32:22.508Z"
+          "verified_at": "2025-08-19T10:30:35.871Z"
         },
         {
           "name": "Project",
@@ -80,7 +80,7 @@
         {
           "name": "Github",
           "value": "\u003ca href=\"https://github.com/bastianallgeier\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/bastianallgeier\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-08-11T11:32:23.494Z"
+          "verified_at": "2025-08-19T10:30:37.305Z"
         }
       ],
       "bot": false,
