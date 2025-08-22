@@ -9,9 +9,9 @@
     "display_name": "Daniel Lundin",
     "locked": false,
     "created_at": "2017-12-21T00:00:00Z",
-    "followers_count": 446,
-    "following_count": 580,
-    "statuses_count": 7484,
+    "followers_count": 447,
+    "following_count": 582,
+    "statuses_count": 7475,
     "note": "\u003cp\u003eSystems stuff, Security, Infrastructure, Open Source, and reliability mostly. But people first. Kindness is strength.\u003c/p\u003e\u003cp\u003eNoise maker. Team builder. Unafraid of kernel space.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://patagia.se\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epatagia.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://mastodon.social/@dln",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/263/174/159/526/577/original/9ff4849be995dd36.jpg",
@@ -24,12 +24,12 @@
       {
         "name": "Work",
         "value": "\u003ca href=\"https://patagia.se\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epatagia.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-08-13T08:05:00.791Z"
+        "verified_at": "2025-08-22T03:21:39.819Z"
       },
       {
         "name": "My Website",
         "value": "\u003ca href=\"https://arity.se\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003earity.se\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-08-13T08:05:00.818Z"
+        "verified_at": "2025-08-22T03:21:40.033Z"
       },
       {
         "name": "Signal",
