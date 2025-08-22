@@ -72,7 +72,7 @@
   "card": {
     "url": "https://pkg.go.dev/os/signal#example-NotifyContext",
     "title": "signal package - os/signal - Go Packages",
-    "description": "",
+    "description": "Package signal implements access to incoming signals.",
     "image": "",
     "type": "link",
     "author_name": "",
