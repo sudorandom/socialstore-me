@@ -1,0 +1,121 @@
+{
+  "id": "115099251594079797",
+  "uri": "https://infosec.exchange/users/0x00string/statuses/115099251594079797",
+  "url": "https://infosec.exchange/@0x00string/115099251594079797",
+  "account": {
+    "id": "109295701683927498",
+    "username": "0x00string",
+    "acct": "0x00string",
+    "display_name": "Nullstring 🏴‍☠️",
+    "locked": true,
+    "created_at": "2022-11-06T00:00:00Z",
+    "followers_count": 1637,
+    "following_count": 538,
+    "statuses_count": 463,
+    "note": "\u003cp\u003eHacker, Recreational Bug User, Exploiteer, Proprietor of Dirt Cheap Hacking Tools, Creator of \u003ca href=\"https://infosec.exchange/tags/FediMMO\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eFediMMO\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://infosec.exchange/@hackingtools\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003einfosec.exchange/@hackingtools\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr /\u003e\u003ca href=\"https://defcon.social/@0x00string\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edefcon.social/@0x00string\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr /\u003e\u003ca href=\"https://kolektiva.social/@0x00string\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekolektiva.social/@0x00string\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e:donor: :catjam:\u003c/p\u003e",
+    "url": "https://infosec.exchange/@0x00string",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/295/701/683/927/498/original/28a887d3a4aff0f5.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/295/701/683/927/498/original/28a887d3a4aff0f5.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/295/701/683/927/498/original/20a3a76411e6ae05.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/295/701/683/927/498/original/20a3a76411e6ae05.png",
+    "emojis": [
+      {
+        "shortcode": "donor",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/183/594/static/61a35b247fc91e55.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/183/594/original/61a35b247fc91e55.png",
+        "visible_in_picker": true
+      },
+      {
+        "shortcode": "catjam",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/183/752/static/be5778ee5a6e97df.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/183/752/original/be5778ee5a6e97df.gif",
+        "visible_in_picker": true
+      }
+    ],
+    "moved": null,
+    "fields": [
+      {
+        "name": "http",
+        "value": "\u003ca href=\"https://0x00string.com\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003e0x00string.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2022-11-15T04:37:54.084Z"
+      },
+      {
+        "name": "keybase",
+        "value": "\u003ca href=\"https://0x00string.keybase.pub/mastodon.html\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003e0x00string.keybase.pub/mastodo\u003c/span\u003e\u003cspan class=\"invisible\"\u003en.html\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2022-11-15T04:37:59.761Z"
+      },
+      {
+        "name": "github",
+        "value": "\u003ca href=\"https://github.com/0x00string\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/0x00string\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2022-11-15T04:38:00.164Z"
+      },
+      {
+        "name": "xss",
+        "value": "\u003ca href=\"https://xss-game.appspot.com/level1/frame?query=%3Ca%20rel=%22me%22%20href=%22https://infosec.exchange/@0x00string%22%3Elol,%20lmao%3C/a%3E\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003exss-game.appspot.com/level1/fr\u003c/span\u003e\u003cspan class=\"invisible\"\u003eame?query=%3Ca%20rel=%22me%22%20href=%22https://infosec.exchange/@0x00string%22%3Elol,%20lmao%3C/a%3E\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2022-11-15T04:38:00.335Z"
+      },
+      {
+        "name": "pixel",
+        "value": "\u003ca href=\"https://pixel.infosec.exchange/0x00string\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003epixel.infosec.exchange/0x00str\u003c/span\u003e\u003cspan class=\"invisible\"\u003eing\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2022-12-18T20:34:48.229Z"
+      },
+      {
+        "name": "buy my products",
+        "value": "\u003ca href=\"https://www.dirtcheaphackingtools.com\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003edirtcheaphackingtools.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-06-30T02:40:13.702Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "115099238956636326",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e higher level thought is plenty more than just markov chains so its in fact even dumber of a situation\u003c/p\u003e",
+  "created_at": "2025-08-27T06:13:21.328Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
