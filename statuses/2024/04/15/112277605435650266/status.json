@@ -86,13 +86,13 @@
         "fields": [
           {
             "name": "Website",
-            "value": "\u003ca href=\"https://iamkate.com/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eiamkate.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "0001-01-01T00:00:00Z"
+            "value": "\u003ca href=\"https://iamkate.com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eiamkate.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+            "verified_at": "2025-09-01T14:45:11.91Z"
           },
           {
             "name": "GitHub",
-            "value": "\u003ca href=\"https://github.com/KateMorley\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/KateMorley\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "0001-01-01T00:00:00Z"
+            "value": "\u003ca href=\"https://github.com/KateMorley\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/KateMorley\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+            "verified_at": "2025-09-01T14:45:12.209Z"
           }
         ],
         "bot": false,
