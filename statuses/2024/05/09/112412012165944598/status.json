@@ -55,9 +55,9 @@
       "display_name": "Neil Brown",
       "locked": false,
       "created_at": "2018-02-21T00:00:00Z",
-      "followers_count": 8894,
+      "followers_count": 8899,
       "following_count": 630,
-      "statuses_count": 11016,
+      "statuses_count": 11025,
       "note": "\u003cp\u003eEnglish Internet, telecoms, and tech lawyer (\u003ca href=\"https://decoded.legal\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edecoded.legal\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e).\u003c/p\u003e\u003cp\u003eLinux / FOSS, legal stuff, and puns. Terrible puns.\u003c/p\u003e\u003cp\u003eHe/him. Cishet, lucky husband.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://mastodon.neilzone.co.uk/tags/NoBot\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eNoBot\u003c/span\u003e\u003c/a\u003e / \u003ca href=\"https://mastodon.neilzone.co.uk/tags/NoSearch\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eNoSearch\u003c/span\u003e\u003c/a\u003e / \u003ca href=\"https://mastodon.neilzone.co.uk/tags/NoIndex\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eNoIndex\u003c/span\u003e\u003c/a\u003e / \u003ca href=\"https://mastodon.neilzone.co.uk/tags/NoNoNoNoNoNoNoNoTheresNoLimit\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eNoNoNoNoNoNoNoNoTheresNoLimit\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
       "url": "https://mastodon.neilzone.co.uk/@neil",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/167/729/original/01a0d468a565167e.jpg",
@@ -70,7 +70,7 @@
         {
           "name": "My business",
           "value": "\u003ca href=\"https://decoded.legal/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edecoded.legal/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-09-01T19:12:28.268Z"
+          "verified_at": "2025-09-02T19:49:02.303Z"
         },
         {
           "name": "Business onion",
@@ -80,7 +80,7 @@
         {
           "name": "Personal (mostly tech stuff)",
           "value": "\u003ca href=\"https://neilzone.co.uk\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eneilzone.co.uk\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-09-01T19:12:28.467Z"
+          "verified_at": "2025-09-02T19:49:02.487Z"
         },
         {
           "name": "Personal onion",
@@ -90,7 +90,7 @@
         {
           "name": "Online Safety Act",
           "value": "\u003ca href=\"https://onlinesafetyact.co.uk\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eonlinesafetyact.co.uk\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-09-01T19:12:28.639Z"
+          "verified_at": "2025-09-02T19:49:02.609Z"
         },
         {
           "name": "Online Safety Act onion",
