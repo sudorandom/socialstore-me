@@ -35,13 +35,13 @@
       },
       {
         "name": "Blog",
-        "value": "\u003ca href=\"https://tfl09.blogspot.com\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etfl09.blogspot.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-09-01T13:11:12.446Z"
+        "value": "\u003ca href=\"https://tfl09.blogspot.com\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etfl09.blogspot.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
       },
       {
         "name": "GitHub",
         "value": "\u003ca href=\"https://doctordns.github.io\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edoctordns.github.io\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-09-01T13:11:12.606Z"
+        "verified_at": "2025-09-03T18:10:56.813Z"
       }
     ],
     "bot": false,
