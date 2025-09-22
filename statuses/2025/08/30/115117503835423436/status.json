@@ -57,7 +57,7 @@
       "created_at": "2023-02-07T00:00:00Z",
       "followers_count": 7924,
       "following_count": 956,
-      "statuses_count": 15252,
+      "statuses_count": 15255,
       "note": "\u003cp\u003e3 time loser on jeopardy\u003cbr\u003eshe/her\u003cbr\u003echicago\u003c/p\u003e\u003cp\u003eavatar by: me\u003c/p\u003e",
       "url": "https://posts.rat.pictures/@hannah",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/831/834/373/072/259/original/61e9fc8c6ace5be9.png",
@@ -93,9 +93,9 @@
       {
         "id": "115109881613945382",
         "type": "image",
-        "url": "https://infosec.exchange/media_proxy/115109881613945382/original",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/115/109/881/613/945/382/original/7a668d814a710dc0.jpg",
         "remote_url": "https://cdn.masto.host/postsratpictures/media_attachments/files/115/109/859/992/283/068/original/1379726e2e8d9359.jpg",
-        "preview_url": "https://infosec.exchange/media_proxy/115109881613945382/small",
+        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/115/109/881/613/945/382/small/7a668d814a710dc0.jpg",
         "text_url": "",
         "description": "A copy of “Nerds 2.0.1, a brief history of the internet,” with quotes from larry ellison and bill gates",
         "meta": {
@@ -116,9 +116,9 @@
       {
         "id": "115109881646390360",
         "type": "image",
-        "url": "https://infosec.exchange/media_proxy/115109881646390360/original",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/115/109/881/646/390/360/original/fa0e474757abdd41.jpg",
         "remote_url": "https://cdn.masto.host/postsratpictures/media_attachments/files/115/109/860/161/050/460/original/cd3e06f0285bed48.jpg",
-        "preview_url": "https://infosec.exchange/media_proxy/115109881646390360/small",
+        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/115/109/881/646/390/360/small/fa0e474757abdd41.jpg",
         "text_url": "",
         "description": "It’s bob cringely!!",
         "meta": {
@@ -139,9 +139,9 @@
       {
         "id": "115109881677400024",
         "type": "image",
-        "url": "https://infosec.exchange/media_proxy/115109881677400024/original",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/115/109/881/677/400/024/original/2860d0e272e80861.jpg",
         "remote_url": "https://cdn.masto.host/postsratpictures/media_attachments/files/115/109/864/888/577/026/original/f11ea92a00680b04.jpg",
-        "preview_url": "https://infosec.exchange/media_proxy/115109881677400024/small",
+        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/115/109/881/677/400/024/small/2860d0e272e80861.jpg",
         "text_url": "",
         "description": "Tapes!!!",
         "meta": {
