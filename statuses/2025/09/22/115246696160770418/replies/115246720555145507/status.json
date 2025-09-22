@@ -1,0 +1,98 @@
+{
+  "id": "115246720555145507",
+  "uri": "https://quiescent.cafe/objects/2a63916e-e6a7-47bb-9ba6-1611e46c5514",
+  "url": "https://quiescent.cafe/objects/2a63916e-e6a7-47bb-9ba6-1611e46c5514",
+  "account": {
+    "id": "114577912351399875",
+    "username": "nigel",
+    "acct": "nigel@quiescent.cafe",
+    "display_name": "nigel",
+    "locked": false,
+    "created_at": "2025-05-27T00:00:00Z",
+    "followers_count": 49,
+    "following_count": 145,
+    "statuses_count": 650,
+    "note": "\"Going thirty-eight Dan, chill the fuck out, mow your damn lawn and sit the hell down\"\u003cbr\u003e\u003cbr\u003e---\u003cbr\u003e\u003cbr\u003eBack after giving myself a month away from Fedi.\u003cbr\u003e\u003cbr\u003eI'll attempt to curate my experience much more, starting with this account and instance.\u003cbr\u003eI want comfy things in my life - I don't need to be adding stress and angst from my online interactions. We can do better. We should do better. Including myself.\u003cbr\u003e\u003cbr\u003eMy interests cover \u003ca class=\"hashtag\" href=\"https://quiescent.cafe/tag/tech\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#tech\u003c/a\u003e, \u003ca class=\"hashtag\" href=\"https://quiescent.cafe/tag/photography\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#photography\u003c/a\u003e, \u003ca class=\"hashtag\" href=\"https://quiescent.cafe/tag/biking\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#biking\u003c/a\u003e, \u003ca class=\"hashtag\" href=\"https://quiescent.cafe/tag/motorsport\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#motorsport\u003c/a\u003e, \u003ca class=\"hashtag\" href=\"https://quiescent.cafe/tag/fountainpen\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#fountainpen\u003c/a\u003e, and other things I will no doubt need to add here when I remember. \u003cbr\u003eI touch computers in my spare time and self host things. Oh yeah so \u003ca class=\"hashtag\" href=\"https://quiescent.cafe/tag/selfhosting\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#selfhosting\u003c/a\u003e I guess. \u003cbr\u003eIn my other spare time I renovate my house and do \u003ca class=\"hashtag\" href=\"https://quiescent.cafe/tag/diy\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#DIY\u003c/a\u003e stuff.\u003cbr\u003e\u003cbr\u003eOh and I (used to?) play music. \u003ca class=\"hashtag\" href=\"https://quiescent.cafe/tag/guitar\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#Guitar\u003c/a\u003e I still have and sometimes play, \u003ca class=\"hashtag\" href=\"https://quiescent.cafe/tag/saxophone\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#Saxophone\u003c/a\u003e I used to have a couple of decades ago, I had 6 months of Drum lessons, and played Bass for our school band in Rockquest in the late 90's. \u003cbr\u003eI have never done anything that cool since.\u003cbr\u003e\u003cbr\u003eOh I live in New Zealand, Aotearoa.\u003cbr\u003e\u003cbr\u003e~~Posts self-destruct after 30 days~~\u003cbr\u003e\u003cbr\u003eProfile pic by \u003cspan class=\"h-card\"\u003e\u003ca class=\"u-url mention\" href=\"https://framapiaf.org/@davidrevoy\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003edavidrevoy@framapiaf.org\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003cbr\u003e\u003ca href=\"https://www.davidrevoy.com/article591/cat-bird-fenestar-abstract-avatar-generators\" rel=\"nofollow noopener\" target=\"_blank\"\u003ehttps://www.davidrevoy.com/article591/cat-bird-fenestar-abstract-avatar-generators\u003c/a\u003e\u003cbr\u003e\u003cbr\u003e\u003ca class=\"hashtag\" href=\"https://quiescent.cafe/tag/nobot\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#nobot\u003c/a\u003e \u003ca class=\"hashtag\" href=\"https://quiescent.cafe/tag/nobots\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#NoBots\u003c/a\u003e",
+    "url": "https://quiescent.cafe/users/nigel",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/114/577/912/351/399/875/original/6bb55069e0b23243.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/114/577/912/351/399/875/original/6bb55069e0b23243.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/114/577/912/351/399/875/original/0b0894c6f57e64eb.jpeg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/114/577/912/351/399/875/original/0b0894c6f57e64eb.jpeg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "XMPP",
+        "value": "\u003ca href=\"xmpp://nigel@quiescent.cafe\" rel=\"nofollow noopener\" target=\"_blank\"\u003exmpp://nigel@quiescent.cafe\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Blog",
+        "value": "\u003ca href=\"https://lowkey.party\" rel=\"nofollow noopener\" target=\"_blank\"\u003ehttps://lowkey.party\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Photography",
+        "value": "\u003ca href=\"https://swansinflight.nz\" rel=\"nofollow noopener\" target=\"_blank\"\u003ehttps://swansinflight.nz\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Delux Host Referral Link",
+        "value": "\u003ca href=\"https://billing.deluxhost.net/aff.php?aff=357\" rel=\"nofollow noopener\" target=\"_blank\"\u003ehttps://billing.deluxhost.net/aff.php?aff=357\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "115246696160770418",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\"\u003e\u003ca class=\"u-url mention\" href=\"https://infosec.exchange/@sudorandom\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003ePeople.\u003c/p\u003e",
+  "created_at": "2025-09-22T07:16:38.719Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
