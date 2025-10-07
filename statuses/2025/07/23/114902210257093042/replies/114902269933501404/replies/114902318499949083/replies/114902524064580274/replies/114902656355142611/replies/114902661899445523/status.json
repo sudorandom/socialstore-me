@@ -10,8 +10,8 @@
     "locked": false,
     "created_at": "2017-04-15T00:00:00Z",
     "followers_count": 592,
-    "following_count": 277,
-    "statuses_count": 6988,
+    "following_count": 276,
+    "statuses_count": 7004,
     "note": "\u003cp\u003eBig Dan the Downer energy.\u003c/p\u003e",
     "url": "https://chaos.social/@Merovius",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/009/555/original/471e1e2697cd30b4.jpg",
@@ -29,7 +29,7 @@
       {
         "name": "Blog",
         "value": "\u003ca href=\"https://blog.merovius.de/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eblog.merovius.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-10-03T11:09:30.025Z"
+        "verified_at": "2025-10-06T21:40:29.694Z"
       },
       {
         "name": "Bookwyrm",
@@ -39,7 +39,7 @@
       {
         "name": "Github",
         "value": "\u003ca href=\"https://github.com/Merovius\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/Merovius\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-10-03T11:09:32.001Z"
+        "verified_at": "2025-10-06T21:40:30.623Z"
       }
     ],
     "bot": false,
