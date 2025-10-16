@@ -9,9 +9,9 @@
     "display_name": "Hyde 📷 🖋 :debian:",
     "locked": true,
     "created_at": "2019-11-20T00:00:00Z",
-    "followers_count": 1261,
-    "following_count": 536,
-    "statuses_count": 16857,
+    "followers_count": 1262,
+    "following_count": 537,
+    "statuses_count": 16870,
     "note": "\u003cp\u003e:debian: user since '96\u003c/p\u003e\u003cp\u003eI'm a Zettler. \u003c/p\u003e\u003cp\u003eI used to have this 💾 and that 📼\u003c/p\u003e\u003cp\u003eAnd, \u003ca href=\"https://lazybear.social/tags/nobridge\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003enobridge\u003c/span\u003e\u003c/a\u003e 🖕\u003c/p\u003e",
     "url": "https://lazybear.social/@hyde",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/152/850/original/a94cd8e24151795b.png",
@@ -42,7 +42,7 @@
       {
         "name": "Blog 🖋",
         "value": "\u003ca href=\"https://lazybea.rs\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elazybea.rs\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-10-14T04:32:57.296Z"
+        "verified_at": "2025-10-16T03:35:38.827Z"
       },
       {
         "name": "Interests",
@@ -91,7 +91,7 @@
     "url": "https://lazybea.rs/bbooks",
     "title": "Bloggers and books",
     "description": "",
-    "image": "2025/10/08/115337267381684464/replies/115337307559967036/card_image.png",
+    "image": "",
     "type": "link",
     "author_name": "",
     "author_url": "",

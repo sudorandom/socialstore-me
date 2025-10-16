@@ -9,9 +9,9 @@
     "display_name": "Marty Fouts",
     "locked": false,
     "created_at": "2022-10-31T00:00:00Z",
-    "followers_count": 146,
-    "following_count": 119,
-    "statuses_count": 1532,
+    "followers_count": 147,
+    "following_count": 120,
+    "statuses_count": 1535,
     "note": "\u003cp\u003eRetired, tired.\u003c/p\u003e",
     "url": "https://mastodon.online/@MartyFouts",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/377/587/601/503/907/original/50b634ec5a6e4b9c.jpeg",
@@ -24,7 +24,7 @@
       {
         "name": "Verification",
         "value": "\u003ca href=\"https://fogey.com\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003efogey.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-10-13T20:25:03.261Z"
+        "verified_at": "2025-10-15T18:03:13.708Z"
       },
       {
         "name": "Prounouns",
