@@ -9,9 +9,9 @@
     "display_name": "MarkD",
     "locked": false,
     "created_at": "2022-11-07T00:00:00Z",
-    "followers_count": 106,
+    "followers_count": 107,
     "following_count": 370,
-    "statuses_count": 2426,
+    "statuses_count": 2436,
     "note": "\u003cp\u003eMostly a light-hearted joker. For fun and profit I code high-performance Internet thingies - mostly in go.\u003c/p\u003e",
     "url": "https://hachyderm.io/@markd",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/309/950/539/258/296/original/66865d4847708c05.jpg",
@@ -24,7 +24,7 @@
       {
         "name": "github",
         "value": "\u003ca href=\"https://github.com/markdingo\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/markdingo\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-10-20T00:32:33.226Z"
+        "verified_at": "2025-10-21T23:12:45.833Z"
       },
       {
         "name": "UUCP",
