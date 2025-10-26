@@ -11,7 +11,7 @@
     "created_at": "2022-11-07T00:00:00Z",
     "followers_count": 250,
     "following_count": 79,
-    "statuses_count": 1045,
+    "statuses_count": 1046,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://infosec.exchange/@sudorandom",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
@@ -55,63 +55,36 @@
       "display_name": "‮",
       "locked": true,
       "created_at": "2023-07-19T00:00:00Z",
-      "followers_count": 1570,
+      "followers_count": 1569,
       "following_count": 0,
-      "statuses_count": 17316,
-      "note": "some people think they can out-🔧 me. meby. meby. i have yet to meet one who can outsmart :neocat_floof_explode: \u003cbr\u003e\u003cbr\u003e#1 caligula shill \u003ca href=\"https://github.com/ifd3f/caligula/\" rel=\"nofollow noopener\" target=\"_blank\"\u003ehttps://github.com/ifd3f/caligula/\u003c/a\u003e\u003cbr\u003eim thinking miku miku \u003ca href=\"http://ooo.eeeee.ooo\" rel=\"nofollow noopener\" target=\"_blank\"\u003eooo.eeeee.ooo\u003c/a\u003e \u003cbr\u003e\u003cbr\u003eask me shit \u003ca href=\"https://ask.absturztau.be/@askstrid\" rel=\"nofollow noopener\" target=\"_blank\"\u003ehttps://ask.absturztau.be/@askstrid\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eit should be obvious, but because it apparently isn't: MINORS DNI WITH POSTS LABELED \"LEWD\" OR \"KINK\"\u003cbr\u003e\u003cbr\u003e\"Astrid, why\" - \u003cspan class=\"h-card\"\u003e\u003ca class=\"u-url mention\" href=\"https://0w0.is/users/yassie_j\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eyassie_j@0w0.is\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003cbr\u003e\"🔧\" - everyone who reads my posts",
+      "statuses_count": 17317,
+      "note": "considered by some [whom?] \u003cbr\u003e\u003cbr\u003e",
       "url": "https://woem.space/users/astrid",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/741/555/713/760/773/original/6f796836134d8d01.gif",
       "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/741/555/713/760/773/static/6f796836134d8d01.png",
       "header": "https://infosec.exchange/headers/original/missing.png",
       "header_static": "https://infosec.exchange/headers/original/missing.png",
-      "emojis": [
-        {
-          "shortcode": "neocat_floof_explode",
-          "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/419/466/static/363356fb722511ee.png",
-          "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/419/466/original/363356fb722511ee.gif",
-          "visible_in_picker": true
-        }
-      ],
+      "emojis": [],
       "moved": null,
       "fields": [
         {
-          "name": "pronouns",
-          "value": "she/they/it",
+          "name": "pronoun",
+          "value": "she",
           "verified_at": "0001-01-01T00:00:00Z"
         },
         {
-          "name": "gender",
-          "value": "yeah",
+          "name": "pronoun",
+          "value": "they",
           "verified_at": "0001-01-01T00:00:00Z"
         },
         {
-          "name": "plurality",
-          "value": ":)",
+          "name": "pronoun",
+          "value": "it",
           "verified_at": "0001-01-01T00:00:00Z"
         },
         {
-          "name": "pspspspsps",
-          "value": "nyaaaaaaa!",
-          "verified_at": "0001-01-01T00:00:00Z"
-        },
-        {
-          "name": "website",
-          "value": "\u003ca href=\"https://astrid.tech\" rel=\"nofollow noopener\" target=\"_blank\"\u003ehttps://astrid.tech\u003c/a\u003e",
-          "verified_at": "0001-01-01T00:00:00Z"
-        },
-        {
-          "name": "uuid",
-          "value": "02d95885-ed15-43b5-922d-169caa9ba76a",
-          "verified_at": "0001-01-01T00:00:00Z"
-        },
-        {
-          "name": "flirting",
-          "value": "only if you are an adult and we are friends",
-          "verified_at": "0001-01-01T00:00:00Z"
-        },
-        {
-          "name": "Label",
-          "value": "Content",
+          "name": "entropy",
+          "value": "702c 3e67 1445 27b3",
           "verified_at": "0001-01-01T00:00:00Z"
         }
       ],
