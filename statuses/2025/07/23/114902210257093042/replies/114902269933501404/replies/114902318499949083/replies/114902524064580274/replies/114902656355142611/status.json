@@ -10,8 +10,8 @@
     "locked": false,
     "created_at": "2022-11-07T00:00:00Z",
     "followers_count": 112,
-    "following_count": 371,
-    "statuses_count": 2487,
+    "following_count": 372,
+    "statuses_count": 2491,
     "note": "\u003cp\u003eMostly a light-hearted joker. For fun and profit I code high-performance Internet thingies - mostly in go.\u003c/p\u003e",
     "url": "https://hachyderm.io/@markd",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/309/950/539/258/296/original/66865d4847708c05.jpg",
@@ -24,7 +24,7 @@
       {
         "name": "github",
         "value": "\u003ca href=\"https://github.com/markdingo\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/markdingo\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2025-11-06T09:32:08.557Z"
+        "verified_at": "2025-11-07T09:29:05.23Z"
       },
       {
         "name": "UUCP",
