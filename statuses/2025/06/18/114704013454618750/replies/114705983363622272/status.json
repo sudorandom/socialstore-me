@@ -11,8 +11,8 @@
     "created_at": "2022-04-29T00:00:00Z",
     "followers_count": 703,
     "following_count": 645,
-    "statuses_count": 17371,
-    "note": "\u003cp\u003eSubversive suburban \u003ca href=\"https://sometimes.social/tags/Chicago\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eChicago\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://sometimes.social/tags/dad\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003edad\u003c/span\u003e\u003c/a\u003e, computer cleric, and jaded tech industry trench-digger. \u003c/p\u003e\u003cp\u003eAnyone is free to follow, if I don't like you I'll just block you. Gnerally not a hugger; no flirting please.\u003c/p\u003e\u003cp\u003eI use lots of profanity, which I do not CW. Sometimes I talk about marijuana, which I usually CW. I almost never post lewd stuff; if I do I will always CW.\u003c/p\u003e\u003cp\u003eMINORS: Please don't talk like I do here, or do the things I talk about doing when I was a minor. Don't do drugs.\u003c/p\u003e\u003cp\u003eWARNING: I am neither serious nor professional on this account.\u003c/p\u003e",
+    "statuses_count": 17394,
+    "note": "\u003cp\u003ejaded tech industry trench-digger / computer cleric / suburban \u003ca href=\"https://sometimes.social/tags/Chicago\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eChicago\u003c/span\u003e\u003c/a\u003e parent\u003c/p\u003e\u003cp\u003enot a hugger / no flirting\u003c/p\u003e\u003cp\u003eI use lots of profanity, which I do not CW. sometimes I talk about drugs, which I sometimes CW. I almost never post lewd stuff; if I do I will always CW.\u003c/p\u003e",
     "url": "https://sometimes.social/@jordan",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/108/244/370/495/612/587/original/67991a988e1af48c.png",
     "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/108/244/370/495/612/587/original/67991a988e1af48c.png",
@@ -22,13 +22,13 @@
     "moved": null,
     "fields": [
       {
-        "name": "Blog",
-        "value": "\u003ca href=\"https://jordemort.dev\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ejordemort.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "name": "Pronouns",
+        "value": "they/them or he/him",
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
-        "name": "Pronouns",
-        "value": "they/them or he/him",
+        "name": "Personal website",
+        "value": "\u003ca href=\"https://jordemort.dev\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ejordemort.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
