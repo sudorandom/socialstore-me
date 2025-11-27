@@ -69,8 +69,8 @@
       "fields": [
         {
           "name": "Web",
-          "value": "\u003ca href=\"https://about.me/bob.thomson\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eabout.me/bob.thomson\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "0001-01-01T00:00:00Z"
+          "value": "\u003ca href=\"https://about.me/bob.thomson\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eabout.me/bob.thomson\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "2025-11-26T14:49:31.69Z"
         },
         {
           "name": "Blog Scot Living in France",
