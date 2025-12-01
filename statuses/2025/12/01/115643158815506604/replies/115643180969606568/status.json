@@ -1,0 +1,111 @@
+{
+  "id": "115643180969606568",
+  "uri": "https://lazybear.social/users/hyde/statuses/115643180927859904",
+  "url": "https://lazybear.social/@hyde/115643180927859904",
+  "account": {
+    "id": "152850",
+    "username": "hyde",
+    "acct": "hyde@lazybear.social",
+    "display_name": "Hyde 📷 🖋 :debian:",
+    "locked": true,
+    "created_at": "2019-11-20T00:00:00Z",
+    "followers_count": 1322,
+    "following_count": 554,
+    "statuses_count": 17349,
+    "note": "\u003cp\u003e:debian: user since '96\u003c/p\u003e\u003cp\u003eI'm a Zettler. \u003c/p\u003e\u003cp\u003eI used to have this 💾 and that 📼\u003c/p\u003e\u003cp\u003eAnd, \u003ca href=\"https://lazybear.social/tags/nobridge\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003enobridge\u003c/span\u003e\u003c/a\u003e 🖕\u003c/p\u003e",
+    "url": "https://lazybear.social/@hyde",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/152/850/original/a94cd8e24151795b.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/152/850/original/a94cd8e24151795b.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/000/152/850/original/6fc9a91b5e7422b0.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/000/152/850/original/6fc9a91b5e7422b0.jpg",
+    "emojis": [
+      {
+        "shortcode": "debian",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/090/028/static/c7b1d1846db70e36.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/090/028/original/c7b1d1846db70e36.png",
+        "visible_in_picker": true
+      },
+      {
+        "shortcode": "terminal",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/090/030/static/b5687c5ff20f40d0.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/090/030/original/b5687c5ff20f40d0.png",
+        "visible_in_picker": true
+      }
+    ],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Toots in",
+        "value": "🇷🇸 🇬🇧 🇫🇷",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Blog 🖋",
+        "value": "\u003ca href=\"https://lazybea.rs\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elazybea.rs\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-12-01T01:39:19.05Z"
+      },
+      {
+        "name": "Interests",
+        "value": "🔐  📸  🥊  🏀    :terminal:",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Join this challenge !",
+        "value": "\u003ca href=\"https://the100.pics\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ethe100.pics\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "115643158815506604",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e kids of course ... Of course !!!😅\u003c/p\u003e",
+  "created_at": "2025-12-01T07:41:44Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "unlisted",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
