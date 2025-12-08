@@ -1,0 +1,83 @@
+{
+  "id": "115682911367389105",
+  "uri": "https://social.lol/users/yordi/statuses/115682911342549059",
+  "url": "https://social.lol/@yordi/115682911342549059",
+  "account": {
+    "id": "112553640666205946",
+    "username": "yordi",
+    "acct": "yordi@social.lol",
+    "display_name": "Yordi",
+    "locked": false,
+    "created_at": "2024-06-02T00:00:00Z",
+    "followers_count": 93,
+    "following_count": 52,
+    "statuses_count": 744,
+    "note": "\u003cp\u003eI teach computer science and coach youth athletes. I do what I like and what gives me energy. I challenge myself. I help myself and others grow. Always with respect for everyone and always independent.\u003c/p\u003e",
+    "url": "https://social.lol/@yordi",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/112/553/640/666/205/946/original/af4ab2f1525ca18d.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/112/553/640/666/205/946/original/af4ab2f1525ca18d.png",
+    "header": "https://infosec.exchange/headers/original/missing.png",
+    "header_static": "https://infosec.exchange/headers/original/missing.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Homepage",
+        "value": "\u003ca href=\"https://yordi.me/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eyordi.me/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2025-12-08T08:11:59.099Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "115682905270797007",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e after waking up early a few days in a row, I would consider never starting a success as well.\u003c/p\u003e",
+  "created_at": "2025-12-08T08:05:42Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": true,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
