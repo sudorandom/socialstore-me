@@ -11,7 +11,7 @@
     "created_at": "2022-11-07T00:00:00Z",
     "followers_count": 253,
     "following_count": 79,
-    "statuses_count": 1101,
+    "statuses_count": 1102,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://infosec.exchange/@sudorandom",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
@@ -109,9 +109,9 @@
       {
         "id": "109536018564890153",
         "type": "image",
-        "url": "https://infosec.exchange/media_proxy/109536018564890153/original",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/536/018/564/890/153/original/f65c17a350600878.png",
         "remote_url": "https://files.mastodon.social/media_attachments/files/109/536/009/596/444/851/original/bef764720df64ce9.png",
-        "preview_url": "https://infosec.exchange/media_proxy/109536018564890153/small",
+        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/536/018/564/890/153/small/f65c17a350600878.png",
         "text_url": "",
         "description": "",
         "meta": {
@@ -132,9 +132,9 @@
       {
         "id": "109536018632596176",
         "type": "image",
-        "url": "https://infosec.exchange/media_proxy/109536018632596176/original",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/536/018/632/596/176/original/ebb48729b9bb647b.png",
         "remote_url": "https://files.mastodon.social/media_attachments/files/109/536/016/514/159/186/original/c67fafa8fb1523e3.png",
-        "preview_url": "https://infosec.exchange/media_proxy/109536018632596176/small",
+        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/536/018/632/596/176/small/ebb48729b9bb647b.png",
         "text_url": "",
         "description": "",
         "meta": {
