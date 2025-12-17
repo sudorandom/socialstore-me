@@ -11,7 +11,7 @@
     "created_at": "2022-11-07T00:00:00Z",
     "followers_count": 253,
     "following_count": 79,
-    "statuses_count": 1107,
+    "statuses_count": 1108,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://infosec.exchange/@sudorandom",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
@@ -52,27 +52,59 @@
       "id": "109280797337778074",
       "username": "xtaldave",
       "acct": "xtaldave@xtaldave.net",
-      "display_name": "Dave nλ=2dsinθ",
+      "display_name": "THIS ACCOUNT IS MOVING",
       "locked": false,
       "created_at": "2022-11-03T00:00:00Z",
-      "followers_count": 1900,
-      "following_count": 1406,
-      "statuses_count": 890,
-      "note": "\u003cp\u003eMacromolecular Crystallographer by day, Bassist by night\u003c/p\u003e\u003cp\u003eResponsible for various humans, scientists, and canines. Staff rep.\u003c/p\u003e\u003cp\u003eMostly to be found in London, UK.\u003c/p\u003e\u003cp\u003eFix your hearts or die. 🏳️‍⚧️🏳️‍🌈:antifa:✊\u003c/p\u003e\u003cp\u003eBorn at 335 ppm. Go 💚 or go 🪦\u003c/p\u003e\u003cp\u003eFairphone enjoyer.\u003c/p\u003e\u003cp\u003eAlt Profile: Cartoon representation of me by Maki Naro\u003cbr\u003eAlt banner: recursive gif of Agent Cooper in the Lodge in Twin Peaks\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://xtaldave.net/tags/Science\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eScience\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://xtaldave.net/tags/StructuralBiology\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eStructuralBiology\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://xtaldave.net/tags/Bass\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eBass\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://xtaldave.net/tags/London\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eLondon\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://xtaldave.net/tags/Research\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eResearch\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://xtaldave.net/tags/Dogs\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eDogs\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+      "followers_count": 1618,
+      "following_count": 1407,
+      "statuses_count": 893,
+      "note": "\u003cp\u003eHELLO! You can now find me at \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://social.vivaldi.net/@xtaldave\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003extaldave\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e",
       "url": "https://xtaldave.net/@xtaldave",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/280/797/337/778/074/original/642d086099f600c4.jpg",
       "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/280/797/337/778/074/original/642d086099f600c4.jpg",
       "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/280/797/337/778/074/original/3ce5ba59c2097ed3.gif",
       "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/280/797/337/778/074/static/3ce5ba59c2097ed3.png",
-      "emojis": [
-        {
-          "shortcode": "antifa",
-          "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/610/722/static/13f571657b2c5510.png",
-          "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/610/722/original/13f571657b2c5510.png",
-          "visible_in_picker": true
-        }
-      ],
-      "moved": null,
+      "emojis": [],
+      "moved": {
+        "id": "115735099707143044",
+        "username": "xtaldave",
+        "acct": "xtaldave@vivaldi.net",
+        "display_name": "xtaldave",
+        "locked": false,
+        "created_at": "2025-12-17T00:00:00Z",
+        "followers_count": 70,
+        "following_count": 1084,
+        "statuses_count": 7,
+        "note": "\u003cp\u003eMacromolecular Crystallographer by day, Bassist by night\u003c/p\u003e\u003cp\u003eResponsible for various humans, scientists, and canines. Staff rep.\u003c/p\u003e\u003cp\u003eMostly to be found in London, UK.\u003c/p\u003e\u003cp\u003eFix your hearts or die. 🏳️‍⚧️🏳️‍🌈✊\u003c/p\u003e\u003cp\u003eBorn at 335 ppm. Go 💚 or go 🪦\u003c/p\u003e\u003cp\u003eFairphone enjoyer.\u003c/p\u003e\u003cp\u003eAlt Profile: Cartoon representation of me by Maki Naro\u003cbr\u003eAlt banner: recursive gif of Agent Cooper in the Lodge in Twin Peaks\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://social.vivaldi.net/tags/Science\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eScience\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.vivaldi.net/tags/StructuralBiology\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eStructuralBiology\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.vivaldi.net/tags/Bass\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eBass\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.vivaldi.net/tags/London\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eLondon\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.vivaldi.net/tags/Research\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eResearch\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://social.vivaldi.net/tags/Dogs\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eDogs\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+        "url": "https://social.vivaldi.net/@xtaldave",
+        "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/115/735/099/707/143/044/original/ed6557e43d3e8182.jpeg",
+        "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/115/735/099/707/143/044/original/ed6557e43d3e8182.jpeg",
+        "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/115/735/099/707/143/044/original/dd4b22ea1f3e458e.gif",
+        "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/115/735/099/707/143/044/static/dd4b22ea1f3e458e.png",
+        "emojis": [],
+        "moved": null,
+        "fields": [
+          {
+            "name": "Pronoins",
+            "value": "he/him",
+            "verified_at": "0001-01-01T00:00:00Z"
+          },
+          {
+            "name": "My Papers!",
+            "value": "\u003ca href=\"https://orcid.org/0000-0002-9793-7339\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eorcid.org/0000-0002-9793-7339\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+            "verified_at": "0001-01-01T00:00:00Z"
+          },
+          {
+            "name": "My structures!",
+            "value": "\u003ca href=\"https://bit.ly/Briggs_PDB\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ebit.ly/Briggs_PDB\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+            "verified_at": "0001-01-01T00:00:00Z"
+          }
+        ],
+        "bot": false,
+        "discoverable": true,
+        "source": null,
+        "followed_tags": null
+      },
       "fields": [
         {
           "name": "Pronouns",
