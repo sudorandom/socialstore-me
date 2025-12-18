@@ -26,7 +26,7 @@
       "display_name": "Michael Job",
       "locked": false,
       "created_at": "2024-02-22T00:00:00Z",
-      "followers_count": 143,
+      "followers_count": 144,
       "following_count": 367,
       "statuses_count": 2567,
       "note": "\u003cp\u003esoftware guy with optometry past - he/him\u003c/p\u003e",
@@ -41,7 +41,7 @@
         {
           "name": "web",
           "value": "\u003ca href=\"https://www.michaeljob.ch\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003emichaeljob.ch\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-12-04T19:20:13.659Z"
+          "verified_at": "2025-12-17T15:39:19.106Z"
         }
       ],
       "bot": false,
