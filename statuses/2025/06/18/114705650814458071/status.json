@@ -55,9 +55,9 @@
       "display_name": "Bob Thomson",
       "locked": false,
       "created_at": "2017-04-02T00:00:00Z",
-      "followers_count": 500,
+      "followers_count": 501,
       "following_count": 404,
-      "statuses_count": 21752,
+      "statuses_count": 21747,
       "note": "\u003cp\u003eGlaswegian who left for The Dordogne at 50, devopsing remotely for Euros for a job. Likes many things outside work and STEM, writing, drawing, synths, dogs. Living with chronic illnesses since 2007, Crohn's from a dodgy pizza, chronic kidney disease from the Crohn's medication. So it goes. Transplanted May 2025.\u003c/p\u003e",
       "url": "https://mastodon.social/@bobthomson70",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/313/086/016/856/692/original/01b60a101469e1b7.jpeg",
@@ -70,7 +70,7 @@
         {
           "name": "Web",
           "value": "\u003ca href=\"https://about.me/bob.thomson\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eabout.me/bob.thomson\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-12-18T12:53:08.509Z"
+          "verified_at": "2025-12-19T18:52:01.826Z"
         },
         {
           "name": "Blog Scot Living in France",
