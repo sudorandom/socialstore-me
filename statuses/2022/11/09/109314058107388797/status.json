@@ -11,7 +11,7 @@
     "created_at": "2022-11-07T00:00:00Z",
     "followers_count": 258,
     "following_count": 78,
-    "statuses_count": 1124,
+    "statuses_count": 1125,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://infosec.exchange/@sudorandom",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
@@ -55,9 +55,9 @@
       "display_name": "Bastian Allgeier",
       "locked": false,
       "created_at": "2016-11-01T00:00:00Z",
-      "followers_count": 4348,
-      "following_count": 869,
-      "statuses_count": 4368,
+      "followers_count": 4349,
+      "following_count": 870,
+      "statuses_count": 4369,
       "note": "\u003cp\u003eDesigner \u0026amp; developer. Creator of Kirby CMS\u003c/p\u003e",
       "url": "https://mastodon.social/@bastianallgeier",
       "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/000/028/081/original/5a55ec33fdd7761a.jpg",
@@ -70,7 +70,7 @@
         {
           "name": "Website",
           "value": "\u003ca href=\"https://bastianallgeier.com\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ebastianallgeier.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-12-21T18:22:27.437Z"
+          "verified_at": "2025-12-31T14:27:40.312Z"
         },
         {
           "name": "Project",
@@ -80,7 +80,7 @@
         {
           "name": "Github",
           "value": "\u003ca href=\"https://github.com/bastianallgeier\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/bastianallgeier\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2025-12-21T18:22:30.361Z"
+          "verified_at": "2025-12-31T14:27:41.351Z"
         }
       ],
       "bot": false,
