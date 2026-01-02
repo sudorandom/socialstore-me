@@ -73,8 +73,8 @@
         "locked": false,
         "created_at": "2022-11-27T00:00:00Z",
         "followers_count": 874,
-        "following_count": 733,
-        "statuses_count": 11445,
+        "following_count": 734,
+        "statuses_count": 11448,
         "note": "\u003cp\u003eNot a physician, utility-bikes a lot (~5000km/year), DFH, works on Go compiler. (I do not speak for my employer.)  Sometimes know things about programming languages, (cargo) bicycles, lilies, Florida.  \u003c/p\u003e\u003cp\u003eHe/him. Ex(?) Florida Man.\u003cbr\u003eNow near Boston, MA, USA.\u003cbr\u003eMarried to a sociologist.\u003cbr\u003eTootfinder searchable.\u003c/p\u003e\u003cp\u003eBiased towards following people unlike me but with overlapping interests.\u003c/p\u003e\u003cp\u003eI'm aware that not everyone can ride a bike, it's been mentioned once or twice in the past.\u003c/p\u003e",
         "url": "https://ohai.social/@dr2chase",
         "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/419/592/510/037/323/original/8fa5c0da0182ed41.jpeg",
@@ -87,7 +87,7 @@
           {
             "name": "Blog",
             "value": "\u003ca href=\"https://dr2chase.wordpress.com/about\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edr2chase.wordpress.com/about\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2025-12-31T10:35:21.747Z"
+            "verified_at": "2026-01-01T18:53:47.542Z"
           },
           {
             "name": "Vimeo channel",
@@ -102,7 +102,7 @@
           {
             "name": "Github (mostly Go, mostly work-related)",
             "value": "\u003ca href=\"https://github.com/dr2chase\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/dr2chase\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2025-12-31T10:35:24.088Z"
+            "verified_at": "2026-01-01T18:53:49.536Z"
           }
         ],
         "bot": false,
