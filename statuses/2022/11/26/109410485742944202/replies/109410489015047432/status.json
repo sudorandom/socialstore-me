@@ -11,7 +11,7 @@
     "created_at": "2022-11-05T00:00:00Z",
     "followers_count": 117,
     "following_count": 110,
-    "statuses_count": 118,
+    "statuses_count": 119,
     "note": "\u003cp\u003eSecurity Engineer | Clicker of Links | Pusher of Buttons | Cat Dad\u003c/p\u003e",
     "url": "https://infosec.exchange/@cydave",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/291/588/048/870/866/original/22f9afe82fdaacd7.png",
@@ -19,12 +19,6 @@
     "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/291/588/048/870/866/original/e147f720e452cda6.jpg",
     "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/291/588/048/870/866/original/e147f720e452cda6.jpg",
     "emojis": [
-      {
-        "shortcode": "twitter",
-        "static_url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/028/655/static/6dcf2d301873413b.png",
-        "url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/028/655/original/6dcf2d301873413b.png",
-        "visible_in_picker": true
-      },
       {
         "shortcode": "github",
         "static_url": "https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/029/258/static/1ca6336cc1d505ad.png",
@@ -35,8 +29,8 @@
     "moved": null,
     "fields": [
       {
-        "name": ":twitter:",
-        "value": "\u003ca href=\"https://twitter.com/_cydave\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etwitter.com/_cydave\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "name": ":butterfly",
+        "value": "\u003ca href=\"https://bsky.app/profile/cydave.bsky.social\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ebsky.app/profile/cydave.bsky.s\u003c/span\u003e\u003cspan class=\"invisible\"\u003eocial\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       },
       {
