@@ -9,9 +9,9 @@
     "display_name": "Marcos Dione",
     "locked": false,
     "created_at": "2022-11-14T00:00:00Z",
-    "followers_count": 564,
+    "followers_count": 567,
     "following_count": 523,
-    "statuses_count": 29338,
+    "statuses_count": 29369,
     "note": "\u003cp\u003eDeveloper, SysAdmin, Open Source, map and photo enthusiast; POI collector.\u003c/p\u003e",
     "url": "https://en.osm.town/@mdione",
     "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/784/530/839/671/226/original/9a2e64d6d698dac4.jpg",
@@ -34,7 +34,7 @@
       {
         "name": "OpenStreetMap",
         "value": "\u003ca href=\"https://www.openstreetmap.org/user/Marcos%20Dione\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003eopenstreetmap.org/user/Marcos%\u003c/span\u003e\u003cspan class=\"invisible\"\u003e20Dione\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2026-01-20T07:02:03.676Z"
+        "verified_at": "2026-01-21T08:07:50.176Z"
       }
     ],
     "bot": false,
