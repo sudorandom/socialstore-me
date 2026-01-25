@@ -55,7 +55,7 @@
       "display_name": "Dmitry Tantsur",
       "locked": false,
       "created_at": "2022-11-04T00:00:00Z",
-      "followers_count": 303,
+      "followers_count": 302,
       "following_count": 174,
       "statuses_count": 5297,
       "note": "\u003cp\u003eWorking on Ironic for OpenShift and sometimes OpenStack, maintaining openstack/osauth rust crates. FOSS, hiking, camping, bouldering and music.\u003c/p\u003e\u003cp\u003eAn owl from Düsseldorf. Toots in EN, DE, RU. He/him.\u003c/p\u003e",
@@ -75,7 +75,7 @@
         {
           "name": "GitHub",
           "value": "\u003ca href=\"https://github.com/dtantsur\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/dtantsur\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2026-01-17T12:42:22.818Z"
+          "verified_at": "2026-01-24T15:29:45.422Z"
         },
         {
           "name": "Pixelfed",
