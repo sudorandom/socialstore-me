@@ -11,7 +11,7 @@
     "created_at": "2022-11-07T00:00:00Z",
     "followers_count": 261,
     "following_count": 78,
-    "statuses_count": 1166,
+    "statuses_count": 1167,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://infosec.exchange/@sudorandom",
     "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
@@ -87,7 +87,7 @@
           {
             "name": "Blog",
             "value": "\u003ca href=\"https://dr2chase.wordpress.com/about\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003edr2chase.wordpress.com/about\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2026-02-02T20:04:07.285Z"
+            "verified_at": "2026-02-04T19:26:32.234Z"
           },
           {
             "name": "Vimeo channel",
@@ -102,7 +102,7 @@
           {
             "name": "Github (mostly Go, mostly work-related)",
             "value": "\u003ca href=\"https://github.com/dr2chase\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/dr2chase\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2026-02-02T20:04:08.724Z"
+            "verified_at": "2026-02-04T19:26:34.314Z"
           }
         ],
         "bot": false,
