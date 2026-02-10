@@ -1,0 +1,181 @@
+{
+  "id": "116042988247672880",
+  "uri": "https://infosec.space/users/kkarhan/statuses/116042988212387642",
+  "url": "https://infosec.space/@kkarhan/116042988212387642",
+  "account": {
+    "id": "111903351957611960",
+    "username": "kkarhan",
+    "acct": "kkarhan@infosec.space",
+    "display_name": "Kevin Karhan :verified:",
+    "locked": true,
+    "created_at": "2024-02-09T00:00:00Z",
+    "followers_count": 2393,
+    "following_count": 6275,
+    "statuses_count": 197758,
+    "note": "\u003cp\u003e\u003ca href=\"https://infosec.space/tags/PNCHNZS\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ePNCHNZS\u003c/span\u003e\u003c/a\u003e 24/7!\u003cbr\u003e\u003ca href=\"https://infosec.space/tags/Antifaschismus\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eAntifaschismus\u003c/span\u003e\u003c/a\u003e = Verfassungstreue!\u003cbr\u003eGegen \u003ca href=\"https://infosec.space/tags/Angstkultur\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eAngstkultur\u003c/span\u003e\u003c/a\u003e \u0026amp; \u003ca href=\"https://infosec.space/tags/Entrechtung\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eEntrechtung\u003c/span\u003e\u003c/a\u003e - für bunte \u003ca href=\"https://infosec.space/tags/Vielfalt\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eVielfalt\u003c/span\u003e\u003c/a\u003e!\u003cbr\u003eImpressum: \u003ca href=\"http://karhan.guru\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ekarhan.guru\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr\u003ePronouns: he/him\u003cbr\u003eYou may know me from shitsite: \u003ca href=\"https://twitter.com/k3vk4\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etwitter.com/k3vk4\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e ⭐ ≠ ♥ aka.: like ≠ endorsement\u003c/p\u003e\u003cp\u003e \u003cbr\u003e❌ Follow Requests without prior interactions will be declined. \u003cbr\u003e❗Follow Request Spammers get blocked \u0026amp; reported!\u003c/p\u003e",
+    "url": "https://infosec.space/@kkarhan",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/111/903/351/957/611/960/original/375fb66095714e70.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/111/903/351/957/611/960/original/375fb66095714e70.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/111/903/351/957/611/960/original/a975970110c6bc2d.jpeg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/111/903/351/957/611/960/original/a975970110c6bc2d.jpeg",
+    "emojis": [
+      {
+        "shortcode": "verified",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/526/804/static/1c8756e8bafc51aa.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/526/804/original/1c8756e8bafc51aa.png",
+        "visible_in_picker": true
+      }
+    ],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://karhan.guru\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekarhan.guru\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Current Pet Project",
+        "value": "\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.space/@OS1337\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eOS1337\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Github",
+        "value": "\u003ca href=\"https://github.com/kkarhan\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/kkarhan\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-02-10T04:19:24.743Z"
+      },
+      {
+        "name": "Pubkey",
+        "value": "\u003ca href=\"https://keybase.io/kkarhan/pgp_keys.asc?fingerprint=f45ccf8477abe2532d8fc7afa8e46a81dd71236f\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ekeybase.io/kkarhan/pgp_keys.as\u003c/span\u003e\u003cspan class=\"invisible\"\u003ec?fingerprint=f45ccf8477abe2532d8fc7afa8e46a81dd71236f\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Like what I do? Check out LiberaPay",
+        "value": "\u003ca href=\"https://liberapay.com/kkarhan/donate\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eliberapay.com/kkarhan/donate\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-02-10T04:19:25.514Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "116042903871223136",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e the only disadvantages I can say about \u003ca href=\"https://infosec.space/tags/fish\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003efish\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://infosec.space/tags/shell\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eshell\u003c/span\u003e\u003c/a\u003e are:\u003c/p\u003e\u003cul\u003e\u003cli\u003eit's not that standard shell on \u003ca href=\"https://infosec.space/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eLinux\u003c/span\u003e\u003c/a\u003e (\u003ca href=\"https://infosec.space/tags/bash\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ebash\u003c/span\u003e\u003c/a\u003e is!)\u003c/li\u003e\u003cli\u003eit's quite \u003cem\u003eTHICC\u003c/em\u003e at ~ 2,5 MB\u003c/li\u003e\u003cli\u003eIt obviously (and necessarily) breaks compatibility to any other shell...\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eStill, I do \u003ca href=\"https://github.com/OS-1337/pkgs/blob/997bc4fe0c8443968db0a42d619a92d8454e8e2c/docs/WISHLIST.tsv#L17\" rel=\"nofollow noopener\" target=\"_blank\"\u003eintent to package it \u003cem\u003esomeday\u003c/em\u003e\u003c/a\u003e for \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.space/@OS1337\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eOS1337\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e simply because for a \u003cem\u003e\"fully-fledged, everyday\"\u003c/em\u003e \u003ca href=\"https://infosec.space/tags/toybox\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003etoybox\u003c/span\u003e\u003c/a\u003e + \u003ca href=\"https://infosec.space/tags/musl\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003emusl\u003c/span\u003e\u003c/a\u003e / \u003ca href=\"https://infosec.space/tags/linux\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003elinux\u003c/span\u003e\u003c/a\u003e distro that wants to maximize \u003ca href=\"https://infosec.space/tags/MDA\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eMDA\u003c/span\u003e\u003c/a\u003e @ 80x25 I'll propably need more functionality than I can reasonably expect \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://mstdn.jp/@landley\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003elandley\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e to include into \u003ca href=\"https://landley.net/toybox/help.html#toybox\" rel=\"nofollow noopener\" target=\"_blank\"\u003etoybox\u003c/a\u003e's own shell, which AFAIK doesn't support \u003ccode\u003e.bash_aliases\u003c/code\u003e or other \u003ccode\u003ealias\u003c/code\u003e / \u003ccode\u003efunction\u003c/code\u003e declarations per config file *as of the time of writing this...\u003c/p\u003e\u003cul\u003e\u003cli\u003eBut then again that's me being nitpicky and different scopes of interest...\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003ca href=\"https://infosec.space/tags/FishShell\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eFishShell\u003c/span\u003e\u003c/a\u003e  \u003ca href=\"https://infosec.space/tags/shells\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eshells\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "created_at": "2026-02-09T22:17:59Z",
+  "edited_at": "2026-02-09T22:18:19Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    },
+    {
+      "url": "https://infosec.space/@OS1337",
+      "username": "OS1337",
+      "acct": "OS1337@infosec.space",
+      "id": "111701204552619131"
+    },
+    {
+      "url": "https://mstdn.jp/@landley",
+      "username": "landley",
+      "acct": "landley@mstdn.jp",
+      "id": "109288761109134926"
+    }
+  ],
+  "tags": [
+    {
+      "name": "fish",
+      "url": "https://infosec.exchange/tags/fish",
+      "history": null
+    },
+    {
+      "name": "shell",
+      "url": "https://infosec.exchange/tags/shell",
+      "history": null
+    },
+    {
+      "name": "linux",
+      "url": "https://infosec.exchange/tags/linux",
+      "history": null
+    },
+    {
+      "name": "bash",
+      "url": "https://infosec.exchange/tags/bash",
+      "history": null
+    },
+    {
+      "name": "toybox",
+      "url": "https://infosec.exchange/tags/toybox",
+      "history": null
+    },
+    {
+      "name": "musl",
+      "url": "https://infosec.exchange/tags/musl",
+      "history": null
+    },
+    {
+      "name": "mda",
+      "url": "https://infosec.exchange/tags/mda",
+      "history": null
+    },
+    {
+      "name": "fishshell",
+      "url": "https://infosec.exchange/tags/fishshell",
+      "history": null
+    },
+    {
+      "name": "shells",
+      "url": "https://infosec.exchange/tags/shells",
+      "history": null
+    }
+  ],
+  "card": {
+    "url": "https://github.com/OS-1337/pkgs/blob/997bc4fe0c8443968db0a42d619a92d8454e8e2c/docs/WISHLIST.tsv#L17",
+    "title": "pkgs/docs/WISHLIST.tsv at 997bc4fe0c8443968db0a42d619a92d8454e8e2c · OS-1337/pkgs",
+    "description": "OS/1337 Package Repository. Contribute to OS-1337/pkgs development by creating an account on GitHub.",
+    "image": "2026/02/09/116042903871223136/replies/116042988247672880/card_image.png",
+    "type": "link",
+    "author_name": "",
+    "author_url": "",
+    "provider_name": "GitHub",
+    "provider_url": "",
+    "html": "",
+    "width": 678,
+    "height": 339
+  },
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
