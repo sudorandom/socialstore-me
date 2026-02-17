@@ -1,0 +1,110 @@
+{
+  "id": "116085030573388133",
+  "uri": "https://infosec.space/users/kkarhan/statuses/116085030552930296",
+  "url": "https://infosec.space/@kkarhan/116085030552930296",
+  "account": {
+    "id": "111903351957611960",
+    "username": "kkarhan",
+    "acct": "kkarhan@infosec.space",
+    "display_name": "Kevin Karhan :verified:",
+    "locked": true,
+    "created_at": "2024-02-09T00:00:00Z",
+    "followers_count": 2412,
+    "following_count": 6333,
+    "statuses_count": 200491,
+    "note": "\u003cp\u003e\u003ca href=\"https://infosec.space/tags/PNCHNZS\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ePNCHNZS\u003c/span\u003e\u003c/a\u003e 24/7!\u003cbr\u003e\u003ca href=\"https://infosec.space/tags/Antifaschismus\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eAntifaschismus\u003c/span\u003e\u003c/a\u003e = Verfassungstreue!\u003cbr\u003eGegen \u003ca href=\"https://infosec.space/tags/Angstkultur\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eAngstkultur\u003c/span\u003e\u003c/a\u003e \u0026amp; \u003ca href=\"https://infosec.space/tags/Entrechtung\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eEntrechtung\u003c/span\u003e\u003c/a\u003e - für bunte \u003ca href=\"https://infosec.space/tags/Vielfalt\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eVielfalt\u003c/span\u003e\u003c/a\u003e!\u003cbr\u003eImpressum: \u003ca href=\"http://karhan.guru\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttp://\u003c/span\u003e\u003cspan class=\"\"\u003ekarhan.guru\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003cbr\u003ePronouns: he/him\u003cbr\u003eYou may know me from shitsite: \u003ca href=\"https://twitter.com/k3vk4\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003etwitter.com/k3vk4\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e ⭐ ≠ ♥ aka.: like ≠ endorsement\u003c/p\u003e\u003cp\u003e \u003cbr\u003e❌ Follow Requests without prior interactions will be declined. \u003cbr\u003e❗Follow Request Spammers get blocked \u0026amp; reported!\u003c/p\u003e",
+    "url": "https://infosec.space/@kkarhan",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/111/903/351/957/611/960/original/375fb66095714e70.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/111/903/351/957/611/960/original/375fb66095714e70.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/111/903/351/957/611/960/original/a975970110c6bc2d.jpeg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/111/903/351/957/611/960/original/a975970110c6bc2d.jpeg",
+    "emojis": [
+      {
+        "shortcode": "verified",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/526/804/static/1c8756e8bafc51aa.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/526/804/original/1c8756e8bafc51aa.png",
+        "visible_in_picker": true
+      }
+    ],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://karhan.guru\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekarhan.guru\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Current Pet Project",
+        "value": "\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.space/@OS1337\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eOS1337\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Github",
+        "value": "\u003ca href=\"https://github.com/kkarhan\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/kkarhan\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-02-17T07:22:05.626Z"
+      },
+      {
+        "name": "Pubkey",
+        "value": "\u003ca href=\"https://keybase.io/kkarhan/pgp_keys.asc?fingerprint=f45ccf8477abe2532d8fc7afa8e46a81dd71236f\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ekeybase.io/kkarhan/pgp_keys.as\u003c/span\u003e\u003cspan class=\"invisible\"\u003ec?fingerprint=f45ccf8477abe2532d8fc7afa8e46a81dd71236f\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Like what I do? Check out LiberaPay",
+        "value": "\u003ca href=\"https://liberapay.com/kkarhan/donate\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eliberapay.com/kkarhan/donate\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-02-17T07:22:06.403Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "116084926677382816",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e true, true…\u003c/p\u003e",
+  "created_at": "2026-02-17T08:29:54Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
