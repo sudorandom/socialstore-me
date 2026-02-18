@@ -1,0 +1,93 @@
+{
+  "id": "116087628784133659",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/116087628784133659",
+  "url": "https://infosec.exchange/@sudorandom/116087628784133659",
+  "account": {
+    "id": "109300069582362316",
+    "username": "sudorandom",
+    "acct": "sudorandom",
+    "display_name": "Kevin McDonald",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 262,
+    "following_count": 78,
+    "statuses_count": 1212,
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@sudorandom",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Languages",
+        "value": "English, Danish (beginner)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Interests",
+        "value": "programming, doing weird things with data, video games, board games",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-05-25T17:40:09.733Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "116087584936774804",
+  "in_reply_to_account_id": "109468672258396284",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://techhub.social/@CiscoJunkie\" class=\"u-url mention\"\u003e@\u003cspan\u003eCiscoJunkie\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e I talk about this a bit in my blog post tomorrow. This was absolutely an issue that I was trying to resolve as the previous version was so limited in using IXP. Much of Asia either doesn\u0026#39;t use peering via internet exchanges as much or, more likely, they don\u0026#39;t update PeeringDB. Using BGP definitely illuminated many places.\u003c/p\u003e\u003cp\u003eThe biggest \u0026quot;cultural difference\u0026quot; was China and the United States DoD.\u003c/p\u003e\u003cp\u003eWith China, I was able to map down to each provinces using WHOIS data (which is probably not THAT reliable, but it was the best I discovered at the time). I allocated a representative city for each province to claim the IP space. So China looks way more uniform than it actually is. By the way, Chinese providers like China Telecom do peer in the big western IXPs. So a naive approach here had China Telecom dominating Amsterdam, Frankfurt, London, etc. It was obviously incorrect.\u003c/p\u003e\u003cp\u003eI actually didn\u0026#39;t know that the DoD started advertising some of their (massive) IP space starting in 2021. This HEAVILY skewed my numbers. I ended up excluding them the DoD altogether.\u003c/p\u003e\u003cp\u003eMy methodology is ABSOLUTELY NOT perfect. I suspect others will find similar issues over the next few days that aren\u0026#39;t as \u0026quot;obviously wrong\u0026quot; as those examples.\u003c/p\u003e",
+  "created_at": "2026-02-17T19:30:40.383Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://techhub.social/@CiscoJunkie",
+      "username": "CiscoJunkie",
+      "acct": "CiscoJunkie@techhub.social",
+      "id": "109468672258396284"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": false,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

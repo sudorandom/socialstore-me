@@ -9,7 +9,7 @@
     "display_name": "Normal Mode",
     "locked": false,
     "created_at": "2023-04-25T00:00:00Z",
-    "followers_count": 266,
+    "followers_count": 267,
     "following_count": 63,
     "statuses_count": 785,
     "note": "\u003cp\u003eDon't Stop BelieVim\u003c/p\u003e",
@@ -24,7 +24,7 @@
       {
         "name": "Website",
         "value": "\u003ca href=\"https://normalmo.de\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003enormalmo.de\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2026-02-16T12:31:31.836Z"
+        "verified_at": "2026-02-17T17:21:28.238Z"
       },
       {
         "name": "Conway’s Game of Life Vim Macro",

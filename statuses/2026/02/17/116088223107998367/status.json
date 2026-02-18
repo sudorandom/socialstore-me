@@ -1,0 +1,106 @@
+{
+  "id": "116088223107998367",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/116088223107998367",
+  "url": "https://infosec.exchange/@sudorandom/116088223107998367",
+  "account": {
+    "id": "109300069582362316",
+    "username": "sudorandom",
+    "acct": "sudorandom",
+    "display_name": "Kevin McDonald",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 262,
+    "following_count": 78,
+    "statuses_count": 1212,
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@sudorandom",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Languages",
+        "value": "English, Danish (beginner)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Interests",
+        "value": "programming, doing weird things with data, video games, board games",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-05-25T17:40:09.733Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "116087582838345189",
+  "in_reply_to_account_id": "109391734523172081",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@gentle_tech\" class=\"u-url mention\"\u003e@\u003cspan\u003egentle_tech\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e this ended up being an issue with the processing of geojson that I was doing. It was only showing a small section of the full cable and dropping the rest. That\u0026#39;s fixed now if you refresh:\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://map.kmcd.dev/?lat=4.8185\u0026amp;lng=-169.3389\u0026amp;z=3.75\u0026amp;year=2026\u0026amp;cables=1\u0026amp;peering=1\u0026amp;ips=1\u0026amp;q=hawaiki\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003emap.kmcd.dev/?lat=4.8185\u0026amp;lng=-\u003c/span\u003e\u003cspan class=\"invisible\"\u003e169.3389\u0026amp;z=3.75\u0026amp;year=2026\u0026amp;cables=1\u0026amp;peering=1\u0026amp;ips=1\u0026amp;q=hawaiki\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "created_at": "2026-02-17T22:01:49.05Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@gentle_tech",
+      "username": "gentle_tech",
+      "acct": "gentle_tech",
+      "id": "109391734523172081"
+    }
+  ],
+  "tags": [],
+  "card": {
+    "url": "https://map.kmcd.dev/?lat=4.8185\u0026lng=-169.3389\u0026z=3.75\u0026year=2026\u0026cables=1\u0026peering=1\u0026ips=1\u0026q=hawaiki",
+    "title": "Internet Infrastructure Map",
+    "description": "Explore the physical backbone of the internet with our interactive map of undersea fiber optic cables, peering exchange points, and more.",
+    "image": "2026/02/17/116088223107998367/card_image.png",
+    "type": "link",
+    "author_name": "",
+    "author_url": "",
+    "provider_name": "",
+    "provider_url": "",
+    "html": "",
+    "width": 735,
+    "height": 313
+  },
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": false,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

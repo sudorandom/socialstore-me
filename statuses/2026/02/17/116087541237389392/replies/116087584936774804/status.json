@@ -1,0 +1,105 @@
+{
+  "id": "116087584936774804",
+  "uri": "https://techhub.social/users/CiscoJunkie/statuses/116087584887298483",
+  "url": "https://techhub.social/@CiscoJunkie/116087584887298483",
+  "account": {
+    "id": "109468672258396284",
+    "username": "CiscoJunkie",
+    "acct": "CiscoJunkie@techhub.social",
+    "display_name": "Ryan Clough :scremcat:",
+    "locked": true,
+    "created_at": "2022-11-23T00:00:00Z",
+    "followers_count": 144,
+    "following_count": 148,
+    "statuses_count": 3075,
+    "note": "\u003cp\u003eNetwork engineer and computer tinkerer.\u003c/p\u003e\u003cp\u003eI'm queer and non-binary, so if you're interested in my non-tech journey, definitely follow my non-tech-focused account: \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://lgbtqia.space/@internet_ryan\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003einternet_ryan\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003eIt should go without saying, but none of my interactions on social media reflect the views of any of my employers, past or present.\u003c/p\u003e\u003cp\u003eProfile pic is courtesy of my lovely wife \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://beige.party/@Corgisaurus\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eCorgisaurus\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e. ❤️\u003c/p\u003e\u003cp\u003e(Header picture is my cat, Little Mouse, snuggling on my lap atop a tortilla-print blanket.)\u003c/p\u003e",
+    "url": "https://techhub.social/@CiscoJunkie",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/468/672/258/396/284/original/0758b4649bd61de2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/468/672/258/396/284/original/0758b4649bd61de2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/468/672/258/396/284/original/e7500c02ec120e6b.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/468/672/258/396/284/original/e7500c02ec120e6b.jpg",
+    "emojis": [
+      {
+        "shortcode": "scremcat",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/435/665/static/e66203e238b4f3aa.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/435/665/original/e66203e238b4f3aa.png",
+        "visible_in_picker": true
+      }
+    ],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Pronouns",
+        "value": "They/Them",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Linktree",
+        "value": "\u003ca href=\"https://linktr.ee/ryanmclough\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003elinktr.ee/ryanmclough\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Location",
+        "value": "Bothell, WA, United States of America",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Verification",
+        "value": "\u003ca href=\"https://ryanclough.lol/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eryanclough.lol/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-02-17T19:29:22.445Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "116087541237389392",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e This is super cool! I always appreciate your maps.\u003c/p\u003e\u003cp\u003eI'm curious about your methodology for assigning \"IPs\" to locations. One thing I think may skew that data is what I\"ll call \"cultural differences\" in how route exchange works in different regions. Fundamentally, we're relatively limited in what prefixes are visibly exchanged in various locations, meaning that data will skew *away* from private paid or settlement-free peering that occurs directly between ASNs. Some regions put a heavy emphasis on exchanges; IX.br and AMS-IX come to mind as prime examples. In most other regions, the \"big players\" with lots of IP space focus on providing direct connectivity to as many parties as possible, meaning there will be some limitations to route visibility there.\u003c/p\u003e\u003cp\u003eEither way, this is really neat!\u003c/p\u003e",
+  "created_at": "2026-02-17T19:19:30Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 1,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
