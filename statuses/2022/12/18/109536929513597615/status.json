@@ -55,8 +55,8 @@
       "display_name": "muesli",
       "locked": false,
       "created_at": "2018-06-13T00:00:00Z",
-      "followers_count": 28165,
-      "following_count": 3544,
+      "followers_count": 28166,
+      "following_count": 3543,
       "statuses_count": 8913,
       "note": "\u003cp\u003eI build open-source software and make little gadgets.\u003c/p\u003e\u003cp\u003eFrom a time when email was cool. Hard to distinguish from a good programmer.\u003c/p\u003e",
       "url": "https://mastodon.social/@fribbledom",
@@ -75,12 +75,12 @@
         {
           "name": "GitHub",
           "value": "\u003ca href=\"https://github.com/muesli\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/muesli\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2026-02-16T20:10:35.162Z"
+          "verified_at": "2026-02-19T06:02:58.758Z"
         },
         {
           "name": "In German",
           "value": "\u003ca href=\"https://mastodon.social/@muesli\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emastodon.social/@muesli\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2026-02-16T20:10:35.492Z"
+          "verified_at": "2026-02-19T06:02:58.996Z"
         }
       ],
       "bot": false,
