@@ -1,0 +1,110 @@
+{
+  "id": "116096432120982620",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/116096432120982620",
+  "url": "https://infosec.exchange/@sudorandom/116096432120982620",
+  "account": {
+    "id": "109300069582362316",
+    "username": "sudorandom",
+    "acct": "sudorandom",
+    "display_name": "Kevin McDonald",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 262,
+    "following_count": 78,
+    "statuses_count": 1219,
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@sudorandom",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Languages",
+        "value": "English, Danish (beginner)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Interests",
+        "value": "programming, doing weird things with data, video games, board games",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-05-25T17:40:09.733Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": null,
+  "in_reply_to_account_id": null,
+  "reblog": null,
+  "content": "\u003cp\u003eAfter attributing all prefixes in the global BGP table to their originating cities, I\u0026#39;m left with the results below.\u003c/p\u003e\u003cp\u003eIt may be a surprise to some people that a town of 50,000 people is indisputably the most important location for the internet but it absolutely is. Welcome to Ashburn, Virginia; where a large chunk of the internet lives.\u003c/p\u003e\u003cp\u003eSee more data like this by checking out the new version of my Internet Infrastructure map: \u003ca href=\"https://map.kmcd.dev/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emap.kmcd.dev/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "created_at": "2026-02-19T08:49:28.641Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [
+    {
+      "id": "116096407646343089",
+      "type": "image",
+      "url": "2026/02/19/116096432120982620/media_attachment_116096407646343089.png",
+      "remote_url": "https://media.infosec.exchange/infosec.exchange/media_attachments/files/116/096/407/646/343/089/original/fea7fee2b84cb001.png",
+      "preview_url": "https://media.infosec.exchange/infosec.exchange/media_attachments/files/116/096/407/646/343/089/small/fea7fee2b84cb001.png",
+      "text_url": "",
+      "description": "North America: 1,092,322,268 IPs\nAshburn: 80,073,721\nPortland: 29,917,135\nChicago: 26,208,184\nDallas: 22,397,185\nAtlanta: 21,047,144",
+      "meta": {
+        "original": {
+          "width": 305,
+          "height": 145,
+          "size": "305x145",
+          "aspect": 2.103448275862069
+        },
+        "small": {
+          "width": 305,
+          "height": 145,
+          "size": "305x145",
+          "aspect": 2.103448275862069
+        }
+      }
+    }
+  ],
+  "mentions": [],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": false,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
