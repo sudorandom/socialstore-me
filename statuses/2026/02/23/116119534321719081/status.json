@@ -1,0 +1,120 @@
+{
+  "id": "116119534321719081",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/116119534321719081",
+  "url": "https://infosec.exchange/@sudorandom/116119534321719081",
+  "account": {
+    "id": "109300069582362316",
+    "username": "sudorandom",
+    "acct": "sudorandom",
+    "display_name": "Kevin McDonald",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 263,
+    "following_count": 78,
+    "statuses_count": 1229,
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@sudorandom",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Languages",
+        "value": "English, Danish (beginner)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Interests",
+        "value": "programming, doing weird things with data, video games, board games",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-05-25T17:40:09.733Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": null,
+  "in_reply_to_account_id": null,
+  "reblog": null,
+  "content": "\u003cp\u003e🪧 IRC Log: The Cloud Scale Incident: \u003cbr /\u003e\u003ca href=\"https://kmcd.dev/posts/irc-log-the-cloud-scale-incident/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ekmcd.dev/posts/irc-log-the-clo\u003c/span\u003e\u003cspan class=\"invisible\"\u003eud-scale-incident/\u003c/span\u003e\u003c/a\u003e\u003cbr /\u003e\u003ca href=\"https://infosec.exchange/tags/Humor\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eHumor\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://infosec.exchange/tags/Irc\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eIrc\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://infosec.exchange/tags/Aws\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eAws\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://infosec.exchange/tags/Vibe\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eVibe\u003c/span\u003e\u003c/a\u003e-coding\u003c/p\u003e",
+  "created_at": "2026-02-23T10:44:40.257Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 1,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [],
+  "tags": [
+    {
+      "name": "humor",
+      "url": "https://infosec.exchange/tags/humor",
+      "history": null
+    },
+    {
+      "name": "irc",
+      "url": "https://infosec.exchange/tags/irc",
+      "history": null
+    },
+    {
+      "name": "aws",
+      "url": "https://infosec.exchange/tags/aws",
+      "history": null
+    },
+    {
+      "name": "vibe",
+      "url": "https://infosec.exchange/tags/vibe",
+      "history": null
+    }
+  ],
+  "card": {
+    "url": "https://kmcd.dev/posts/irc-log-the-cloud-scale-incident/",
+    "title": "IRC Log: The Cloud Scale Incident",
+    "description": "An archived log from the #dev-help channel on the Freenode (RIP) afterlife network.\n[03:12] *** Topic: reckless_dev is now known as broke_dev | Don’t paste API keys [03:14] *** vibe_coder_99 has joined [03:15] \u003cvibe_coder_99\u003e yo! anyone good with terraform? i’m trying to launch my new crypto-based to-do list app and the tutorial is too slow. [03:15] \u003csysadmin_dave\u003e What tutorial? Also, crypto to-do list? Why? [03:16] \u003cvibe_coder_99\u003e it’s strictly vibes based. i just need it to scale. like, infinite scale. i found this script on a forum that says it “maximizes throughput”. [03:17] \u003ccloud_guru\u003e Paste the plan. Don’t just run random scripts. [03:18] \u003cvibe_coder_99\u003e nah its fine, i just want to know what “p4d.24xlarge” means. sounds powerful. i changed the count to 50 just to be safe for launch day. [03:18] \u003csysadmin_dave\u003e STOP. [03:18] \u003csysadmin_dave\u003e DO NOT RUN THAT. [03:19] \u003ccloud_guru\u003e That instance is $32 an hour. PER INSTANCE. [03:19] \u003cvibe_coder_99\u003e wait really? lol whatever i have $100 in credits. running terraform apply --auto-approve now. [03:19] * sysadmin_dave screams internally [03:22] \u003cvibe_coder_99\u003e man aws is slow today. it’s been provisioning for like 2 minutes. [03:22] \u003ccloud_guru\u003e You are requesting 50 top-tier GPU instances. You are trying to provision a supercomputer to host a to-do list. [03:23] \u003cvibe_coder_99\u003e gotta go fast right? 🚀 [03:24] \u003cvibe_coder_99\u003e uh guys [03:25] \u003cvibe_coder_99\u003e my bank called. fraud alert. something about “unusual spending pattern”. [03:25] \u003csysadmin_dave\u003e You just burned your credits in 4 minutes. You are now spending ~$1600/hour. [03:26] \u003cvibe_coder_99\u003e how do i undo??? ctrl-z doesn’t work in terminal!! [03:26] \u003csysadmin_dave\u003e terraform destroy. PRAY that the API isn’t rate limiting you. [03:27] \u003cvibe_coder_99\u003e it says “state lock”. i think i closed the window too fast. [03:28] *** vibe_coder_99 has left [03:28] *** vibe_coder_99 has quit (Connection reset by peer: fleeing the country) ",
+    "image": "2026/02/23/116119534321719081/card_image.png",
+    "type": "link",
+    "author_name": "",
+    "author_url": "",
+    "provider_name": "kmcd.dev",
+    "provider_url": "",
+    "html": "",
+    "width": 461,
+    "height": 499
+  },
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": false,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
