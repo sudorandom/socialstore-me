@@ -73,7 +73,7 @@
     "url": "https://map.kmcd.dev/?lat=4.8185\u0026lng=-169.3389\u0026z=3.75\u0026year=2026\u0026cables=1\u0026peering=1\u0026ips=1\u0026q=hawaiki",
     "title": "Internet Infrastructure Map",
     "description": "Explore the physical backbone of the internet with our interactive map of undersea fiber optic cables, peering exchange points, and more.",
-    "image": "2026/02/17/116088223107998367/card_image.png",
+    "image": "",
     "type": "link",
     "author_name": "",
     "author_url": "",
