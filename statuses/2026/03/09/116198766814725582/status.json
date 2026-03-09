@@ -1,0 +1,120 @@
+{
+  "id": "116198766814725582",
+  "uri": "https://infosec.exchange/users/sudorandom/statuses/116198766814725582",
+  "url": "https://infosec.exchange/@sudorandom/116198766814725582",
+  "account": {
+    "id": "109300069582362316",
+    "username": "sudorandom",
+    "acct": "sudorandom",
+    "display_name": "Kevin McDonald",
+    "locked": false,
+    "created_at": "2022-11-07T00:00:00Z",
+    "followers_count": 268,
+    "following_count": 78,
+    "statuses_count": 1260,
+    "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://infosec.exchange/@sudorandom",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/109/300/069/582/362/316/original/37209718fa7513e2.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/109/300/069/582/362/316/original/2c905419ef36413a.png",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Languages",
+        "value": "English, Danish (beginner)",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Interests",
+        "value": "programming, doing weird things with data, video games, board games",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Website",
+        "value": "\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener me\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2024-05-25T17:40:09.733Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": null,
+  "in_reply_to_account_id": null,
+  "reblog": null,
+  "content": "\u003cp\u003e🪧 IRC Log: rm -rf /var/opt/gitlab/postgresql/data: \u003cbr /\u003e\u003ca href=\"https://kmcd.dev/posts/irc-log-rm-rf-/var/opt/gitlab/postgresql/data/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ekmcd.dev/posts/irc-log-rm-rf-/\u003c/span\u003e\u003cspan class=\"invisible\"\u003evar/opt/gitlab/postgresql/data/\u003c/span\u003e\u003c/a\u003e\u003cbr /\u003e\u003ca href=\"https://infosec.exchange/tags/Humor\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eHumor\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://infosec.exchange/tags/Irc\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eIrc\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://infosec.exchange/tags/Rm\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eRm\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://infosec.exchange/tags/Incident\" class=\"mention hashtag\" rel=\"tag\"\u003e#\u003cspan\u003eIncident\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "created_at": "2026-03-09T10:34:32.155Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [],
+  "tags": [
+    {
+      "name": "humor",
+      "url": "https://infosec.exchange/tags/humor",
+      "history": null
+    },
+    {
+      "name": "irc",
+      "url": "https://infosec.exchange/tags/irc",
+      "history": null
+    },
+    {
+      "name": "rm",
+      "url": "https://infosec.exchange/tags/rm",
+      "history": null
+    },
+    {
+      "name": "incident",
+      "url": "https://infosec.exchange/tags/incident",
+      "history": null
+    }
+  ],
+  "card": {
+    "url": "https://kmcd.dev/posts/irc-log-rm-rf-/var/opt/gitlab/postgresql/data/",
+    "title": "IRC Log: rm -rf /var/opt/gitlab/postgresql/data",
+    "description": "The Incident Log: January 31, 2017 [23:00] *** Topic: DB Replication Lag | Status: 🔴 Critical [23:05] *** tired_sysadmin has joined [23:10] \u003ctired_sysadmin\u003e Replication is stuck again. The secondary node (db2) is refusing to sync. [23:11] \u003ctired_sysadmin\u003e I’m going to wipe the data directory on db2 and let it pull a fresh copy from master. [23:12] \u003ctired_sysadmin\u003e rm -rf /var/opt/gitlab/postgresql/data [23:12] \u003ctired_sysadmin\u003e Weird. It’s taking a while. Usually empty directories delete instantly. [23:13] \u003chelper_dev\u003e Hey, why did the website just go 500? [23:13] \u003ctired_sysadmin\u003e … [23:13] \u003ctired_sysadmin\u003e I’m looking at my terminal prompt. [23:14] \u003ctired_sysadmin\u003e It says root@db1. [23:14] \u003chelper_dev\u003e db1 is Prod. You are deleting Prod. [23:15] \u003ctired_sysadmin\u003e CTRL+C CTRL+C CTRL+C [23:15] \u003ctired_sysadmin\u003e Okay, I stopped it. How much is left? [23:16] \u003chelper_dev\u003e Checking… The directory is 4.5KB. [23:16] \u003ctired_sysadmin\u003e We had 300GB of data. [23:17] \u003chelper_dev\u003e Okay, don’t panic. We have 5 different backup mechanisms. Let’s check S3. [23:20] \u003chelper_dev\u003e S3 bucket is empty. The backup script has been failing silently since version 8.1. [23:21] \u003ctired_sysadmin\u003e Check the Azure disk snapshots. [23:22] \u003chelper_dev\u003e Not enabled. [23:23] \u003ctired_sysadmin\u003e …LVM snapshots? [23:24] \u003chelper_dev\u003e We take them every 24 hours. We just lost 6 hours of data. [23:25] \u003ctired_sysadmin\u003e I am going to live stream the restoration on YouTube so people don’t kill us. Postmortem of database outage of January 31",
+    "image": "2026/03/09/116198766814725582/card_image.png",
+    "type": "link",
+    "author_name": "",
+    "author_url": "",
+    "provider_name": "kmcd.dev",
+    "provider_url": "",
+    "html": "",
+    "width": 461,
+    "height": 499
+  },
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": false,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
