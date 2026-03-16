@@ -1,0 +1,105 @@
+{
+  "id": "116237875742959743",
+  "uri": "https://aus.social/users/skribe/statuses/116237875683023572",
+  "url": "https://aus.social/@skribe/116237875683023572",
+  "account": {
+    "id": "109307437776632952",
+    "username": "skribe",
+    "acct": "skribe@aus.social",
+    "display_name": "skribe 🇺🇦 :verified_mustard:",
+    "locked": false,
+    "created_at": "2022-11-01T00:00:00Z",
+    "followers_count": 523,
+    "following_count": 715,
+    "statuses_count": 19235,
+    "note": "\u003cp\u003eAussie in Singas.\u003c/p\u003e\u003cp\u003eWriter. Code dabbler.  Former TV/film/commercial video producer/director/actor.\u003c/p\u003e\u003cp\u003eMarried to \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://kopiti.am/@CeeZedby\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eCeeZedby\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003cbr\u003eTwo bratty sons. \u003c/p\u003e\u003cp\u003eOne of my novels (read it for free):   \u003ca href=\"https://www.royalroad.com/fiction/56204/coils-of-the-serpent\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003eroyalroad.com/fiction/56204/co\u003c/span\u003e\u003cspan class=\"invisible\"\u003eils-of-the-serpent\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eFingerprint: \u003ca href=\"https://keyoxide.org/79A1DC6CD3678A31135A7AFA940E4231D7B9B15C\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ekeyoxide.org/79A1DC6CD3678A311\u003c/span\u003e\u003cspan class=\"invisible\"\u003e35A7AFA940E4231D7B9B15C\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003eMy blog is federated at \u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://skribeworks.com\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eskribe\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003eOther instances (semi-active):\u003cbr\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://kopiti.am/@skribe\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eskribe\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003cbr\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://mastodon.social/@skribe\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003eskribe\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://aus.social/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003efedi22\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://aus.social/tags/writing\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ewriting\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://aus.social/tags/Cycling\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eCycling\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://aus.social/tags/Australia\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eAustralia\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://aus.social/tags/Singapore\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eSingapore\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://aus.social/tags/Perth\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003ePerth\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://aus.social/tags/linux\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003elinux\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://aus.social/@skribe",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/307/437/776/632/952/original/272775eecd604edb.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/307/437/776/632/952/original/272775eecd604edb.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/307/437/776/632/952/original/8d7e4e9bdbe86961.png",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/307/437/776/632/952/original/8d7e4e9bdbe86961.png",
+    "emojis": [
+      {
+        "shortcode": "verified_mustard",
+        "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/204/682/static/7a9cee8ecca42400.png",
+        "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/204/682/original/7a9cee8ecca42400.png",
+        "visible_in_picker": true
+      }
+    ],
+    "moved": null,
+    "fields": [
+      {
+        "name": "My blog",
+        "value": "\u003ca href=\"https://skribeworks.com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eskribeworks.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "2026-03-16T03:08:39.057Z"
+      },
+      {
+        "name": "Piefed",
+        "value": "\u003ca href=\"https://piefed.social/u/skribe\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epiefed.social/u/skribe\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Pixelfed",
+        "value": "\u003ca href=\"https://pixelfed.social/@skribe\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003epixelfed.social/@skribe\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Friendica",
+        "value": "\u003ca href=\"https://friendica.world/profile/skribe/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003efriendica.world/profile/skribe/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "116237852795490517",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e right now, Skynet.\u003c/p\u003e",
+  "created_at": "2026-03-16T08:20:26Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 1,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "116237884192176647",
+  "uri": "https://infosec.exchange/users/Sheep_Overboard/statuses/116237884192176647",
+  "url": "https://infosec.exchange/@Sheep_Overboard/116237884192176647",
+  "account": {
+    "id": "113042821930363869",
+    "username": "Sheep_Overboard",
+    "acct": "Sheep_Overboard",
+    "display_name": "𝙳𝚊𝚒𝚕𝚢 𝙵𝚒𝚜𝚑𝚠𝚛𝚊𝚙",
+    "locked": false,
+    "created_at": "2024-08-29T00:00:00Z",
+    "followers_count": 343,
+    "following_count": 449,
+    "statuses_count": 955,
+    "note": "\u003cp\u003eI\u0026#39;m so old the transistor and I share a birth date. I\u0026#39;ve seen things you people wouldn\u0026#39;t believe.\u003c/p\u003e",
+    "url": "https://infosec.exchange/@Sheep_Overboard",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/113/042/821/930/363/869/original/0284c84f426c1d46.jpg",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/accounts/avatars/113/042/821/930/363/869/original/0284c84f426c1d46.jpg",
+    "header": "https://media.infosec.exchange/infosec.exchange/accounts/headers/113/042/821/930/363/869/original/b842a8fa30542238.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/accounts/headers/113/042/821/930/363/869/original/b842a8fa30542238.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Location",
+        "value": "🦘",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": false,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "116237852795490517",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e \u003c/p\u003e\u003cp\u003eReminds me of...\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://www.sheepoverboard.org/2006/04/if-computer-operating-systems-were-beer.html\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003esheepoverboard.org/2006/04/if-\u003c/span\u003e\u003cspan class=\"invisible\"\u003ecomputer-operating-systems-were-beer.html\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+  "created_at": "2026-03-16T08:22:35.964Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": {
+    "url": "https://www.sheepoverboard.org/2006/04/if-computer-operating-systems-were-beer.html",
+    "title": "If Computer Operating Systems Were Beer",
+    "description": "     Article first appeared circa 2006... and not updated since. After all, beers can age nicely too. Pictured: BSOD in the physical world  ...",
+    "image": "",
+    "type": "link",
+    "author_name": "Throsby",
+    "author_url": "",
+    "provider_name": "Blogger",
+    "provider_url": "",
+    "html": "",
+    "width": 0,
+    "height": 0
+  },
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
