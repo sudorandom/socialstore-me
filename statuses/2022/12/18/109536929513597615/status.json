@@ -75,12 +75,12 @@
         {
           "name": "GitHub",
           "value": "\u003ca href=\"https://github.com/muesli\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/muesli\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2026-03-20T23:36:47.985Z"
+          "verified_at": "2026-03-22T19:53:26.987Z"
         },
         {
           "name": "In German",
           "value": "\u003ca href=\"https://mastodon.social/@muesli\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003emastodon.social/@muesli\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2026-03-20T23:36:48.129Z"
+          "verified_at": "2026-03-22T19:53:27.016Z"
         }
       ],
       "bot": false,
@@ -109,9 +109,9 @@
       {
         "id": "109536018564890153",
         "type": "image",
-        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/536/018/564/890/153/original/9ee6c1da5250942e.png",
+        "url": "https://infosec.exchange/media_proxy/109536018564890153/original",
         "remote_url": "https://files.mastodon.social/media_attachments/files/109/536/009/596/444/851/original/bef764720df64ce9.png",
-        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/109/536/018/564/890/153/small/9ee6c1da5250942e.png",
+        "preview_url": "https://infosec.exchange/media_proxy/109536018564890153/small",
         "text_url": "",
         "description": "",
         "meta": {
