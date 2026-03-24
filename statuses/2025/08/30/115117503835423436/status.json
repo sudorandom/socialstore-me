@@ -9,7 +9,7 @@
     "display_name": "Kevin McDonald",
     "locked": false,
     "created_at": "2022-11-07T00:00:00Z",
-    "followers_count": 269,
+    "followers_count": 270,
     "following_count": 79,
     "statuses_count": 1287,
     "note": "\u003cp\u003eSoftware Engineer. I post about backend programming, and nonsense. \u2029🇺🇸 living in 🇩🇰\u2029\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://kmcd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ekmcd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
@@ -93,9 +93,9 @@
       {
         "id": "115109881613945382",
         "type": "image",
-        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/115/109/881/613/945/382/original/a614e5bb01777e3c.jpg",
+        "url": "https://infosec.exchange/media_proxy/115109881613945382/original",
         "remote_url": "https://cdn.masto.host/postsratpictures/media_attachments/files/115/109/859/992/283/068/original/1379726e2e8d9359.jpg",
-        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/115/109/881/613/945/382/small/a614e5bb01777e3c.jpg",
+        "preview_url": "https://infosec.exchange/media_proxy/115109881613945382/small",
         "text_url": "",
         "description": "A copy of “Nerds 2.0.1, a brief history of the internet,” with quotes from larry ellison and bill gates",
         "meta": {
@@ -116,9 +116,9 @@
       {
         "id": "115109881646390360",
         "type": "image",
-        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/115/109/881/646/390/360/original/e68e21e1482b4677.jpg",
+        "url": "https://infosec.exchange/media_proxy/115109881646390360/original",
         "remote_url": "https://cdn.masto.host/postsratpictures/media_attachments/files/115/109/860/161/050/460/original/cd3e06f0285bed48.jpg",
-        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/115/109/881/646/390/360/small/e68e21e1482b4677.jpg",
+        "preview_url": "https://infosec.exchange/media_proxy/115109881646390360/small",
         "text_url": "",
         "description": "It’s bob cringely!!",
         "meta": {
@@ -139,9 +139,9 @@
       {
         "id": "115109881677400024",
         "type": "image",
-        "url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/115/109/881/677/400/024/original/6be93a504cd347bf.jpg",
+        "url": "https://infosec.exchange/media_proxy/115109881677400024/original",
         "remote_url": "https://cdn.masto.host/postsratpictures/media_attachments/files/115/109/864/888/577/026/original/f11ea92a00680b04.jpg",
-        "preview_url": "https://media.infosec.exchange/infosec.exchange/cache/media_attachments/files/115/109/881/677/400/024/small/6be93a504cd347bf.jpg",
+        "preview_url": "https://infosec.exchange/media_proxy/115109881677400024/small",
         "text_url": "",
         "description": "Tapes!!!",
         "meta": {
