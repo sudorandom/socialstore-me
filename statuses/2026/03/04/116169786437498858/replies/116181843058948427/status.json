@@ -9,8 +9,8 @@
     "display_name": "Martijn",
     "locked": false,
     "created_at": "2024-05-13T00:00:00Z",
-    "followers_count": 44,
-    "following_count": 195,
+    "followers_count": 43,
+    "following_count": 194,
     "statuses_count": 177,
     "note": "\u003cp\u003eProgrammer, enjoys learning about hardware. Swimming and windsurfing\u003c/p\u003e",
     "url": "https://noisesfrom.space/@martijn",
@@ -22,14 +22,14 @@
     "moved": null,
     "fields": [
       {
-        "name": "website",
+        "name": "Homepage",
         "value": "\u003ca href=\"https://boers.email\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eboers.email\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2026-03-25T15:48:57.642Z"
+        "verified_at": "2026-03-27T23:36:49.531Z"
       },
       {
-        "name": "GitHub",
-        "value": "\u003ca href=\"https://github.com/martijnboers\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/martijnboers\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2026-03-25T15:48:57.993Z"
+        "name": "Radicle",
+        "value": "\u003ca href=\"https://git.boers.email\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egit.boers.email\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
       },
       {
         "name": "Matrix",
