@@ -1,0 +1,83 @@
+{
+  "id": "116339717788918978",
+  "uri": "https://tech.lgbt/users/chiffchaff/statuses/116339717739971579",
+  "url": "https://tech.lgbt/@chiffchaff/116339717739971579",
+  "account": {
+    "id": "110747411776991882",
+    "username": "chiffchaff",
+    "acct": "chiffchaff@tech.lgbt",
+    "display_name": "kæt",
+    "locked": false,
+    "created_at": "2023-07-20T00:00:00Z",
+    "followers_count": 118,
+    "following_count": 131,
+    "statuses_count": 3822,
+    "note": "\u003cp\u003ebi adhd zwitterion gemini\u003cbr\u003eelemental tablets of the watchtowers botherer\u003cbr\u003eair of water / knight of cups\u003cbr\u003eanti-TESCREAL\u003cbr\u003emarried\u0026amp;mono\u003c/p\u003e\u003cp\u003eIf I followed you and you don't know me irl, it's probably because I like my feed full of shitposts.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://tech.lgbt/tags/nobridge\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003enobridge\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+    "url": "https://tech.lgbt/@chiffchaff",
+    "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/747/411/776/991/882/original/68899b4e96b398bd.png",
+    "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/110/747/411/776/991/882/original/68899b4e96b398bd.png",
+    "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/110/747/411/776/991/882/original/182600c3c150c22e.jpg",
+    "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/110/747/411/776/991/882/original/182600c3c150c22e.jpg",
+    "emojis": [],
+    "moved": null,
+    "fields": [
+      {
+        "name": "Pronouns",
+        "value": "they, but don't sweat it",
+        "verified_at": "0001-01-01T00:00:00Z"
+      }
+    ],
+    "bot": false,
+    "discoverable": true,
+    "source": null,
+    "followed_tags": null
+  },
+  "in_reply_to_id": "116339677485187201",
+  "in_reply_to_account_id": "109300069582362316",
+  "reblog": null,
+  "content": "\u003cp\u003e\u003cspan class=\"h-card\" translate=\"no\"\u003e\u003ca href=\"https://infosec.exchange/@sudorandom\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\"\u003e@\u003cspan\u003esudorandom\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Probably Mercury from University of Melbourne\u003c/p\u003e\u003cp\u003eSadly the bits taken from Prolog are a bit too front and centre (eg in the syntax) which scares people off.\u003c/p\u003e\u003cp\u003eBut it has a good type system (including Haskell-like type classes) and handles state-mutation and real-world modification much more cleanly and simply than the monad-like approach of Haskell (or bodges in other languages).\u003c/p\u003e\u003cp\u003eThe Prolog-like logic-language features are actually not super useful (beyond the usual places they shine, like constraint solving. It's kinda sad in a way they've come to dominate how people see the language.\u003c/p\u003e",
+  "created_at": "2026-04-03T08:00:12Z",
+  "edited_at": "0001-01-01T00:00:00Z",
+  "emojis": [],
+  "replies_count": 0,
+  "reblogs_count": 0,
+  "favourites_count": 0,
+  "reblogged": false,
+  "favourited": false,
+  "bookmarked": false,
+  "muted": false,
+  "sensitive": false,
+  "spoiler_text": "",
+  "visibility": "public",
+  "media_attachments": [],
+  "mentions": [
+    {
+      "url": "https://infosec.exchange/@sudorandom",
+      "username": "sudorandom",
+      "acct": "sudorandom",
+      "id": "109300069582362316"
+    }
+  ],
+  "tags": [],
+  "card": null,
+  "poll": null,
+  "application": {
+    "id": "",
+    "redirect_uri": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "language": "en",
+  "pinned": null,
+  "params": {
+    "application_id": "",
+    "idempotency": "",
+    "in_reply_to_id": null,
+    "media_ids": null,
+    "poll": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "text": "",
+    "visibility": ""
+  }
+}
