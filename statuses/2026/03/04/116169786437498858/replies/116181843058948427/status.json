@@ -9,8 +9,8 @@
     "display_name": "Martijn",
     "locked": false,
     "created_at": "2024-05-13T00:00:00Z",
-    "followers_count": 43,
-    "following_count": 194,
+    "followers_count": 44,
+    "following_count": 195,
     "statuses_count": 177,
     "note": "\u003cp\u003eProgrammer, enjoys learning about hardware. Swimming and windsurfing\u003c/p\u003e",
     "url": "https://noisesfrom.space/@martijn",
@@ -24,7 +24,7 @@
       {
         "name": "Homepage",
         "value": "\u003ca href=\"https://boers.email\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eboers.email\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2026-03-27T23:36:49.531Z"
+        "verified_at": "2026-04-11T16:44:48.242Z"
       },
       {
         "name": "Radicle",
@@ -34,6 +34,11 @@
       {
         "name": "Matrix",
         "value": "\u003ca href=\"https://matrix.to/#/@martijn:boers.email\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003ematrix.to/#/@martijn:boers.ema\u003c/span\u003e\u003cspan class=\"invisible\"\u003eil\u003c/span\u003e\u003c/a\u003e",
+        "verified_at": "0001-01-01T00:00:00Z"
+      },
+      {
+        "name": "Blog",
+        "value": "\u003ca href=\"https://blog.boers.email\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eblog.boers.email\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
         "verified_at": "0001-01-01T00:00:00Z"
       }
     ],
