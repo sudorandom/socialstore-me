@@ -10,7 +10,7 @@
     "locked": false,
     "created_at": "2023-02-03T00:00:00Z",
     "followers_count": 668,
-    "following_count": 577,
+    "following_count": 578,
     "statuses_count": 2245,
     "note": "\u003cp\u003eDungeon Webmaster, Open Sourcerer, and breakfast THAC0 enthusiast. Are you a friend of DeSoto? All paladins are bastards.\u2029\u003cbr\u003e\u003ca href=\"https://pub.calebhearth.com/tags/ruby\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eruby\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pub.calebhearth.com/tags/rails\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003erails\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pub.calebhearth.com/tags/swift\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eswift\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pub.calebhearth.com/tags/rust\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003erust\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pub.calebhearth.com/tags/StaffEngineer\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eStaffEngineer\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pub.calebhearth.com/tags/Mothership\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eMothership\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pub.calebhearth.com/tags/Lego\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eLego\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pub.calebhearth.com/tags/politics\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003epolitics\u003c/span\u003e\u003c/a\u003e \u003ca href=\"https://pub.calebhearth.com/tags/ethics\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003eethics\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
     "url": "https://pub.calebhearth.com/@caleb",
@@ -31,12 +31,12 @@
       {
         "name": "Website",
         "value": "\u003ca href=\"https://calebhearth.com\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecalebhearth.com\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2026-04-27T09:22:41.835Z"
+        "verified_at": "2026-04-29T21:10:54.317Z"
       },
       {
         "name": "Links",
         "value": "\u003ca href=\"https://calebhearth.com/links\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003ecalebhearth.com/links\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2026-04-27T09:22:42.341Z"
+        "verified_at": "2026-04-29T21:10:54.831Z"
       }
     ],
     "bot": false,
