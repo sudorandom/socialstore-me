@@ -55,20 +55,20 @@
       "display_name": "Cory :prami_pride_demi:",
       "locked": false,
       "created_at": "2022-12-31T00:00:00Z",
-      "followers_count": 33,
-      "following_count": 391,
-      "statuses_count": 10551,
+      "followers_count": 31,
+      "following_count": 379,
+      "statuses_count": 10531,
       "note": "\u003cp\u003eHusband, dad, developer, music nerd.\u003c/p\u003e\u003cp\u003eEngineering, music, automation, general nerdery, \u003ca href=\"https://social.lol/tags/tattoos\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003etattoos\u003c/span\u003e\u003c/a\u003e and rescue dogs.\u003c/p\u003e\u003cp\u003eDesign engineer @ Adobe working on Spectrum CSS (opinions are my own and all that).\u003c/p\u003e\u003cp\u003ePronouns: he/him/his\u003c/p\u003e",
       "url": "https://social.lol/@cory",
-      "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/606/268/322/256/674/original/1101e80a7d00376d.jpeg",
-      "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/606/268/322/256/674/original/1101e80a7d00376d.jpeg",
-      "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/606/268/322/256/674/original/53499180808e27f4.png",
-      "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/606/268/322/256/674/original/53499180808e27f4.png",
+      "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/606/268/322/256/674/original/13c469a09d665ad6.jpeg",
+      "avatar_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/109/606/268/322/256/674/original/13c469a09d665ad6.jpeg",
+      "header": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/606/268/322/256/674/original/7ff902702c8c7572.png",
+      "header_static": "https://media.infosec.exchange/infosec.exchange/cache/accounts/headers/109/606/268/322/256/674/original/7ff902702c8c7572.png",
       "emojis": [
         {
           "shortcode": "prami_pride_demi",
-          "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/174/726/static/77fee3ce5276cb0d.png",
-          "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/174/726/original/77fee3ce5276cb0d.png",
+          "static_url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/174/726/static/5d53e126742b68aa.png",
+          "url": "https://media.infosec.exchange/infosec.exchange/cache/custom_emojis/images/000/174/726/original/5d53e126742b68aa.png",
           "visible_in_picker": true
         }
       ],
@@ -81,7 +81,7 @@
         "created_at": "2024-10-01T00:00:00Z",
         "followers_count": 1319,
         "following_count": 431,
-        "statuses_count": 7258,
+        "statuses_count": 7273,
         "note": "\u003cp\u003eHusband, dad, developer, music nerd.\u003c/p\u003e\u003cp\u003eEngineering, music, automation, general nerdery, \u003ca href=\"https://follow.coryd.dev/tags/tattoos\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\"\u003e#\u003cspan\u003etattoos\u003c/span\u003e\u003c/a\u003e and rescue dogs.\u003c/p\u003e\u003cp\u003ePronouns: he/him/his\u003c/p\u003e",
         "url": "https://follow.coryd.dev/@cory",
         "avatar": "https://media.infosec.exchange/infosec.exchange/cache/accounts/avatars/113/234/541/441/700/977/original/c0bba826143afb37.png",
@@ -101,22 +101,22 @@
           {
             "name": "🏡",
             "value": "\u003ca href=\"https://www.coryd.dev\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2026-05-15T21:52:22.757Z"
+            "verified_at": "2026-05-17T02:42:50.107Z"
           },
           {
             "name": "🎧",
             "value": "\u003ca href=\"https://www.coryd.dev/music\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev/music\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2026-05-15T21:52:23.204Z"
+            "verified_at": "2026-05-17T02:42:50.554Z"
           },
           {
             "name": "📚",
             "value": "\u003ca href=\"https://www.coryd.dev/reading\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev/reading\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2026-05-15T21:52:23.582Z"
+            "verified_at": "2026-05-17T02:42:50.923Z"
           },
           {
             "name": "📖",
             "value": "\u003ca href=\"https://www.coryd.dev/feeds\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://www.\u003c/span\u003e\u003cspan class=\"\"\u003ecoryd.dev/feeds\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-            "verified_at": "2026-05-15T21:52:23.953Z"
+            "verified_at": "2026-05-17T02:42:51.286Z"
           }
         ],
         "bot": false,
