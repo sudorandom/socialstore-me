@@ -29,7 +29,7 @@
       {
         "name": "Blog",
         "value": "\u003ca href=\"https://blog.merovius.de/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eblog.merovius.de/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2026-05-24T09:12:24.47Z"
+        "verified_at": "2026-05-25T15:32:59.912Z"
       },
       {
         "name": "Bookwyrm",
@@ -39,7 +39,7 @@
       {
         "name": "Github",
         "value": "\u003ca href=\"https://github.com/Merovius\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003egithub.com/Merovius\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-        "verified_at": "2026-05-24T09:12:28.582Z"
+        "verified_at": "2026-05-25T15:33:01.939Z"
       }
     ],
     "bot": false,
