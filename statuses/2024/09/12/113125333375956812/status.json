@@ -91,8 +91,8 @@
         },
         {
           "name": "Verification",
-          "value": "\u003ca href=\"https://ryanclough.lol/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eryanclough.lol/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
-          "verified_at": "2026-05-27T20:54:35.045Z"
+          "value": "\u003ca href=\"https://ryanclough.lol/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"\"\u003eryanclough.lol/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e",
+          "verified_at": "0001-01-01T00:00:00Z"
         }
       ],
       "bot": false,
